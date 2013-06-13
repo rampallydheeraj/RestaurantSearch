@@ -1,0 +1,378 @@
+Roscoe Village,Chinese,-1000,-25
+Uptown,All,1000,1000
+Uptown,American,-1000,-43
+Uptown,Italian,-1000,-39
+Uptown,Sandwiches,-1000,-18
+Uptown,Pizza,-1000,-49
+Uptown,Mexican,1000,1000
+Uptown,asian,-1000,-53
+Uptown,Chinese,1000,1000
+West Rogers Park,All,1000,1000
+West Rogers Park,American,-1000,-34
+West Rogers Park,Italian,-1000,-22
+West Rogers Park,Sandwiches,-1000,-21
+West Rogers Park,Pizza,-1000,-47
+West Rogers Park,Mexican,-1000,-46
+West Rogers Park,asian,-1000,-32
+West Rogers Park,Chinese,-1000,-40
+Wrigleyville,All,1,1
+Wrigleyville,American,1000,1000
+Wrigleyville,Italian,1000,1000
+Wrigleyville,Sandwiches,1000,1000
+Wrigleyville,Pizza,1000,1000
+Wrigleyville,Mexican,-1000,-49
+Wrigleyville,asian,1000,1000
+Wrigleyville,Chinese,1,1
+Northwest,All,1000,1000
+Northwest,American,1000,1000
+Northwest,Italian,1000,1000
+Northwest,Sandwiches,1000,1000
+Northwest,Pizza,-1000,-197
+Northwest,Mexican,1000,1000
+Northwest,asian,1000,1000
+Northwest,Chinese,-1000,-152
+Belmont Cragin/Hermosa,All,1000,1000
+Belmont Cragin/Hermosa,American,-1000,-57
+Belmont Cragin/Hermosa,Italian,1000,1000
+Belmont Cragin/Hermosa,Sandwiches,-1000,-37
+Belmont Cragin/Hermosa,Pizza,-1000,-59
+Belmont Cragin/Hermosa,Mexican,-1000,-109
+Belmont Cragin/Hermosa,asian,1000,1000
+Belmont Cragin/Hermosa,Chinese,-1000,-53
+Bucktown/Wicker Park,All,0.666666667,0.663993306
+Bucktown/Wicker Park,American,1000,1000
+Bucktown/Wicker Park,Italian,0.430676558,0.430029612
+Bucktown/Wicker Park,Sandwiches,1,0.570796965
+Bucktown/Wicker Park,Pizza,0.93235047,0.699692969
+Bucktown/Wicker Park,Mexican,1,0.693534516
+Bucktown/Wicker Park,asian,0.82948378,0.812333529
+Bucktown/Wicker Park,Chinese,0,0.301029996
+Dunning,All,-1000,-118
+Dunning,American,-1000,-25
+Dunning,Italian,-1000,-48
+Dunning,Sandwiches,-1000,-21
+Dunning,Pizza,-1000,-48
+Dunning,Mexican,-1000,-29
+Dunning,asian,-1000,-6
+Dunning,Chinese,-1000,-24
+East Village / Ukrainian Village,All,0.5,0.5
+East Village / Ukrainian Village,American,1,1
+East Village / Ukrainian Village,Italian,1,1
+East Village / Ukrainian Village,Sandwiches,-1000,-39
+East Village / Ukrainian Village,Pizza,-1000,-47
+East Village / Ukrainian Village,Mexican,0,0.301029996
+East Village / Ukrainian Village,asian,1000,1000
+East Village / Ukrainian Village,Chinese,-1000,-24
+Edgebrook,All,-1000,-82
+Edgebrook,American,-1000,-8
+Edgebrook,Italian,-1000,-34
+Edgebrook,Sandwiches,-1000,-14
+Edgebrook,Pizza,-1000,-35
+Edgebrook,Mexican,-1000,-26
+Edgebrook,asian,-1000,-6
+Edgebrook,Chinese,-1000,-31
+Edison Park,All,-1000,-79
+Edison Park,American,-1000,-11
+Edison Park,Italian,-1000,-38
+Edison Park,Sandwiches,-1000,-23
+Edison Park,Pizza,-1000,-40
+Edison Park,Mexican,-1000,-25
+Edison Park,asian,-1000,-4
+Edison Park,Chinese,-1000,-28
+Forest Glen / Sauganash,All,-1000,-68
+Forest Glen / Sauganash,American,-1000,-14
+Forest Glen / Sauganash,Italian,-1000,-24
+Forest Glen / Sauganash,Sandwiches,-1000,-6
+Forest Glen / Sauganash,Pizza,-1000,-28
+Forest Glen / Sauganash,Mexican,-1000,-32
+Forest Glen / Sauganash,asian,-1000,-11
+Forest Glen / Sauganash,Chinese,-1000,-26
+Galewood/Montclare,All,-1000,-193
+Galewood/Montclare,American,-1000,-47
+Galewood/Montclare,Italian,-1000,-67
+Galewood/Montclare,Sandwiches,-1000,-38
+Galewood/Montclare,Pizza,-1000,-72
+Galewood/Montclare,Mexican,-1000,-71
+Galewood/Montclare,asian,-1000,-6
+Galewood/Montclare,Chinese,-1000,-52
+Jefferson Park,All,1000,1000
+Jefferson Park,American,-1000,-25
+Jefferson Park,Italian,-1000,-47
+Jefferson Park,Sandwiches,-1000,-19
+Jefferson Park,Pizza,-1000,-35
+Jefferson Park,Mexican,-1000,-31
+Jefferson Park,asian,-1000,-8
+Jefferson Park,Chinese,-1000,-26
+Logan Square,All,0,0.381280876
+Logan Square,American,0.630929754,0.630929754
+Logan Square,Italian,0.907732438,0.756866041
+Logan Square,Sandwiches,1000,1000
+Logan Square,Pizza,0,0.333333333
+Logan Square,Mexican,1,0.38456484
+Logan Square,asian,0.753953169,0.753953169
+Logan Square,Chinese,1000,1000
+Norwood Park,All,1000,1000
+Norwood Park,American,-1000,-34
+Norwood Park,Italian,-1000,-41
+Norwood Park,Sandwiches,-1000,-19
+Norwood Park,Pizza,-1000,-40
+Norwood Park,Mexican,-1000,-27
+Norwood Park,asian,-1000,-6
+Norwood Park,Chinese,-1000,-28
+O'Hare,All,-1000,-125
+O'Hare,American,-1000,-17
+O'Hare,Italian,-1000,-56
+O'Hare,Sandwiches,-1000,-17
+O'Hare,Pizza,-1000,-61
+O'Hare,Mexican,-1000,-33
+O'Hare,asian,-1000,-7
+O'Hare,Chinese,-1000,-46
+Portage Park,All,1000,1000
+Portage Park,American,-1000,-47
+Portage Park,Italian,1000,1000
+Portage Park,Sandwiches,-1000,-24
+Portage Park,Pizza,-1000,-55
+Portage Park,Mexican,-1000,-47
+Portage Park,asian,1000,1000
+Portage Park,Chinese,-1000,-41
+West Town,All,0.630929754,0.630929754
+West Town,American,1000,1000
+West Town,Italian,-1000,-154
+West Town,Sandwiches,1000,1000
+West Town,Pizza,0.5,0.5
+West Town,Mexican,-1000,-148
+West Town,asian,0.727272727,0.70736156
+West Town,Chinese,-1000,-68
+South,All,1000,1000
+South,American,1000,1000
+South,Italian,0,0.329045647
+South,Sandwiches,1000,1000
+South,Pizza,1000,1000
+South,Mexican,1000,1000
+South,asian,-1000,-41
+South,Chinese,-1000,-166
+Beverly/Mt Greenwood,All,1000,1000
+Beverly/Mt Greenwood,American,1000,1000
+Beverly/Mt Greenwood,Italian,1000,1000
+Beverly/Mt Greenwood,Sandwiches,-1000,-29
+Beverly/Mt Greenwood,Pizza,-1000,-46
+Beverly/Mt Greenwood,Mexican,1000,1000
+Beverly/Mt Greenwood,asian,-1000,-11
+Beverly/Mt Greenwood,Chinese,-1000,-40
+Bridgeport/Sox,All,1000,1000
+Bridgeport/Sox,American,1000,1000
+Bridgeport/Sox,Italian,1000,1000
+Bridgeport/Sox,Sandwiches,-1000,-17
+Bridgeport/Sox,Pizza,1000,1000
+Bridgeport/Sox,Mexican,1000,1000
+Bridgeport/Sox,asian,-1000,-16
+Bridgeport/Sox,Chinese,-1000,-33
+Bronzeville/ Douglas,All,-1000,-90
+Bronzeville/ Douglas,American,-1000,-27
+Bronzeville/ Douglas,Italian,-1000,-17
+Bronzeville/ Douglas,Sandwiches,-1000,-21
+Bronzeville/ Douglas,Pizza,-1000,-22
+Bronzeville/ Douglas,Mexican,-1000,-23
+Bronzeville/ Douglas,asian,-1000,-14
+Bronzeville/ Douglas,Chinese,-1000,-27
+Calumet Heights,All,1000,1000
+Calumet Heights,American,1000,1000
+Calumet Heights,Italian,1000,1000
+Calumet Heights,Sandwiches,1000,1000
+Calumet Heights,Pizza,1000,1000
+Calumet Heights,Mexican,1000,1000
+Calumet Heights,asian,-1000,-1000
+Calumet Heights,Chinese,-1000,-10
+Chatham/Avalon Park,All,1000,1000
+Chatham/Avalon Park,American,1000,1000
+Chatham/Avalon Park,Italian,1000,1000
+Chatham/Avalon Park,Sandwiches,1000,1000
+Chatham/Avalon Park,Pizza,1000,1000
+Chatham/Avalon Park,Mexican,1000,1000
+Chatham/Avalon Park,asian,-1000,-2
+Chatham/Avalon Park,Chinese,-1000,-32
+Chinatown,All,0.818181818,0.664797955
+Chinatown,American,-1000,-6
+Chinatown,Italian,-1000,-26
+Chinatown,Sandwiches,-1000,-26
+Chinatown,Pizza,-1000,-29
+Chinatown,Mexican,-1000,-36
+Chinatown,asian,1,1
+Chinatown,Chinese,0.604840516,0.603417313
+Englewood/Auburn / Gresham,All,1000,1000
+Englewood/Auburn / Gresham,American,-1000,-26
+Englewood/Auburn / Gresham,Italian,1000,1000
+Englewood/Auburn / Gresham,Sandwiches,-1000,-21
+Englewood/Auburn / Gresham,Pizza,-1000,-38
+Englewood/Auburn / Gresham,Mexican,-1000,-35
+Englewood/Auburn / Gresham,asian,-1000,-2
+Englewood/Auburn / Gresham,Chinese,-1000,-37
+Far South Side,All,1000,1000
+Far South Side,American,1000,1000
+Far South Side,Italian,1000,1000
+Far South Side,Sandwiches,1000,1000
+Far South Side,Pizza,1000,1000
+Far South Side,Mexican,1000,1000
+Far South Side,asian,-1000,-17
+Far South Side,Chinese,-1000,-93
+Grand Blvd/Oakland / Fuller Park,All,-1000,-107
+Grand Blvd/Oakland / Fuller Park,American,-1000,-31
+Grand Blvd/Oakland / Fuller Park,Italian,-1000,-17
+Grand Blvd/Oakland / Fuller Park,Sandwiches,-1000,-21
+Grand Blvd/Oakland / Fuller Park,Pizza,-1000,-31
+Grand Blvd/Oakland / Fuller Park,Mexican,-1000,-18
+Grand Blvd/Oakland / Fuller Park,asian,-1000,-6
+Grand Blvd/Oakland / Fuller Park,Chinese,-1000,-25
+Hegewisch/East Side,All,-1000,-59
+Hegewisch/East Side,American,-1000,-8
+Hegewisch/East Side,Italian,-1000,-10
+Hegewisch/East Side,Sandwiches,-1000,-17
+Hegewisch/East Side,Pizza,-1000,-13
+All,Burgers,1000,1000
+All,Japanese,0.430676558,0.430676558
+All,Seafood,0.907732438,0.678598958
+All,Steaks,0.630929754,0.630929754
+All,Sushi,0.630929754,0.630929754
+All,Thai,1,0.697038676
+All,French,0.792973294,0.792973294
+Downtown,Contemporary,0,0.315464877
+Downtown,Burgers,1000,1000
+Downtown,Japanese,1,0.717008988
+Downtown,Seafood,1000,1000
+Downtown,Steaks,0,0.315464877
+Downtown,Sushi,0.769230769,0.769230769
+Downtown,Thai,1,0.707366903
+Downtown,French,1,0.619047619
+Grant Park Museums,Contemporary,1,1
+Grant Park Museums,Burgers,0,0.301029996
+Grant Park Museums,Japanese,0.630929754,0.552063534
+Grant Park Museums,Seafood,1,1
+Grant Park Museums,Steaks,0.92883457,0.92883457
+Grant Park Museums,Sushi,0.630929754,0.630929754
+Grant Park Museums,Thai,0.954545455,0.770920029
+Grant Park Museums,French,0.784709023,0.784709023
+Greektown,Contemporary,1000,1000
+Greektown,Burgers,-1000,-11
+Greektown,Japanese,-1000,-25
+Greektown,Seafood,1,0.570804791
+Greektown,Steaks,-1000,-3
+Greektown,Sushi,-1000,-26
+Greektown,Thai,-1000,-21
+Greektown,French,-1000,-24
+Loop,Contemporary,1,1
+Loop,Burgers,1,0.922336666
+Loop,Japanese,0,0.34602161
+Loop,Seafood,1,0.854581013
+Loop,Steaks,1,1
+Loop,Sushi,0,0.304638716
+Loop,Thai,0.954545455,0.770920029
+Loop,French,1,1
+Near South Side,Contemporary,-1000,-2
+Near South Side,Burgers,-1000,-14
+Near South Side,Japanese,-1000,-28
+Near South Side,Seafood,-1000,-37
+Near South Side,Steaks,-1000,-1
+Near South Side,Sushi,-1000,-28
+Near South Side,Thai,1,1
+Near South Side,French,-1000,-22
+South Loop,Contemporary,0,0.342626417
+South Loop,Burgers,0,0.386852807
+South Loop,Japanese,0.868913212,0.868913212
+South Loop,Seafood,1000,1000
+South Loop,Steaks,1000,1000
+South Loop,Sushi,0.868913212,0.868913212
+South Loop,Thai,1,1
+South Loop,French,0.5,0.5
+Warehouse District,Contemporary,1,1
+Warehouse District,Burgers,1000,1000
+Warehouse District,Japanese,0,0.386852807
+Warehouse District,Seafood,1000,1000
+Warehouse District,Steaks,1000,1000
+Warehouse District,Sushi,1000,1000
+Warehouse District,Thai,1,1
+Warehouse District,French,-1000,-28
+West Loop,Contemporary,0.430676558,0.381300123
+West Loop,Burgers,1000,1000
+West Loop,Japanese,0.829659886,0.780670653
+West Loop,Seafood,1000,1000
+West Loop,Steaks,1,1
+West Loop,Sushi,0.801269867,0.770686425
+West Loop,Thai,0.558191002,0.558191002
+West Loop,French,0.789102716,0.789102716
+Near North,Contemporary,0,0.333333333
+Near North,Burgers,0.858049905,0.794550103
+Near North,Japanese,0,0.344859907
+Near North,Seafood,1,1
+Near North,Steaks,1000,1000
+Near North,Sushi,1,0.540147991
+Near North,Thai,1,0.897808801
+Near North,French,0.5,0.427262519
+Gold Coast,Contemporary,1,0.697038676
+Gold Coast,Burgers,0,0.315464877
+Gold Coast,Japanese,1,1
+Gold Coast,Seafood,0.907732438,0.763212579
+Gold Coast,Steaks,0.789382056,0.675241491
+Gold Coast,Sushi,0.658405935,0.658405935
+Gold Coast,Thai,-1000,-32
+Gold Coast,French,1,0.687968121
+Lincoln Park,Contemporary,0.899344478,0.732998266
+Lincoln Park,Burgers,1,0.844595427
+Lincoln Park,Japanese,0.430676558,0.387412903
+Lincoln Park,Seafood,1,1
+Lincoln Park,Steaks,0.630929754,0.630929754
+Lincoln Park,Sushi,0,0.386852807
+Lincoln Park,Thai,0.620451039,0.620451039
+Lincoln Park,French,0.683709199,0.683709199
+Magnificent Mile,Contemporary,1,0.977265777
+Magnificent Mile,Burgers,0.544541246,0.544541246
+Magnificent Mile,Japanese,0.630929754,0.439227097
+Magnificent Mile,Seafood,1,0.61634736
+Magnificent Mile,Steaks,0.9,0.9
+Magnificent Mile,Sushi,0.630929754,0.447781376
+Magnificent Mile,Thai,-1000,-32
+Magnificent Mile,French,0.980254692,0.980254692
+Near North Side,Contemporary,0,0.315464877
+Near North Side,Burgers,1,0.553187562
+Near North Side,Japanese,0.8125,0.8125
+Near North Side,Seafood,0.909852489,0.724847813
+Near North Side,Steaks,0.674672319,0.674672319
+Near North Side,Sushi,0.737243538,0.735064162
+Near North Side,Thai,0.630929754,0.630929754
+Near North Side,French,0.832240797,0.60788854
+Old Town,Contemporary,1,1
+Old Town,Burgers,-1000,-38
+Old Town,Japanese,1,1
+Old Town,Seafood,1000,1000
+Old Town,Steaks,-1000,-34
+Old Town,Sushi,0.692441461,0.556771105
+Old Town,Thai,1000,1000
+Old Town,French,1,1
+River North,Contemporary,0.649647113,0.634763453
+River North,Burgers,1,0.931872534
+River North,Japanese,0.806548728,0.753477445
+River North,Seafood,0.917672608,0.911086059
+River North,Steaks,0.990575704,0.849099886
+River North,Sushi,0.500346403,0.530220209
+River North,Thai,1,1
+River North,French,0.883941368,0.883941368
+Rush & Division,Contemporary,0.5,0.413724312
+Rush & Division,Burgers,0,0.386852807
+Rush & Division,Japanese,1,1
+Rush & Division,Seafood,0.875,0.875
+Rush & Division,Steaks,0.770490373,0.764043432
+Rush & Division,Sushi,0.7,0.7
+Rush & Division,Thai,-1000,-32
+Rush & Division,French,1,0.67296639
+Sheffield/De Paul,Contemporary,0.832133527,0.778896058
+Sheffield/De Paul,Burgers,1,1
+Sheffield/De Paul,Japanese,0.630929754,0.490723142
+Sheffield/De Paul,Seafood,1,1
+Sheffield/De Paul,Steaks,0.5,0.5
+Sheffield/De Paul,Sushi,0.568910397,0.568910397
+Sheffield/De Paul,Thai,1,0.570804791
+Sheffield/De Paul,French,1,0.62962963
+Streeterville,Contemporary,0.785714286,0.771446337
+Streeterville,Burgers,0.704743803,0.704743803
+Streeterville,Japanese,0.630929754,0.396557912
+Streeterville,Seafood,0.973757694,0.798517643
+Streeterville,Steaks,1,0.795617602

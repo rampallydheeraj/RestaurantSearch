@@ -1,0 +1,165 @@
+Downtown,0
+Grant Park Museums,5
+Greektown,0
+Loop,0
+Near South Side,0
+South Loop,0
+Warehouse District,3
+West Loop,0
+Near North,0
+Gold Coast,0
+Lincoln Park,0
+Magnificent Mile,2
+Near North Side,0
+Old Town,0
+River North,0
+Rush & Division,0
+Sheffield/De Paul,3
+Streeterville,1
+North,0
+Albany Park,0
+Andersonville,0
+Boystown,2
+Devon Avenue,2
+Edgewater,0
+Irving Park/Avondale,1
+Lakeview,0
+Lakeview East,3
+Lincoln Square,0
+North Center,0
+North Park,1
+Ravenswood,0
+Rogers Park,0
+Roscoe Village,0
+Uptown,0
+West Rogers Park,1
+Wrigleyville,0
+Northwest,0
+Belmont Cragin/Hermosa,0
+Bucktown/Wicker Park,1
+Dunning,0
+East Village / Ukrainian Village,0
+Edgebrook,3
+Edison Park,0
+Forest Glen / Sauganash,3
+Galewood/Montclare,0
+Jefferson Park,0
+Logan Square,0
+Norwood Park,0
+O'Hare,1
+Portage Park,0
+West Town,0
+South,0
+Beverly/Mt Greenwood,1
+Bridgeport/Sox,0
+Bronzeville/ Douglas,1
+Calumet Heights,1
+Chatham/Avalon Park,0
+Chinatown,0
+Englewood/Auburn / Gresham,0
+Far South Side,0
+Grand Blvd/Oakland / Fuller Park,0
+Hegewisch/East Side,2
+Hyde Park/University Of Chicago,0
+Park Manor/Grand Crossing,0
+Pullman,0
+Roseland/Csu/ Washington Heights,1
+South Chicago,0
+South Shore,0
+Washington Park / Woodlawn,0
+Southwest,0
+Archer Height/Brighton/ Mc Kinley Park,0
+Ashburn/West Lawn / Ford City,0
+Back Of The Yards,0
+Lawndale,0
+Little Tuscany,0
+Marquette Park,2
+Midway,0
+Pilsen/Heart of Chicago/Little Village,0
+West,0
+Austin,0
+Garfield Park,3
+Humboldt Park,0
+Little Italy,0
+United Center,2
+Near North Suburbs,0
+Harwood Heights,8
+Lincolnwood,1
+Niles,6
+Norridge,6
+Park Ridge,9
+Schiller Park,0
+Skokie,0
+Near South Suburbs,0
+Alsip,2
+Blue Island,1
+Burbank,0
+Dolton,0
+Evergreen Park,7
+Riverdale,0
+Summit,0
+Near West Suburbs,0
+Cicero,2
+Elmwood Park,3
+Oak Park,0
+River Grove,1
+North Suburbs,0
+Bannockburn,0
+Deerfield,1
+Glenview,0
+Gurnee,0
+Libertyville,0
+Lincolnshire,0
+Morton Grove,0
+Mundelein,0
+Northbrook,0
+Prospect Heights,0
+North Shore Suburbs,0
+Evanston,2
+Glencoe,1
+Highland Park,0
+Highwood,0
+Lake Bluff,0
+Lake Forest,1
+Wilmette,0
+Winnetka,0
+Northwest Suburbs,0
+Algonquin,1
+Arlington Heights,0
+Barrington,0
+Buffalo Grove,0
+Crystal Lake,0
+Des Plaines,10
+Dundee,1
+Elk Grove,1
+Hanover Park,0
+Hoffman Estates,0
+Itasca,0
+Lake Zurich,1
+Mount Prospect,0
+Palatine,0
+Rolling Meadows,1
+Rosemont,2
+Schaumburg,0
+Streamwood,0
+Vernon Hills,0
+Wheeling,1
+South Suburbs,0
+Chicago Heights,0
+Crestwood,3
+Frankfort,1
+Hazel Crest,0
+Homewood,0
+Lansing,0
+Lockport,0
+Oak Forest,0
+Oak Lawn,6
+Orland Park,0
+Palos Heights/Hills/Park,1
+South Holland,3
+Tinley Park,0
+West Suburbs,0
+Addison,0
+Aurora,0
+Bartlett,0
+Batavia,0

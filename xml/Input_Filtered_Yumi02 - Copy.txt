@@ -1,0 +1,134 @@
+Downtown,French,1,0.619047619
+Grant Park Museums,Contemporary,1,1
+Grant Park Museums,Burgers,0,0.301029996
+Grant Park Museums,Japanese,0.630929754,0.552063534
+Grant Park Museums,Seafood,1,1
+Grant Park Museums,Steaks,0.92883457,0.92883457
+Grant Park Museums,Sushi,0.630929754,0.630929754
+Grant Park Museums,Thai,0.954545455,0.770920029
+Grant Park Museums,French,0.784709023,0.784709023
+Greektown,Contemporary,1000,1000
+Greektown,Burgers,-1000,-11
+Greektown,Japanese,-1000,-25
+Greektown,Seafood,1,0.570804791
+Greektown,Steaks,-1000,-3
+Greektown,Sushi,-1000,-26
+Greektown,Thai,-1000,-21
+Greektown,French,-1000,-24
+Loop,Contemporary,1,1
+Loop,Burgers,1,0.922336666
+Loop,Japanese,0,0.34602161
+Loop,Seafood,1,0.854581013
+Loop,Steaks,1,1
+Loop,Sushi,0,0.304638716
+Loop,Thai,0.954545455,0.770920029
+Loop,French,1,1
+Near South Side,Contemporary,-1000,-2
+Near South Side,Burgers,-1000,-14
+Near South Side,Japanese,-1000,-28
+Near South Side,Seafood,-1000,-37
+Near South Side,Steaks,-1000,-1
+Near South Side,Sushi,-1000,-28
+Near South Side,Thai,1,1
+Near South Side,French,-1000,-22
+South Loop,Contemporary,0,0.342626417
+South Loop,Burgers,0,0.386852807
+South Loop,Japanese,0.868913212,0.868913212
+South Loop,Seafood,1000,1000
+South Loop,Steaks,1000,1000
+South Loop,Sushi,0.868913212,0.868913212
+South Loop,Thai,1,1
+South Loop,French,0.5,0.5
+Warehouse District,Contemporary,1,1
+Warehouse District,Burgers,1000,1000
+Warehouse District,Japanese,0,0.386852807
+Warehouse District,Seafood,1000,1000
+Warehouse District,Steaks,1000,1000
+Warehouse District,Sushi,1000,1000
+Warehouse District,Thai,1,1
+Warehouse District,French,-1000,-28
+West Loop,Contemporary,0.430676558,0.381300123
+West Loop,Burgers,1000,1000
+West Loop,Japanese,0.829659886,0.780670653
+West Loop,Seafood,1000,1000
+West Loop,Steaks,1,1
+West Loop,Sushi,0.801269867,0.770686425
+West Loop,Thai,0.558191002,0.558191002
+West Loop,French,0.789102716,0.789102716
+Near North,Contemporary,0,0.333333333
+Near North,Burgers,0.858049905,0.794550103
+Near North,Japanese,0,0.344859907
+Near North,Seafood,1,1
+Near North,Steaks,1000,1000
+Near North,Sushi,1,0.540147991
+Near North,Thai,1,0.897808801
+Near North,French,0.5,0.427262519
+Gold Coast,Contemporary,1,0.697038676
+Gold Coast,Burgers,0,0.315464877
+Gold Coast,Japanese,1,1
+Gold Coast,Seafood,0.907732438,0.763212579
+Gold Coast,Steaks,0.789382056,0.675241491
+Gold Coast,Sushi,0.658405935,0.658405935
+Gold Coast,Thai,-1000,-32
+Gold Coast,French,1,0.687968121
+Lincoln Park,Contemporary,0.899344478,0.732998266
+Lincoln Park,Burgers,1,0.844595427
+Lincoln Park,Japanese,0.430676558,0.387412903
+Lincoln Park,Seafood,1,1
+Lincoln Park,Steaks,0.630929754,0.630929754
+Lincoln Park,Sushi,0,0.386852807
+Lincoln Park,Thai,0.620451039,0.620451039
+Lincoln Park,French,0.683709199,0.683709199
+Magnificent Mile,Contemporary,1,0.977265777
+Magnificent Mile,Burgers,0.544541246,0.544541246
+Magnificent Mile,Japanese,0.630929754,0.439227097
+Magnificent Mile,Seafood,1,0.61634736
+Magnificent Mile,Steaks,0.9,0.9
+Magnificent Mile,Sushi,0.630929754,0.447781376
+Magnificent Mile,Thai,-1000,-32
+Magnificent Mile,French,0.980254692,0.980254692
+Near North Side,Contemporary,0,0.315464877
+Near North Side,Burgers,1,0.553187562
+Near North Side,Japanese,0.8125,0.8125
+Near North Side,Seafood,0.909852489,0.724847813
+Near North Side,Steaks,0.674672319,0.674672319
+Near North Side,Sushi,0.737243538,0.735064162
+Near North Side,Thai,0.630929754,0.630929754
+Near North Side,French,0.832240797,0.60788854
+Old Town,Contemporary,1,1
+Old Town,Burgers,-1000,-38
+Old Town,Japanese,1,1
+Old Town,Seafood,1000,1000
+Old Town,Steaks,-1000,-34
+Old Town,Sushi,0.692441461,0.556771105
+Old Town,Thai,1000,1000
+Old Town,French,1,1
+River North,Contemporary,0.649647113,0.634763453
+River North,Burgers,1,0.931872534
+River North,Japanese,0.806548728,0.753477445
+River North,Seafood,0.917672608,0.911086059
+River North,Steaks,0.990575704,0.849099886
+River North,Sushi,0.500346403,0.530220209
+River North,Thai,1,1
+River North,French,0.883941368,0.883941368
+Rush & Division,Contemporary,0.5,0.413724312
+Rush & Division,Burgers,0,0.386852807
+Rush & Division,Japanese,1,1
+Rush & Division,Seafood,0.875,0.875
+Rush & Division,Steaks,0.770490373,0.764043432
+Rush & Division,Sushi,0.7,0.7
+Rush & Division,Thai,-1000,-32
+Rush & Division,French,1,0.67296639
+Sheffield/De Paul,Contemporary,0.832133527,0.778896058
+Sheffield/De Paul,Burgers,1,1
+Sheffield/De Paul,Japanese,0.630929754,0.490723142
+Sheffield/De Paul,Seafood,1,1
+Sheffield/De Paul,Steaks,0.5,0.5
+Sheffield/De Paul,Sushi,0.568910397,0.568910397
+Sheffield/De Paul,Thai,1,0.570804791
+Sheffield/De Paul,French,1,0.62962963
+Streeterville,Contemporary,0.785714286,0.771446337
+Streeterville,Burgers,0.704743803,0.704743803
+Streeterville,Japanese,0.630929754,0.396557912
+Streeterville,Seafood,0.973757694,0.798517643
+Streeterville,Steaks,1,0.795617602

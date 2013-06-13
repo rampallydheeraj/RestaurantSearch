@@ -1,0 +1,108 @@
+Norridge,Italian,0.504622510121872,0.698965821676031
+Norridge,Sandwiches,0.430676558073393,0.430676558073393
+Norridge,Pizza,1,1
+Norridge,Mexican,0,0.333333333333333
+Norridge,asian,0.517609097956378,0.640849359374563
+Norridge,Chinese,-1,-1
+Park Ridge,All,0,0
+Park Ridge,American,0,0
+Park Ridge,Italian,0,0
+Park Ridge,Sandwiches,0,0
+Park Ridge,Pizza,0,0
+Park Ridge,Mexican,0.564178688405436,0.564178688405436
+Park Ridge,asian,0,0
+Park Ridge,Chinese,-1,-1
+Schiller Park,All,-1,-1
+Schiller Park,American,-1,-1
+Schiller Park,Italian,-1,-1
+Schiller Park,Sandwiches,-1,-1
+Schiller Park,Pizza,-1,-1
+Schiller Park,Mexican,-1,-1
+Schiller Park,asian,-1,-1
+Schiller Park,Chinese,-1,-1
+Skokie,All,-1,-1
+Skokie,American,-1,-1
+Skokie,Italian,-1,-1
+Skokie,Sandwiches,-1,-1
+Skokie,Pizza,-1,-1
+Skokie,Mexican,-1,-1
+Skokie,asian,-1,-1
+Skokie,Chinese,-1,-1
+Near South Suburbs,All,-1,-1
+Near South Suburbs,American,-1,-1
+Near South Suburbs,Italian,-1,-1
+Near South Suburbs,Sandwiches,-1,-1
+Near South Suburbs,Pizza,-1,-1
+Near South Suburbs,Mexican,-1,-1
+Near South Suburbs,asian,-1,-1
+Near South Suburbs,Chinese,-1,-1
+Alsip,All,-1,-1
+Alsip,American,-1,-1
+Alsip,Italian,-1,-1
+Alsip,Sandwiches,-1,-1
+Alsip,Pizza,-1,-1
+Alsip,Mexican,-1,-1
+Alsip,asian,-1,-1
+Alsip,Chinese,-1,-1
+Blue Island,All,-1,-1
+Blue Island,American,-1,-1
+Blue Island,Italian,-1,-1
+Blue Island,Sandwiches,-1,-1
+Blue Island,Pizza,-1,-1
+Blue Island,Mexican,-1,-1
+Blue Island,asian,-1,-1
+Blue Island,Chinese,-1,-1
+Burbank,All,0,0
+Burbank,American,-1,-1
+Burbank,Italian,-1,-1
+Burbank,Sandwiches,-1,-1
+Burbank,Pizza,-1,-1
+Burbank,Mexican,-1,-1
+Burbank,asian,-1,-1
+Burbank,Chinese,-1,-1
+Dolton,All,-1,-1
+Dolton,American,-1,-1
+Dolton,Italian,-1,-1
+Dolton,Sandwiches,-1,-1
+Dolton,Pizza,-1,-1
+Dolton,Mexican,-1,-1
+Dolton,asian,-1,-1
+Dolton,Chinese,-1,-1
+Evergreen Park,All,-1,-1
+Evergreen Park,American,-1,-1
+Evergreen Park,Italian,-1,-1
+Evergreen Park,Sandwiches,-1,-1
+Evergreen Park,Pizza,-1,-1
+Evergreen Park,Mexican,-1,-1
+Evergreen Park,asian,-1,-1
+Evergreen Park,Chinese,-1,-1
+Riverdale,All,1,1
+Riverdale,American,0,0.315464876785729
+Riverdale,Italian,-1,-1
+Riverdale,Sandwiches,-1,-1
+Riverdale,Pizza,-1,-1
+Riverdale,Mexican,-1,-1
+Riverdale,asian,-1,-1
+Riverdale,Chinese,-1,-1
+Summit,All,0,0
+Summit,American,-1,-1
+Summit,Italian,-1,-1
+Summit,Sandwiches,-1,-1
+Summit,Pizza,-1,-1
+Summit,Mexican,-1,-1
+Summit,asian,-1,-1
+Summit,Chinese,-1,-1
+Near West Suburbs,All,-1,-1
+Near West Suburbs,American,-1,-1
+Near West Suburbs,Italian,-1,-1
+Near West Suburbs,Sandwiches,-1,-1
+Near West Suburbs,Pizza,-1,-1
+Near West Suburbs,Mexican,-1,-1
+Near West Suburbs,asian,-1,-1
+Near West Suburbs,Chinese,-1,-1
+Cicero,All,0,0.315464876785729
+Cicero,American,0,0
+Cicero,Italian,0.391955162341329,0.633172598654721
+Cicero,Sandwiches,0.722222222222222,0.722222222222222
+Cicero,Pizza,0.643260072354293,0.80886708330916
+Cicero,Mexican,-1,-1

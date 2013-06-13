@@ -1,0 +1,65 @@
+North,All,0,0
+North,American,0.0454545454545455,0.319118177876347
+North,Italian,0.248388383258269,0.441153594312314
+North,Sandwiches,0,0.386852807234542
+North,Pizza,0.692441461309548,0.692441461309548
+North,Mexican,0,0
+North,asian,0.433562618284221,0.597068575565847
+North,Chinese,-1,-1
+Albany Park,All,-1,-1
+Albany Park,American,-1,-1
+Albany Park,Italian,-1,-1
+Albany Park,Sandwiches,-1,-1
+Albany Park,Pizza,-1,-1
+Albany Park,Mexican,-1,-1
+Albany Park,asian,-1,-1
+Albany Park,Chinese,-1,-1
+Andersonville,All,-1,-1
+Andersonville,American,-1,-1
+Andersonville,Italian,-1,-1
+Andersonville,Sandwiches,-1,-1
+Andersonville,Pizza,-1,-1
+Andersonville,Mexican,-1,-1
+Andersonville,asian,-1,-1
+Andersonville,Chinese,-1,-1
+Boystown,All,0,0.31106221229017
+Boystown,American,0.943067655807339,0.943067655807339
+Boystown,Italian,1,1
+Boystown,Sandwiches,0,0.315464876785729
+Boystown,Pizza,1,1
+Boystown,Mexican,0,0.327377181150798
+Boystown,asian,0.7,0.7
+Boystown,Chinese,-1,-1
+Devon Avenue,All,-1,-1
+Devon Avenue,American,-1,-1
+Devon Avenue,Italian,-1,-1
+Devon Avenue,Sandwiches,-1,-1
+Devon Avenue,Pizza,-1,-1
+Devon Avenue,Mexican,-1,-1
+Devon Avenue,asian,-1,-1
+Devon Avenue,Chinese,-1,-1
+Edgewater,All,-1,-1
+Edgewater,American,-1,-1
+Edgewater,Italian,-1,-1
+Edgewater,Sandwiches,-1,-1
+Edgewater,Pizza,-1,-1
+Edgewater,Mexican,-1,-1
+Edgewater,asian,-1,-1
+Edgewater,Chinese,-1,-1
+Irving Park/Avondale,All,-1,-1
+Irving Park/Avondale,American,-1,-1
+Irving Park/Avondale,Italian,-1,-1
+Irving Park/Avondale,Sandwiches,-1,-1
+Irving Park/Avondale,Pizza,-1,-1
+Irving Park/Avondale,Mexican,-1,-1
+Irving Park/Avondale,asian,-1,-1
+Irving Park/Avondale,Chinese,-1,-1
+Lakeview,All,0,0.315464876785729
+Lakeview,American,0.361762627144034,0.491022948403643
+Lakeview,Italian,0.504622510121872,0.698965821676031
+Lakeview,Sandwiches,0.430676558073393,0.430676558073393
+Lakeview,Pizza,1,1
+Lakeview,Mexican,0,0.333333333333333
+Lakeview,asian,0.517609097956378,0.640849359374563
+Lakeview,Chinese,-1,-1
+Lakeview East,All,0,0

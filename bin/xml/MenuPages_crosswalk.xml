@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCrosswalk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Crosswalk>
+    <Name>Albany Park / North Park</Name>
+    <Key>albany-park-north-park</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Archer Hts / Brighton Pk</Name>
+    <Key>archer-hts-brighton-pk</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bridgeport-McKinley Park</Name>
+    <Key>bridgeport-mckinley-park</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bronzeville / Douglas</Name>
+    <Key>bronzeville-douglas</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Chicago Lawn / Ashburn</Name>
+    <Key>chicago-lawn-ashburn</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Chinatown / Pilsen</Name>
+    <Key>chinatown-pilsen</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Edgewater / Andersonville</Name>
+    <Key>edgewater-andersonville</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Far NW Chicago</Name>
+    <Key>far-nw-chicago</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Far SE Chicago</Name>
+    <Key>far-se-chicago</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Far SW Chicago</Name>
+    <Key>far-sw-chicago</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Gold Coast</Name>
+    <Key>gold-coast</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hermosa</Name>
+    <Key>hermosa</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Humboldt-Austin-Garfield</Name>
+    <Key>humboldt-austin-garfield</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hyde Park / Kenwood</Name>
+    <Key>hyde-park-kenwood</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Irving Park</Name>
+    <Key>irving-park</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lawndale</Name>
+    <Key>lawndale</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lincoln Park / DePaul</Name>
+    <Key>lincoln-park-depaul</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lincoln Sq / Ravenswood</Name>
+    <Key>lincoln-sq-ravenswood</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Logan Square / Avondale</Name>
+    <Key>logan-square-avondale</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Loop</Name>
+    <Key>loop</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Midway</Name>
+    <Key>midway</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Montclare / Cragin</Name>
+    <Key>montclare-cragin</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near West</Name>
+    <Key>near-west</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>New City / Chatham</Name>
+    <Key>new-city-chatham</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Old Town / Goose Island</Name>
+    <Key>old-town-goose-island</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Portage Park / Dunning</Name>
+    <Key>portage-park-dunning</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>River North</Name>
+    <Key>river-north</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Rogers Park / Devon Ave</Name>
+    <Key>rogers-park-devon-ave</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Roscoe Village / North Ctr</Name>
+    <Key>roscoe-village-north-ctr</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Loop / Near South</Name>
+    <Key>south-loop-near-south</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Shore / Woodlawn</Name>
+    <Key>south-shore-woodlawn</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Streeterville</Name>
+    <Key>streeterville</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Ukranian Village</Name>
+    <Key>ukranian-village</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Uptown</Name>
+    <Key>uptown</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Loop / Greektown</Name>
+    <Key>west-loop-greektown</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Wicker Park / Bucktown</Name>
+    <Key>wicker-park-bucktown</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Wrigleyville / Lakeview</Name>
+    <Key>wrigleyville-lakeview</Key>
+  </Crosswalk>
+</ArrayOfCrosswalk>

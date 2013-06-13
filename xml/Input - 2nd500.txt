@@ -1,0 +1,500 @@
+Hyde Park/University Of Chicago,American,-1,-1
+Hyde Park/University Of Chicago,Italian,0,0.386852807234542
+Hyde Park/University Of Chicago,Sandwiches,0,0
+Hyde Park/University Of Chicago,Pizza,1,1
+Hyde Park/University Of Chicago,Mexican,0,0.301029995663981
+Hyde Park/University Of Chicago,asian,0,0
+Hyde Park/University Of Chicago,Chinese,0.5,0.5
+Park Manor/Grand Crossing,All,1,1
+Park Manor/Grand Crossing,American,0,0
+Park Manor/Grand Crossing,Italian,0.5,0.5
+Park Manor/Grand Crossing,Sandwiches,0,0
+Park Manor/Grand Crossing,Pizza,0,0.356207187108022
+Park Manor/Grand Crossing,Mexican,1,1
+Park Manor/Grand Crossing,asian,-1,-1
+Park Manor/Grand Crossing,Chinese,-1,-1
+Pullman,All,0,0
+Pullman,American,0,0.356207187108022
+Pullman,Italian,0,0
+Pullman,Sandwiches,0,0
+Pullman,Pizza,0,0
+Pullman,Mexican,0.777777777777778,0.777777777777778
+Pullman,asian,0.887070455198913,0.887070455198913
+Pullman,Chinese,-1,-1
+Roseland/Csu/ Washington Heights,All,0.549842827163052,0.716721295307783
+Roseland/Csu/ Washington Heights,American,-1,-1
+Roseland/Csu/ Washington Heights,Italian,-1,-1
+Roseland/Csu/ Washington Heights,Sandwiches,-1,-1
+Roseland/Csu/ Washington Heights,Pizza,-1,-1
+Roseland/Csu/ Washington Heights,Mexican,-1,-1
+Roseland/Csu/ Washington Heights,asian,-1,-1
+Roseland/Csu/ Washington Heights,Chinese,-1,-1
+South Chicago,All,0,0.315464876785729
+South Chicago,American,0,0.356207187108022
+South Chicago,Italian,0.880122040336371,0.880122040336371
+South Chicago,Sandwiches,0,0
+South Chicago,Pizza,0,0
+South Chicago,Mexican,0,0.315464876785729
+South Chicago,asian,0.438349772880324,0.534252292107862
+South Chicago,Chinese,-1,-1
+South Shore,All,-1,-1
+South Shore,American,-1,-1
+South Shore,Italian,-1,-1
+South Shore,Sandwiches,-1,-1
+South Shore,Pizza,-1,-1
+South Shore,Mexican,-1,-1
+South Shore,asian,-1,-1
+South Shore,Chinese,-1,-1
+Washington Park / Woodlawn,All,0.420236570986963,0.667852873667208
+Washington Park / Woodlawn,American,0.922403738232479,0.961201869116239
+Washington Park / Woodlawn,Italian,0.6,0.733333333333333
+Washington Park / Woodlawn,Sandwiches,0.456672848795871,0.456672848795871
+Washington Park / Woodlawn,Pizza,1,1
+Washington Park / Woodlawn,Mexican,-1,-1
+Washington Park / Woodlawn,asian,-1,-1
+Washington Park / Woodlawn,Chinese,-1,-1
+Southwest,All,0.5,0.5
+Southwest,American,-1,-1
+Southwest,Italian,-1,-1
+Southwest,Sandwiches,-1,-1
+Southwest,Pizza,-1,-1
+Southwest,Mexican,-1,-1
+Southwest,asian,-1,-1
+Southwest,Chinese,-1,-1
+Archer Height/Brighton/ Mc Kinley Park,All,0,0.370508476500398
+Archer Height/Brighton/ Mc Kinley Park,American,0.33921728943257,0.431094859322968
+Archer Height/Brighton/ Mc Kinley Park,Italian,0.411764705882353,0.62129834535766
+Archer Height/Brighton/ Mc Kinley Park,Sandwiches,0,0
+Archer Height/Brighton/ Mc Kinley Park,Pizza,0.166139232228341,0.436250818908887
+Archer Height/Brighton/ Mc Kinley Park,Mexican,-1,-1
+Archer Height/Brighton/ Mc Kinley Park,asian,-1,-1
+Archer Height/Brighton/ Mc Kinley Park,Chinese,-1,-1
+Ashburn/West Lawn / Ford City,All,1,1
+Ashburn/West Lawn / Ford City,American,0,0.386852807234542
+Ashburn/West Lawn / Ford City,Italian,0.5,0.5
+Ashburn/West Lawn / Ford City,Sandwiches,0,0.386852807234542
+Ashburn/West Lawn / Ford City,Pizza,0,0
+Ashburn/West Lawn / Ford City,Mexican,0,0.301029995663981
+Ashburn/West Lawn / Ford City,asian,0.630929753571457,0.630929753571457
+Ashburn/West Lawn / Ford City,Chinese,-1,-1
+Back Of The Yards,All,0.630929753571457,0.630929753571457
+Back Of The Yards,American,0.630929753571457,0.630929753571457
+Back Of The Yards,Italian,0.446547102043933,0.670630598390121
+Back Of The Yards,Sandwiches,-1,-1
+Back Of The Yards,Pizza,-1,-1
+Back Of The Yards,Mexican,-1,-1
+Back Of The Yards,asian,-1,-1
+Back Of The Yards,Chinese,-1,-1
+Lawndale,All,0.886580942506778,0.960375171397213
+Lawndale,American,0.0547589362194393,0.358210371089251
+Lawndale,Italian,0.452337234757542,0.605138940531066
+Lawndale,Sandwiches,0.538461538461538,0.677398459537222
+Lawndale,Pizza,0.333333333333333,0.543643251190486
+Lawndale,Mexican,0,0.370628655402855
+Lawndale,asian,-1,-1
+Lawndale,Chinese,-1,-1
+Little Tuscany,All,0.875,0.916666666666667
+Little Tuscany,American,0.4375,0.625
+Little Tuscany,Italian,0.470147631530004,0.678511706487237
+Little Tuscany,Sandwiches,-1,-1
+Little Tuscany,Pizza,-1,-1
+Little Tuscany,Mexican,-1,-1
+Little Tuscany,asian,-1,-1
+Little Tuscany,Chinese,-1,-1
+Marquette Park,All,0,0.386852807234542
+Marquette Park,American,0,0.386852807234542
+Marquette Park,Italian,0.333333333333333,0.462284269078181
+Marquette Park,Sandwiches,0,0
+Marquette Park,Pizza,0.405518304508469,0.529331334139706
+Marquette Park,Mexican,0.833991319935306,0.921929696064618
+Marquette Park,asian,0,0.32904564689316
+Marquette Park,Chinese,0.82965988626375,0.82965988626375
+Midway,All,0.440658483801899,0.660397798180882
+Midway,American,0.394331095982161,0.519331095982161
+Midway,Italian,-1,-1
+Midway,Sandwiches,-1,-1
+Midway,Pizza,-1,-1
+Midway,Mexican,-1,-1
+Midway,asian,-1,-1
+Midway,Chinese,-1,-1
+Pilsen/Heart of Chicago/Little Village,All,0,0.301029995663981
+Pilsen/Heart of Chicago/Little Village,American,0,0
+Pilsen/Heart of Chicago/Little Village,Italian,0.172270623229357,0.385994935494171
+Pilsen/Heart of Chicago/Little Village,Sandwiches,0,0
+Pilsen/Heart of Chicago/Little Village,Pizza,0.671752673682476,0.777865099077759
+Pilsen/Heart of Chicago/Little Village,Mexican,0.797229407446029,0.899445513749687
+Pilsen/Heart of Chicago/Little Village,asian,0.333333333333333,0.591235204823028
+Pilsen/Heart of Chicago/Little Village,Chinese,-1,-1
+West,All,1,1
+West,American,0.262887397321441,0.43848822812543
+West,Italian,0.259861934848211,0.459369553496923
+West,Sandwiches,-1,-1
+West,Pizza,-1,-1
+West,Mexican,-1,-1
+West,asian,-1,-1
+West,Chinese,-1,-1
+Austin,All,0.905553859623938,0.905553859623938
+Austin,American,0.848029898529424,0.848029898529424
+Austin,Italian,1,1
+Austin,Sandwiches,1,1
+Austin,Pizza,0.630929753571457,0.630929753571457
+Austin,Mexican,0.5,0.5
+Austin,asian,-1,-1
+Austin,Chinese,-1,-1
+Garfield Park,All,0.708917808425432,0.763525671200738
+Garfield Park,American,0.353793041351743,0.613438879712459
+Garfield Park,Italian,0.633803359462909,0.772869458783499
+Garfield Park,Sandwiches,-1,-1
+Garfield Park,Pizza,-1,-1
+Garfield Park,Mexican,-1,-1
+Garfield Park,asian,-1,-1
+Garfield Park,Chinese,-1,-1
+Humboldt Park,All,0,0
+Humboldt Park,American,0.0454545454545455,0.319118177876347
+Humboldt Park,Italian,0.248388383258269,0.441153594312314
+Humboldt Park,Sandwiches,0,0.386852807234542
+Humboldt Park,Pizza,0.692441461309548,0.692441461309548
+Humboldt Park,Mexican,0,0
+Humboldt Park,asian,0.433562618284221,0.597068575565847
+Humboldt Park,Chinese,-1,-1
+Little Italy,All,-1,-1
+Little Italy,American,-1,-1
+Little Italy,Italian,-1,-1
+Little Italy,Sandwiches,-1,-1
+Little Italy,Pizza,-1,-1
+Little Italy,Mexican,-1,-1
+Little Italy,asian,-1,-1
+Little Italy,Chinese,-1,-1
+United Center,All,-1,-1
+United Center,American,-1,-1
+United Center,Italian,-1,-1
+United Center,Sandwiches,-1,-1
+United Center,Pizza,-1,-1
+United Center,Mexican,-1,-1
+United Center,asian,-1,-1
+United Center,Chinese,-1,-1
+Near North Suburbs,All,0,0.31106221229017
+Near North Suburbs,American,0.943067655807339,0.943067655807339
+Near North Suburbs,Italian,1,1
+Near North Suburbs,Sandwiches,0,0.315464876785729
+Near North Suburbs,Pizza,1,1
+Near North Suburbs,Mexican,0,0.327377181150798
+Near North Suburbs,asian,0.7,0.7
+Near North Suburbs,Chinese,-1,-1
+Harwood Heights,All,-1,-1
+Harwood Heights,American,-1,-1
+Harwood Heights,Italian,-1,-1
+Harwood Heights,Sandwiches,-1,-1
+Harwood Heights,Pizza,-1,-1
+Harwood Heights,Mexican,-1,-1
+Harwood Heights,asian,-1,-1
+Harwood Heights,Chinese,-1,-1
+Lincolnwood,All,-1,-1
+Lincolnwood,American,-1,-1
+Lincolnwood,Italian,-1,-1
+Lincolnwood,Sandwiches,-1,-1
+Lincolnwood,Pizza,-1,-1
+Lincolnwood,Mexican,-1,-1
+Lincolnwood,asian,-1,-1
+Lincolnwood,Chinese,-1,-1
+Niles,All,-1,-1
+Niles,American,-1,-1
+Niles,Italian,-1,-1
+Niles,Sandwiches,-1,-1
+Niles,Pizza,-1,-1
+Niles,Mexican,-1,-1
+Niles,asian,-1,-1
+Niles,Chinese,-1,-1
+Norridge,All,0,0.315464876785729
+Norridge,American,0.361762627144034,0.491022948403643
+Norridge,Italian,0.504622510121872,0.698965821676031
+Norridge,Sandwiches,0.430676558073393,0.430676558073393
+Norridge,Pizza,1,1
+Norridge,Mexican,0,0.333333333333333
+Norridge,asian,0.517609097956378,0.640849359374563
+Norridge,Chinese,-1,-1
+Park Ridge,All,0,0
+Park Ridge,American,0,0
+Park Ridge,Italian,0,0
+Park Ridge,Sandwiches,0,0
+Park Ridge,Pizza,0,0
+Park Ridge,Mexican,0.564178688405436,0.564178688405436
+Park Ridge,asian,0,0
+Park Ridge,Chinese,-1,-1
+Schiller Park,All,-1,-1
+Schiller Park,American,-1,-1
+Schiller Park,Italian,-1,-1
+Schiller Park,Sandwiches,-1,-1
+Schiller Park,Pizza,-1,-1
+Schiller Park,Mexican,-1,-1
+Schiller Park,asian,-1,-1
+Schiller Park,Chinese,-1,-1
+Skokie,All,-1,-1
+Skokie,American,-1,-1
+Skokie,Italian,-1,-1
+Skokie,Sandwiches,-1,-1
+Skokie,Pizza,-1,-1
+Skokie,Mexican,-1,-1
+Skokie,asian,-1,-1
+Skokie,Chinese,-1,-1
+Near South Suburbs,All,-1,-1
+Near South Suburbs,American,-1,-1
+Near South Suburbs,Italian,-1,-1
+Near South Suburbs,Sandwiches,-1,-1
+Near South Suburbs,Pizza,-1,-1
+Near South Suburbs,Mexican,-1,-1
+Near South Suburbs,asian,-1,-1
+Near South Suburbs,Chinese,-1,-1
+Alsip,All,-1,-1
+Alsip,American,-1,-1
+Alsip,Italian,-1,-1
+Alsip,Sandwiches,-1,-1
+Alsip,Pizza,-1,-1
+Alsip,Mexican,-1,-1
+Alsip,asian,-1,-1
+Alsip,Chinese,-1,-1
+Blue Island,All,-1,-1
+Blue Island,American,-1,-1
+Blue Island,Italian,-1,-1
+Blue Island,Sandwiches,-1,-1
+Blue Island,Pizza,-1,-1
+Blue Island,Mexican,-1,-1
+Blue Island,asian,-1,-1
+Blue Island,Chinese,-1,-1
+Burbank,All,0,0
+Burbank,American,-1,-1
+Burbank,Italian,-1,-1
+Burbank,Sandwiches,-1,-1
+Burbank,Pizza,-1,-1
+Burbank,Mexican,-1,-1
+Burbank,asian,-1,-1
+Burbank,Chinese,-1,-1
+Dolton,All,-1,-1
+Dolton,American,-1,-1
+Dolton,Italian,-1,-1
+Dolton,Sandwiches,-1,-1
+Dolton,Pizza,-1,-1
+Dolton,Mexican,-1,-1
+Dolton,asian,-1,-1
+Dolton,Chinese,-1,-1
+Evergreen Park,All,-1,-1
+Evergreen Park,American,-1,-1
+Evergreen Park,Italian,-1,-1
+Evergreen Park,Sandwiches,-1,-1
+Evergreen Park,Pizza,-1,-1
+Evergreen Park,Mexican,-1,-1
+Evergreen Park,asian,-1,-1
+Evergreen Park,Chinese,-1,-1
+Riverdale,All,1,1
+Riverdale,American,0,0.315464876785729
+Riverdale,Italian,-1,-1
+Riverdale,Sandwiches,-1,-1
+Riverdale,Pizza,-1,-1
+Riverdale,Mexican,-1,-1
+Riverdale,asian,-1,-1
+Riverdale,Chinese,-1,-1
+Summit,All,0,0
+Summit,American,-1,-1
+Summit,Italian,-1,-1
+Summit,Sandwiches,-1,-1
+Summit,Pizza,-1,-1
+Summit,Mexican,-1,-1
+Summit,asian,-1,-1
+Summit,Chinese,-1,-1
+Near West Suburbs,All,-1,-1
+Near West Suburbs,American,-1,-1
+Near West Suburbs,Italian,-1,-1
+Near West Suburbs,Sandwiches,-1,-1
+Near West Suburbs,Pizza,-1,-1
+Near West Suburbs,Mexican,-1,-1
+Near West Suburbs,asian,-1,-1
+Near West Suburbs,Chinese,-1,-1
+Cicero,All,0,0.315464876785729
+Cicero,American,0,0
+Cicero,Italian,0.391955162341329,0.633172598654721
+Cicero,Sandwiches,0.722222222222222,0.722222222222222
+Cicero,Pizza,0.643260072354293,0.80886708330916
+Cicero,Mexican,-1,-1
+Cicero,asian,-1,-1
+Cicero,Chinese,-1,-1
+Elmwood Park,All,-1,-1
+Elmwood Park,American,-1,-1
+Elmwood Park,Italian,-1,-1
+Elmwood Park,Sandwiches,-1,-1
+Elmwood Park,Pizza,-1,-1
+Elmwood Park,Mexican,-1,-1
+Elmwood Park,asian,-1,-1
+Elmwood Park,Chinese,-1,-1
+Oak Park,All,0,0.361501477491864
+Oak Park,American,-1,-1
+Oak Park,Italian,-1,-1
+Oak Park,Sandwiches,-1,-1
+Oak Park,Pizza,-1,-1
+Oak Park,Mexican,-1,-1
+Oak Park,asian,-1,-1
+Oak Park,Chinese,-1,-1
+River Grove,All,-1,-1
+River Grove,American,-1,-1
+River Grove,Italian,-1,-1
+River Grove,Sandwiches,-1,-1
+River Grove,Pizza,-1,-1
+River Grove,Mexican,-1,-1
+River Grove,asian,-1,-1
+River Grove,Chinese,-1,-1
+North Suburbs,All,-1,-1
+North Suburbs,American,-1,-1
+North Suburbs,Italian,-1,-1
+North Suburbs,Sandwiches,-1,-1
+North Suburbs,Pizza,-1,-1
+North Suburbs,Mexican,-1,-1
+North Suburbs,asian,-1,-1
+North Suburbs,Chinese,-1,-1
+Bannockburn,All,-1,-1
+Bannockburn,American,-1,-1
+Bannockburn,Italian,-1,-1
+Bannockburn,Sandwiches,-1,-1
+Bannockburn,Pizza,-1,-1
+Bannockburn,Mexican,-1,-1
+Bannockburn,asian,-1,-1
+Bannockburn,Chinese,-1,-1
+Deerfield,All,-1,-1
+Deerfield,American,-1,-1
+Deerfield,Italian,-1,-1
+Deerfield,Sandwiches,-1,-1
+Deerfield,Pizza,-1,-1
+Deerfield,Mexican,-1,-1
+Deerfield,asian,-1,-1
+Deerfield,Chinese,-1,-1
+Glenview,All,-1,-1
+Glenview,American,-1,-1
+Glenview,Italian,-1,-1
+Glenview,Sandwiches,-1,-1
+Glenview,Pizza,-1,-1
+Glenview,Mexican,-1,-1
+Glenview,asian,-1,-1
+Glenview,Chinese,-1,-1
+Gurnee,All,0,0
+Gurnee,American,-1,-1
+Gurnee,Italian,-1,-1
+Gurnee,Sandwiches,-1,-1
+Gurnee,Pizza,-1,-1
+Gurnee,Mexican,-1,-1
+Gurnee,asian,-1,-1
+Gurnee,Chinese,-1,-1
+Libertyville,All,-1,-1
+Libertyville,American,-1,-1
+Libertyville,Italian,-1,-1
+Libertyville,Sandwiches,-1,-1
+Libertyville,Pizza,-1,-1
+Libertyville,Mexican,-1,-1
+Libertyville,asian,-1,-1
+Libertyville,Chinese,-1,-1
+Lincolnshire,All,-1,-1
+Lincolnshire,American,-1,-1
+Lincolnshire,Italian,-1,-1
+Lincolnshire,Sandwiches,-1,-1
+Lincolnshire,Pizza,-1,-1
+Lincolnshire,Mexican,-1,-1
+Lincolnshire,asian,-1,-1
+Lincolnshire,Chinese,-1,-1
+Morton Grove,All,-1,-1
+Morton Grove,American,-1,-1
+Morton Grove,Italian,-1,-1
+Morton Grove,Sandwiches,-1,-1
+Morton Grove,Pizza,-1,-1
+Morton Grove,Mexican,-1,-1
+Morton Grove,asian,-1,-1
+Morton Grove,Chinese,-1,-1
+Mundelein,All,0.364335851993989,0.542536142673074
+Mundelein,American,-1,-1
+Mundelein,Italian,-1,-1
+Mundelein,Sandwiches,-1,-1
+Mundelein,Pizza,-1,-1
+Mundelein,Mexican,-1,-1
+Mundelein,asian,-1,-1
+Mundelein,Chinese,-1,-1
+Northbrook,All,0,0
+Northbrook,American,-1,-1
+Northbrook,Italian,-1,-1
+Northbrook,Sandwiches,-1,-1
+Northbrook,Pizza,-1,-1
+Northbrook,Mexican,-1,-1
+Northbrook,asian,-1,-1
+Northbrook,Chinese,-1,-1
+Prospect Heights,All,-1,-1
+Prospect Heights,American,-1,-1
+Prospect Heights,Italian,-1,-1
+Prospect Heights,Sandwiches,-1,-1
+Prospect Heights,Pizza,-1,-1
+Prospect Heights,Mexican,-1,-1
+Prospect Heights,asian,-1,-1
+Prospect Heights,Chinese,-1,-1
+North Shore Suburbs,All,-1,-1
+North Shore Suburbs,American,-1,-1
+North Shore Suburbs,Italian,-1,-1
+North Shore Suburbs,Sandwiches,-1,-1
+North Shore Suburbs,Pizza,-1,-1
+North Shore Suburbs,Mexican,-1,-1
+North Shore Suburbs,asian,-1,-1
+North Shore Suburbs,Chinese,-1,-1
+Evanston,All,-1,-1
+Evanston,American,-1,-1
+Evanston,Italian,-1,-1
+Evanston,Sandwiches,-1,-1
+Evanston,Pizza,-1,-1
+Evanston,Mexican,-1,-1
+Evanston,asian,-1,-1
+Evanston,Chinese,-1,-1
+Glencoe,All,-1,-1
+Glencoe,American,-1,-1
+Glencoe,Italian,-1,-1
+Glencoe,Sandwiches,-1,-1
+Glencoe,Pizza,-1,-1
+Glencoe,Mexican,-1,-1
+Glencoe,asian,-1,-1
+Glencoe,Chinese,-1,-1
+Highland Park,All,-1,-1
+Highland Park,American,-1,-1
+Highland Park,Italian,-1,-1
+Highland Park,Sandwiches,-1,-1
+Highland Park,Pizza,-1,-1
+Highland Park,Mexican,-1,-1
+Highland Park,asian,-1,-1
+Highland Park,Chinese,-1,-1
+Highwood,All,0.272110655207983,0.506657432164955
+Highwood,American,-1,-1
+Highwood,Italian,-1,-1
+Highwood,Sandwiches,-1,-1
+Highwood,Pizza,-1,-1
+Highwood,Mexican,-1,-1
+Highwood,asian,-1,-1
+Highwood,Chinese,0.451981321122453,0.619466665205349
+Lake Bluff,All,-1,-1
+Lake Bluff,American,-1,-1
+Lake Bluff,Italian,-1,-1
+Lake Bluff,Sandwiches,-1,-1
+Lake Bluff,Pizza,-1,-1
+Lake Bluff,Mexican,-1,-1
+Lake Bluff,asian,-1,-1
+Lake Bluff,Chinese,-1,-1
+Lake Forest,All,-1,-1
+Lake Forest,American,-1,-1
+Lake Forest,Italian,-1,-1
+Lake Forest,Sandwiches,-1,-1
+Lake Forest,Pizza,-1,-1
+Lake Forest,Mexican,-1,-1
+Lake Forest,asian,-1,-1
+Lake Forest,Chinese,-1,-1
+Wilmette,All,-1,-1
+Wilmette,American,-1,-1
+Wilmette,Italian,-1,-1
+Wilmette,Sandwiches,-1,-1
+Wilmette,Pizza,-1,-1
+Wilmette,Mexican,-1,-1
+Wilmette,asian,-1,-1
+Wilmette,Chinese,-1,-1
+Winnetka,All,-1,-1
+Winnetka,American,-1,-1
+Winnetka,Italian,-1,-1
+Winnetka,Sandwiches,-1,-1
+Winnetka,Pizza,-1,-1

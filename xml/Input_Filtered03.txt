@@ -1,0 +1,162 @@
+Near South Side,Burgers,-1,-1
+Near South Side,Japanese,-1,-1
+Near South Side,Seafood,-1,-1
+Near South Side,Steaks,-1,-1
+Near South Side,Sushi,-1,-1
+Near South Side,Thai,-1,-1
+Near South Side,French,-1,-1
+South Loop,Contemporary,0,0.342626417
+South Loop,Burgers,-1,-1
+South Loop,Japanese,0.944039506,0.944039506
+South Loop,Seafood,-1,-1
+South Loop,Steaks,-1,-1
+South Loop,Sushi,0.944039506,0.944039506
+South Loop,Thai,-1,-1
+South Loop,French,-1,-1
+Warehouse District,Contemporary,-1,-1
+Warehouse District,Burgers,-1,-1
+Warehouse District,Japanese,0,0.386852807
+Warehouse District,Seafood,-1,-1
+Warehouse District,Steaks,-1,-1
+Warehouse District,Sushi,0,0.356207187
+Warehouse District,Thai,-1,-1
+Warehouse District,French,-1,-1
+West Loop,Contemporary,0.430676558,0.381300123
+West Loop,Burgers,-1,-1
+West Loop,Japanese,0.825177252,0.769188169
+West Loop,Seafood,-1,-1
+West Loop,Steaks,-1,-1
+West Loop,Sushi,0.805752502,0.769425867
+West Loop,Thai,0.562019357,0.562019357
+West Loop,French,-1,-1
+Near North,Contemporary,0,0.315464877
+Near North,Burgers,1,0.897800116
+Near North,Japanese,0,0.355370764
+Near North,Seafood,-1,-1
+Near North,Steaks,-1,-1
+Near North,Sushi,0.5,0.398994176
+Near North,Thai,0.630929754,0.574604304
+Near North,French,0.5,0.427262519
+Gold Coast,Contemporary,1,0.697038676
+Gold Coast,Burgers,-1,-1
+Gold Coast,Japanese,-1,-1
+Gold Coast,Seafood,-1,-1
+Gold Coast,Steaks,0.820157015,0.74039788
+Gold Coast,Sushi,-1,-1
+Gold Coast,Thai,-1,-1
+Gold Coast,French,1,0.671194208
+Lincoln Park,Contemporary,0.899344478,0.732998266
+Lincoln Park,Burgers,1,0.854098304
+Lincoln Park,Japanese,0.430676558,0.379471366
+Lincoln Park,Seafood,-1,-1
+Lincoln Park,Steaks,-1,-1
+Lincoln Park,Sushi,0,0.386852807
+Lincoln Park,Thai,-1,-1
+Lincoln Park,French,0.700356083,0.700356083
+Magnificent Mile,Contemporary,1,0.976207358
+Magnificent Mile,Burgers,1,0.540422243
+Magnificent Mile,Japanese,-1,-1
+Magnificent Mile,Seafood,0.764705882,0.676289262
+Magnificent Mile,Steaks,0.785714286,0.785714286
+Magnificent Mile,Sushi,-1,-1
+Magnificent Mile,Thai,-1,-1
+Magnificent Mile,French,0.960295398,0.960295398
+Near North Side,Contemporary,0,0.315464877
+Near North Side,Burgers,1,0.754741123
+Near North Side,Japanese,1,1
+Near North Side,Seafood,0.893998296,0.728505038
+Near North Side,Steaks,0.829202967,0.816380381
+Near North Side,Sushi,0.59159271,0.59159271
+Near North Side,Thai,-1,-1
+Near North Side,French,0.794960974,0.65327497
+Old Town,Contemporary,1,1
+Old Town,Burgers,-1,-1
+Old Town,Japanese,1,1
+Old Town,Seafood,-1,-1
+Old Town,Steaks,-1,-1
+Old Town,Sushi,0.751918277,0.751918277
+Old Town,Thai,-1,-1
+Old Town,French,-1,-1
+River North,Contemporary,0.696360831,0.675291886
+River North,Burgers,1,0.928467465
+River North,Japanese,0.806548728,0.758268073
+River North,Seafood,0.940072359,0.931482472
+River North,Steaks,0.980447724,0.814454707
+River North,Sushi,0.484287749,0.520679788
+River North,Thai,-1,-1
+River North,French,0.901614079,0.901614079
+Rush & Division,Contemporary,0.5,0.407561763
+Rush & Division,Burgers,-1,-1
+Rush & Division,Japanese,-1,-1
+Rush & Division,Seafood,-1,-1
+Rush & Division,Steaks,0.725698317,0.701105626
+Rush & Division,Sushi,-1,-1
+Rush & Division,Thai,-1,-1
+Rush & Division,French,1,0.641634627
+Sheffield/De Paul,Contemporary,0.82470729,0.765594686
+Sheffield/De Paul,Burgers,0.848029899,0.731354907
+Sheffield/De Paul,Japanese,0.5,0.5
+Sheffield/De Paul,Seafood,-1,-1
+Sheffield/De Paul,Steaks,-1,-1
+Sheffield/De Paul,Sushi,0,0.315464877
+Sheffield/De Paul,Thai,-1,-1
+Sheffield/De Paul,French,1,0.649122807
+Streeterville,Contemporary,0.766666667,0.754754129
+Streeterville,Burgers,0.549098658,0.549098658
+Streeterville,Japanese,-1,-1
+Streeterville,Seafood,0.784953864,0.784953864
+Streeterville,Steaks,1,0.717008988
+Streeterville,Sushi,-1,-1
+Streeterville,Thai,-1,-1
+Streeterville,French,1,1
+North,Contemporary,0.824823556,0.801797311
+North,Burgers,-1,-1
+North,Japanese,1,1
+North,Seafood,-1,-1
+North,Steaks,-1,-1
+North,Sushi,0,0
+North,Thai,0.703165758,0.695629682
+North,French,1,0.907633551
+Albany Park,Contemporary,-1,-1
+Albany Park,Burgers,-1,-1
+Albany Park,Japanese,-1,-1
+Albany Park,Seafood,-1,-1
+Albany Park,Steaks,-1,-1
+Albany Park,Sushi,-1,-1
+Albany Park,Thai,-1,-1
+Albany Park,French,-1,-1
+Andersonville,Contemporary,-1,-1
+Andersonville,Burgers,-1,-1
+Andersonville,Japanese,-1,-1
+Andersonville,Seafood,-1,-1
+Andersonville,Steaks,-1,-1
+Andersonville,Sushi,-1,-1
+Andersonville,Thai,-1,-1
+Andersonville,French,-1,-1
+Boystown,Contemporary,0.5,0.5
+Boystown,Burgers,-1,-1
+Boystown,Japanese,0.666666667,0.615588817
+Boystown,Seafood,-1,-1
+Boystown,Steaks,-1,-1
+Boystown,Sushi,0,0
+Boystown,Thai,1,0.789291403
+Boystown,French,0.93199836,0.826991222
+Devon Avenue,Contemporary,-1,-1
+Devon Avenue,Burgers,-1,-1
+Devon Avenue,Japanese,-1,-1
+Devon Avenue,Seafood,-1,-1
+Devon Avenue,Steaks,-1,-1
+Devon Avenue,Sushi,-1,-1
+Devon Avenue,Thai,-1,-1
+Devon Avenue,French,-1,-1
+Edgewater,Contemporary,-1,-1
+Edgewater,Burgers,-1,-1
+Edgewater,Japanese,-1,-1
+Edgewater,Seafood,-1,-1
+Edgewater,Steaks,-1,-1
+Edgewater,Sushi,-1,-1
+Edgewater,Thai,-1,-1
+Edgewater,French,-1,-1
+Irving Park/Avondale,Contemporary,-1,-1
+Irving Park/Avondale,Burgers,-1,-1
+Irving Park/Avondale,Japanese,-1,-1

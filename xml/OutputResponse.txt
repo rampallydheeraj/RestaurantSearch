@@ -1,0 +1,198 @@
+Query location was Downtown done in 32
+  Metromix requests done in 6 seconds
+  1 requests
+  DexKnows requests done in 2 seconds
+  4 requests
+  Yelp requests done in 20 seconds
+  4 requests
+  ChicagoReader requests done in 5 seconds
+  10 requests
+  Menuism requests done in 5 seconds
+  4 requests
+  MenuPages requests done in 8 seconds
+  4 requests
+  Yahoo requests done in 13 seconds
+  8 requests
+  CitySearch requests done in 11 seconds
+  4 requests
+  google requests 4
+Query location was Lakeview done in 16
+  Metromix requests done in 5 seconds
+  1 requests
+  DexKnows requests done in 0 seconds
+  1 requests
+  Yelp requests done in 5 seconds
+  1 requests
+  ChicagoReader requests done in 12 seconds
+  5 requests
+  Menuism requests done in 1 seconds
+  1 requests
+  MenuPages requests done in 1 seconds
+  1 requests
+  Yahoo requests done in 2 seconds
+  2 requests
+  CitySearch requests done in 2 seconds
+  1 requests
+  google requests 8
+Query location was Lakeview East done in 13
+  Metromix requests done in 7 seconds
+  1 requests
+  DexKnows requests done in 1 seconds
+  1 requests
+  Yelp requests done in 11 seconds
+  1 requests
+  ChicagoReader requests done in 7 seconds
+  5 requests
+  Menuism requests done in 8 seconds
+  1 requests
+  MenuPages requests done in 1 seconds
+  1 requests
+  Yahoo requests done in 3 seconds
+  2 requests
+  CitySearch requests done in 2 seconds
+  1 requests
+  google requests 5
+Query location was Lakeview East done in 12
+  Metromix requests done in 4 seconds
+  1 requests
+  DexKnows requests done in 1 seconds
+  1 requests
+  Yelp requests done in 9 seconds
+  1 requests
+  ChicagoReader requests done in 3 seconds
+  4 requests
+  Menuism requests done in 1 seconds
+  1 requests
+  MenuPages requests done in 1 seconds
+  1 requests
+  Yahoo requests done in 3 seconds
+  2 requests
+  CitySearch requests done in 2 seconds
+  1 requests
+  google requests 9
+Query location was Edgewater done in 20
+  Metromix requests done in 6 seconds
+  1 requests
+  DexKnows requests done in 1 seconds
+  1 requests
+  Yelp requests done in 16 seconds
+  1 requests
+  ChicagoReader requests done in 9 seconds
+  4 requests
+  Menuism requests done in 2 seconds
+  1 requests
+  MenuPages requests done in 3 seconds
+  2 requests
+  Yahoo requests done in 4 seconds
+  2 requests
+  CitySearch requests done in 3 seconds
+  1 requests
+  google requests 10
+Query location was Downtown done in 30
+  Metromix requests done in 5 seconds
+  1 requests
+  DexKnows requests done in 4 seconds
+  4 requests
+  Yelp requests done in 18 seconds
+  4 requests
+  ChicagoReader requests done in 16 seconds
+  9 requests
+  Menuism requests done in 4 seconds
+  4 requests
+  MenuPages requests done in 6 seconds
+  4 requests
+  Yahoo requests done in 12 seconds
+  8 requests
+  CitySearch requests done in 10 seconds
+  4 requests
+  google requests 4
+Query location was Downtown done in 32
+  Metromix requests done in 6 seconds
+  1 requests
+  DexKnows requests done in 3 seconds
+  4 requests
+  Yelp requests done in 20 seconds
+  4 requests
+  ChicagoReader requests done in 21 seconds
+  9 requests
+  Menuism requests done in 5 seconds
+  4 requests
+  MenuPages requests done in 7 seconds
+  4 requests
+  Yahoo requests done in 15 seconds
+  8 requests
+  CitySearch requests done in 14 seconds
+  4 requests
+  google requests 4
+Query location was Dunning done in 6
+  Metromix requests done in 4 seconds
+  1 requests
+  DexKnows requests done in 1 seconds
+  1 requests
+  Yelp requests done in 5 seconds
+  1 requests
+  ChicagoReader requests done in 2 seconds
+  1 requests
+  Menuism requests done in 1 seconds
+  1 requests
+  MenuPages requests done in 1 seconds
+  1 requests
+  Yahoo requests done in 4 seconds
+  5 requests
+  CitySearch requests done in 3 seconds
+  1 requests
+  google requests 0
+Query location was Dunning done in 5
+  Metromix requests done in 3 seconds
+  1 requests
+  DexKnows requests done in 1 seconds
+  1 requests
+  Yelp requests done in 4 seconds
+  1 requests
+  ChicagoReader requests done in 1 seconds
+  1 requests
+  Menuism requests done in 1 seconds
+  1 requests
+  MenuPages requests done in 0 seconds
+  1 requests
+  Yahoo requests done in 4 seconds
+  5 requests
+  CitySearch requests done in 1 seconds
+  1 requests
+  google requests 0
+Query location was Dunning done in 8
+  Metromix requests done in 3 seconds
+  1 requests
+  DexKnows requests done in 1 seconds
+  1 requests
+  Yelp requests done in 7 seconds
+  1 requests
+  ChicagoReader requests done in 2 seconds
+  1 requests
+  Menuism requests done in 1 seconds
+  1 requests
+  MenuPages requests done in 1 seconds
+  1 requests
+  Yahoo requests done in 5 seconds
+  5 requests
+  CitySearch requests done in 2 seconds
+  1 requests
+  google requests 0
+Query location was Dunning done in 8
+  Metromix requests done in 3 seconds
+  1 requests
+  DexKnows requests done in 1 seconds
+  1 requests
+  Yelp requests done in 7 seconds
+  1 requests
+  ChicagoReader requests done in 1 seconds
+  1 requests
+  Menuism requests done in 1 seconds
+  1 requests
+  MenuPages requests done in 1 seconds
+  1 requests
+  Yahoo requests done in 4 seconds
+  5 requests
+  CitySearch requests done in 2 seconds
+  1 requests
+  google requests 0

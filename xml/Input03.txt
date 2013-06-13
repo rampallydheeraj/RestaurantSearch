@@ -1,0 +1,108 @@
+Lakeview East,American,0,0
+Lakeview East,Italian,0,0
+Lakeview East,Sandwiches,0,0
+Lakeview East,Pizza,0,0
+Lakeview East,Mexican,0.564178688405436,0.564178688405436
+Lakeview East,asian,0,0
+Lakeview East,Chinese,-1,-1
+Lincoln Square,All,-1,-1
+Lincoln Square,American,-1,-1
+Lincoln Square,Italian,-1,-1
+Lincoln Square,Sandwiches,-1,-1
+Lincoln Square,Pizza,-1,-1
+Lincoln Square,Mexican,-1,-1
+Lincoln Square,asian,-1,-1
+Lincoln Square,Chinese,-1,-1
+North Center,All,-1,-1
+North Center,American,-1,-1
+North Center,Italian,-1,-1
+North Center,Sandwiches,-1,-1
+North Center,Pizza,-1,-1
+North Center,Mexican,-1,-1
+North Center,asian,-1,-1
+North Center,Chinese,-1,-1
+North Park,All,-1,-1
+North Park,American,-1,-1
+North Park,Italian,-1,-1
+North Park,Sandwiches,-1,-1
+North Park,Pizza,-1,-1
+North Park,Mexican,-1,-1
+North Park,asian,-1,-1
+North Park,Chinese,-1,-1
+Ravenswood,All,-1,-1
+Ravenswood,American,-1,-1
+Ravenswood,Italian,-1,-1
+Ravenswood,Sandwiches,-1,-1
+Ravenswood,Pizza,-1,-1
+Ravenswood,Mexican,-1,-1
+Ravenswood,asian,-1,-1
+Ravenswood,Chinese,-1,-1
+Rogers Park,All,-1,-1
+Rogers Park,American,-1,-1
+Rogers Park,Italian,-1,-1
+Rogers Park,Sandwiches,-1,-1
+Rogers Park,Pizza,-1,-1
+Rogers Park,Mexican,-1,-1
+Rogers Park,asian,-1,-1
+Rogers Park,Chinese,-1,-1
+Roscoe Village,All,0,0
+Roscoe Village,American,-1,-1
+Roscoe Village,Italian,-1,-1
+Roscoe Village,Sandwiches,-1,-1
+Roscoe Village,Pizza,-1,-1
+Roscoe Village,Mexican,-1,-1
+Roscoe Village,asian,-1,-1
+Roscoe Village,Chinese,-1,-1
+Uptown,All,-1,-1
+Uptown,American,-1,-1
+Uptown,Italian,-1,-1
+Uptown,Sandwiches,-1,-1
+Uptown,Pizza,-1,-1
+Uptown,Mexican,-1,-1
+Uptown,asian,-1,-1
+Uptown,Chinese,-1,-1
+West Rogers Park,All,-1,-1
+West Rogers Park,American,-1,-1
+West Rogers Park,Italian,-1,-1
+West Rogers Park,Sandwiches,-1,-1
+West Rogers Park,Pizza,-1,-1
+West Rogers Park,Mexican,-1,-1
+West Rogers Park,asian,-1,-1
+West Rogers Park,Chinese,-1,-1
+Wrigleyville,All,1,1
+Wrigleyville,American,0,0.315464876785729
+Wrigleyville,Italian,-1,-1
+Wrigleyville,Sandwiches,-1,-1
+Wrigleyville,Pizza,-1,-1
+Wrigleyville,Mexican,-1,-1
+Wrigleyville,asian,-1,-1
+Wrigleyville,Chinese,-1,-1
+Northwest,All,0,0
+Northwest,American,-1,-1
+Northwest,Italian,-1,-1
+Northwest,Sandwiches,-1,-1
+Northwest,Pizza,-1,-1
+Northwest,Mexican,-1,-1
+Northwest,asian,-1,-1
+Northwest,Chinese,-1,-1
+Belmont Cragin/Hermosa,All,-1,-1
+Belmont Cragin/Hermosa,American,-1,-1
+Belmont Cragin/Hermosa,Italian,-1,-1
+Belmont Cragin/Hermosa,Sandwiches,-1,-1
+Belmont Cragin/Hermosa,Pizza,-1,-1
+Belmont Cragin/Hermosa,Mexican,-1,-1
+Belmont Cragin/Hermosa,asian,-1,-1
+Belmont Cragin/Hermosa,Chinese,-1,-1
+Bucktown/Wicker Park,All,0,0.315464876785729
+Bucktown/Wicker Park,American,0,0
+Bucktown/Wicker Park,Italian,0.391955162341329,0.633172598654721
+Bucktown/Wicker Park,Sandwiches,0.722222222222222,0.722222222222222
+Bucktown/Wicker Park,Pizza,0.643260072354293,0.80886708330916
+Bucktown/Wicker Park,Mexican,-1,-1
+Bucktown/Wicker Park,asian,-1,-1
+Bucktown/Wicker Park,Chinese,-1,-1
+Dunning,All,-1,-1
+Dunning,American,-1,-1
+Dunning,Italian,-1,-1
+Dunning,Sandwiches,-1,-1
+Dunning,Pizza,-1,-1

@@ -1,0 +1,56 @@
+C:\Documents and Settings\badr\My Documents\Visual Studio 2008\yumi_web\yumi\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\badr\My Documents\Visual Studio 2008\yumi_web\yumi\bin\yumi.dll
+C:\Documents and Settings\badr\My Documents\Visual Studio 2008\yumi_web\yumi\bin\yumi.pdb
+C:\Documents and Settings\badr\My Documents\Visual Studio 2008\yumi_web\yumi\obj\Release\yumi.dll
+C:\Documents and Settings\badr\My Documents\Visual Studio 2008\yumi_web\yumi\obj\Release\yumi.pdb
+C:\Users\owner\Downloads\yumi_web\yumi\bin2\yumi.dll
+C:\Users\owner\Downloads\yumi_web\yumi\bin2\yumi.pdb
+C:\Users\owner\Downloads\yumi_web - PreThread\yumi\bin\yumi.dll
+C:\Users\owner\Downloads\yumi_web - PreThread\yumi\bin\yumi.pdb
+C:\Users\owner\Downloads\yumi_web - PreThread\yumi\obj\Release\ResolveAssemblyReference.cache
+C:\Users\owner\Downloads\yumi_web - PreThread\yumi\obj\Release\yumi.Properties.Resources.resources
+C:\Users\owner\Downloads\yumi_web - PreThread\yumi\obj\Release\GenerateResource.read.1.tlog
+C:\Users\owner\Downloads\yumi_web - PreThread\yumi\obj\Release\GenerateResource.write.1.tlog
+C:\Users\owner\Downloads\yumi_web - PreThread\yumi\obj\Release\yumi.dll
+C:\Users\owner\Downloads\yumi_web - PreThread\yumi\obj\Release\yumi.pdb
+C:\Users\owner\Downloads\yumi_web - PreThread\yumi\bin\EeekSoft.Linq.dll
+C:\Users\owner\Downloads\yumi_web - PreThread\yumi\bin\EeekSoft.Linq.pdb
+C:\Users\owner\Downloads\yumi_web - BeforeThreadRevision\yumi\bin\yumi.dll
+C:\Users\owner\Downloads\yumi_web - BeforeThreadRevision\yumi\bin\yumi.pdb
+C:\Users\owner\Downloads\yumi_web - BeforeThreadRevision\yumi\bin\EeekSoft.Linq.dll
+C:\Users\owner\Downloads\yumi_web - BeforeThreadRevision\yumi\bin\EeekSoft.Linq.pdb
+C:\Users\owner\Downloads\yumi_web - BeforeThreadRevision\yumi\obj\Release\ResolveAssemblyReference.cache
+C:\Users\owner\Downloads\yumi_web - BeforeThreadRevision\yumi\obj\Release\yumi.Properties.Resources.resources
+C:\Users\owner\Downloads\yumi_web - BeforeThreadRevision\yumi\obj\Release\GenerateResource.read.1.tlog
+C:\Users\owner\Downloads\yumi_web - BeforeThreadRevision\yumi\obj\Release\GenerateResource.write.1.tlog
+C:\Users\owner\Downloads\yumi_web - BeforeThreadRevision\yumi\obj\Release\yumi.dll
+C:\Users\owner\Downloads\yumi_web - BeforeThreadRevision\yumi\obj\Release\yumi.pdb
+C:\Users\owner\Downloads\yumi_web - BeforeCleanup020311\yumi\bin\yumi.dll
+C:\Users\owner\Downloads\yumi_web - BeforeCleanup020311\yumi\bin\yumi.pdb
+C:\Users\owner\Downloads\yumi_web - BeforeCleanup020311\yumi\bin\EeekSoft.Linq.dll
+C:\Users\owner\Downloads\yumi_web - BeforeCleanup020311\yumi\bin\EeekSoft.Linq.pdb
+C:\Users\owner\Downloads\yumi_web - BeforeCleanup020311\yumi\obj\Release\ResolveAssemblyReference.cache
+C:\Users\owner\Downloads\yumi_web - BeforeCleanup020311\yumi\obj\Release\yumi.Properties.Resources.resources
+C:\Users\owner\Downloads\yumi_web - BeforeCleanup020311\yumi\obj\Release\GenerateResource.read.1.tlog
+C:\Users\owner\Downloads\yumi_web - BeforeCleanup020311\yumi\obj\Release\GenerateResource.write.1.tlog
+C:\Users\owner\Downloads\yumi_web - BeforeCleanup020311\yumi\obj\Release\yumi.dll
+C:\Users\owner\Downloads\yumi_web - BeforeCleanup020311\yumi\obj\Release\yumi.pdb
+C:\Users\owner\Downloads\yumi_web\yumi\bin\yumi.dll
+C:\Users\owner\Downloads\yumi_web\yumi\bin\yumi.pdb
+C:\Users\owner\Downloads\yumi_web\yumi\bin\EeekSoft.Linq.dll
+C:\Users\owner\Downloads\yumi_web\yumi\bin\EeekSoft.Linq.pdb
+C:\Users\owner\Downloads\yumi_web\yumi\obj\Release\ResolveAssemblyReference.cache
+C:\Users\owner\Downloads\yumi_web\yumi\obj\Release\yumi.Properties.Resources.resources
+C:\Users\owner\Downloads\yumi_web\yumi\obj\Release\GenerateResource.read.1.tlog
+C:\Users\owner\Downloads\yumi_web\yumi\obj\Release\GenerateResource.write.1.tlog
+C:\Users\owner\Downloads\yumi_web\yumi\obj\Release\yumi.dll
+C:\Users\owner\Downloads\yumi_web\yumi\obj\Release\yumi.pdb
+C:\Users\Chinni\Desktop\QP\yumi_source-code.rar\yumi_source-code\yumi_web\yumi\bin\yumi.dll
+C:\Users\Chinni\Desktop\QP\yumi_source-code.rar\yumi_source-code\yumi_web\yumi\bin\yumi.pdb
+C:\Users\Chinni\Desktop\QP\yumi_source-code.rar\yumi_source-code\yumi_web\yumi\bin\EeekSoft.Linq.pdb
+C:\Users\Chinni\Desktop\QP\yumi_source-code.rar\yumi_source-code\yumi_web\yumi\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Chinni\Desktop\QP\yumi_source-code.rar\yumi_source-code\yumi_web\yumi\obj\Release\yumi.Properties.Resources.resources
+C:\Users\Chinni\Desktop\QP\yumi_source-code.rar\yumi_source-code\yumi_web\yumi\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Chinni\Desktop\QP\yumi_source-code.rar\yumi_source-code\yumi_web\yumi\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Chinni\Desktop\QP\yumi_source-code.rar\yumi_source-code\yumi_web\yumi\obj\Release\yumi.dll
+C:\Users\Chinni\Desktop\QP\yumi_source-code.rar\yumi_source-code\yumi_web\yumi\obj\Release\yumi.pdb

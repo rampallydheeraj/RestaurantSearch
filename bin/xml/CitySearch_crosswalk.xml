@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCrosswalk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Crosswalk>
+    <Name>Archer Heights</Name>
+    <Key>4486</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Auburn Gresham</Name>
+    <Key>4489</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Austin</Name>
+    <Key>4490</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Avalon Park</Name>
+    <Key>4515</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Back of the Yards</Name>
+    <Key>4517</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Beverly</Name>
+    <Key>4519</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bridgeport</Name>
+    <Key>4520</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Brighton Park</Name>
+    <Key>4521</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bucktown</Name>
+    <Key>4522</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Burnside</Name>
+    <Key>4523</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Calumet Heights</Name>
+    <Key>4524</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Central</Name>
+    <Key>93590</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Chatham</Name>
+    <Key>4526</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Chicago Lawn</Name>
+    <Key>113610</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Clearing</Name>
+    <Key>4077</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Cragin</Name>
+    <Key>4078</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>DePaul</Name>
+    <Key>4079</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Douglas</Name>
+    <Key>4080</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Dunning</Name>
+    <Key>4081</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>East Garfield Park</Name>
+    <Key>4082</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>East Side</Name>
+    <Key>4083</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Edison Park</Name>
+    <Key>4085</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Englewood</Name>
+    <Key>4086</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Far southwest Side</Name>
+    <Key>86519</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Fuller Park</Name>
+    <Key>4111</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Gage Park</Name>
+    <Key>4112</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Galewood</Name>
+    <Key>4113</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Garfield Ridge</Name>
+    <Key>4114</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Goose Island</Name>
+    <Key>4115</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Grand Boulevard</Name>
+    <Key>4116</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Greektown</Name>
+    <Key>4118</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hegewisch</Name>
+    <Key>4120</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hermosa</Name>
+    <Key>4121</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Humboldt Park</Name>
+    <Key>4122</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hyde Park</Name>
+    <Key>4150</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Irving Park</Name>
+    <Key>4151</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Jefferson Park</Name>
+    <Key>4152</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Jeffrey Manor</Name>
+    <Key>4153</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Kenwood</Name>
+    <Key>4154</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lakeview</Name>
+    <Key>4155</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lincoln Park</Name>
+    <Key>4156</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Little Village</Name>
+    <Key>113612</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Logan Square</Name>
+    <Key>4159</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Loop</Name>
+    <Key>4160</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>McKinley Park</Name>
+    <Key>4161</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Montclare</Name>
+    <Key>4162</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Mount Greenwood</Name>
+    <Key>4190</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near North Side</Name>
+    <Key>4192</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near South Side</Name>
+    <Key>4193</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near West Side</Name>
+    <Key>4194</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>North Center</Name>
+    <Key>4196</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>North Lawndale</Name>
+    <Key>4197</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>North Park</Name>
+    <Key>4275</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Norwood Park</Name>
+    <Key>4276</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>O'Hare</Name>
+    <Key>4277</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Oakland</Name>
+    <Key>4278</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Pilsen</Name>
+    <Key>113601</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Pullman</Name>
+    <Key>4281</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Riverdale</Name>
+    <Key>4284</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Roscoe Village</Name>
+    <Key>4350</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Roseland</Name>
+    <Key>4351</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Scottsdale</Name>
+    <Key>4353</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Chicago</Name>
+    <Key>4354</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Deering</Name>
+    <Key>4355</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Shore</Name>
+    <Key>4356</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Side</Name>
+    <Key>101953</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Southwest Side</Name>
+    <Key>105341</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Tri-Taylor</Name>
+    <Key>4357</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Ukranian Village</Name>
+    <Key>4358</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>University Village / Little Italy</Name>
+    <Key>4359</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Uptown</Name>
+    <Key>4360</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Washington Heights / Brainerd</Name>
+    <Key>4361</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Washington Park</Name>
+    <Key>4223</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Elsdon</Name>
+    <Key>4224</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Englewood</Name>
+    <Key>4225</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Garfield Park</Name>
+    <Key>4226</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Lawn</Name>
+    <Key>4227</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Pullman</Name>
+    <Key>4228</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Rogers Park</Name>
+    <Key>113603</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Rogers Park (West Ridge)</Name>
+    <Key>4229</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Side</Name>
+    <Key>93115</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Town</Name>
+    <Key>4230</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Woodlawn</Name>
+    <Key>4232</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Wrigleyville</Name>
+    <Key>14506</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Chicago Lawn (Marquette Park)</Name>
+    <Key>4527</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Greater Grand Crossing</Name>
+    <Key>4117</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Cicero</Name>
+    <Key>20083</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Evergreen Park</Name>
+    <Key>20110</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Armour Square</Name>
+    <Key>113609</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Norridge (City)</Name>
+    <Key>4195</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Park Ridge</Name>
+    <Key>20066</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Oak Park</Name>
+    <Key>20087</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Dolton</Name>
+    <Key>20108</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Forest Glen</Name>
+    <Key>4087</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Sauganash</Name>
+    <Key>4352</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Oak Lawn</Name>
+    <Key>20149</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Alsip</Name>
+    <Key>20105</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Far North Side</Name>
+    <Key>101969</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lincoln Square</Name>
+    <Key>4157</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lincolnwood</Name>
+    <Key>20046</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Burbank</Name>
+    <Key>20127</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Wicker Park</Name>
+    <Key>4231</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Edgewater</Name>
+    <Key>4084</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Ravenswood</Name>
+    <Key>4282</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Calumet Park</Name>
+    <Key>20107</Key>
+  </Crosswalk>
+</ArrayOfCrosswalk>

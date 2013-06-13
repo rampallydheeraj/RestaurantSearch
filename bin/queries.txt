@@ -1,0 +1,83 @@
+pizza|little Italy|1
+carpaccio|Loop|3
+tapas|Loop|4
+pot sticker|chinatown|2
+falafel|andersonville|3
+kabob|andersonville|3
+steak|loop|4
+burrito|bridgeport|2
+shish kabob|greektown|3
+gyros|greektown|4
+eggroll|rogers park|2
+chow mein|chinatown|3
+shrimp|austin|2
+fajita|rogers park|3
+maxican|bridgeport|2
+italian|little italy|2
+chinese|chinatown|3
+chinese|greektown|3
+greek|greektown|4
+persian|andersonville|3
+middle eastern|andersonville|3
+middle eastern|rogers park|3
+vietnamese|uptown|4
+vietnamese|uptown|3
+mediteranian|lakeview|3
+american|austin|2
+italian|bridgeport|2
+thai|logan square|3
+pizza|little Italy|
+carpaccio|Loop|
+tapas|Loop|
+pot sticker|chinatown|
+falafel|andersonville|
+kabob|andersonville|
+steak|loop|
+burrito|bridgeport|
+shish kabob|greektown|
+gyros|greektown|
+eggroll|rogers park|
+chow mein|chinatown|
+shrimp|austin|
+fajita|rogers park|
+Little Italy|italian|
+Andersonville|scandinavian|
+Lincoln Park|Thai|
+Depaul|italian|
+West Ridge|indian|
+Lakeview|japanese|
+Loop|steakhouse|
+AlbanyPark|turkish|
+Chinatown|chinese|
+Greektown|greek|
+West Park|ukranian|
+Garfield Ridge|polish|
+Central|mexican|
+All|falafel|
+All|burritos|
+All|pizza|
+All|gyros|
+All|hamburger|
+All|hot dog|
+All|paella|
+All|swedish|
+All|ethiopian|
+All|tapas|
+All|sushi|
+All|chinese|
+All|seafood|
+All|carpacio|4
+All|sushi|3
+All|paella|5
+All|briyani|3
+All|pizza|1
+All|japanese|4
+All|steakhouse|5
+All|middle eastern|2
+All|thai|3
+All|french|5
+All|chinese|2
+All|burger|1
+All|vietnamese|3
+All|italian|4
+All|brazilian|5

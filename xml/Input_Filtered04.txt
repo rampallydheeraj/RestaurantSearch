@@ -1,0 +1,298 @@
+Irving Park/Avondale,Seafood,-1,-1
+Irving Park/Avondale,Steaks,-1,-1
+Irving Park/Avondale,Sushi,-1,-1
+Irving Park/Avondale,Thai,-1,-1
+Irving Park/Avondale,French,-1,-1
+Lakeview,Contemporary,0.86053381,0.85507044
+Lakeview,Burgers,-1,-1
+Lakeview,Japanese,0.630929754,0.463152324
+Lakeview,Seafood,-1,-1
+Lakeview,Steaks,-1,-1
+Lakeview,Sushi,-1,-1
+Lakeview,Thai,0.870735744,0.870735744
+Lakeview,French,0.926376484,0.926376484
+Lakeview East,Contemporary,0.5,0.449908678
+Lakeview East,Burgers,-1,-1
+Lakeview East,Japanese,1,0.614030614
+Lakeview East,Seafood,-1,-1
+Lakeview East,Steaks,-1,-1
+Lakeview East,Sushi,-1,-1
+Lakeview East,Thai,0.897117154,0.860127586
+Lakeview East,French,0.926376484,0.825465349
+Lincoln Square,Contemporary,-1,-1
+Lincoln Square,Burgers,-1,-1
+Lincoln Square,Japanese,-1,-1
+Lincoln Square,Seafood,-1,-1
+Lincoln Square,Steaks,-1,-1
+Lincoln Square,Sushi,-1,-1
+Lincoln Square,Thai,-1,-1
+Lincoln Square,French,-1,-1
+North Center,Contemporary,-1,-1
+North Center,Burgers,-1,-1
+North Center,Japanese,-1,-1
+North Center,Seafood,-1,-1
+North Center,Steaks,-1,-1
+North Center,Sushi,-1,-1
+North Center,Thai,-1,-1
+North Center,French,-1,-1
+North Park,Contemporary,-1,-1
+North Park,Burgers,-1,-1
+North Park,Japanese,-1,-1
+North Park,Seafood,-1,-1
+North Park,Steaks,-1,-1
+North Park,Sushi,-1,-1
+North Park,Thai,-1,-1
+North Park,French,-1,-1
+Ravenswood,Contemporary,-1,-1
+Ravenswood,Burgers,-1,-1
+Ravenswood,Japanese,-1,-1
+Ravenswood,Seafood,-1,-1
+Ravenswood,Steaks,-1,-1
+Ravenswood,Sushi,-1,-1
+Ravenswood,Thai,-1,-1
+Ravenswood,French,-1,-1
+Rogers Park,Contemporary,-1,-1
+Rogers Park,Burgers,-1,-1
+Rogers Park,Japanese,-1,-1
+Rogers Park,Seafood,-1,-1
+Rogers Park,Steaks,-1,-1
+Rogers Park,Sushi,-1,-1
+Rogers Park,Thai,-1,-1
+Rogers Park,French,-1,-1
+Roscoe Village,Contemporary,-1,-1
+Roscoe Village,Burgers,-1,-1
+Roscoe Village,Japanese,-1,-1
+Roscoe Village,Seafood,-1,-1
+Roscoe Village,Steaks,-1,-1
+Roscoe Village,Sushi,-1,-1
+Roscoe Village,Thai,-1,-1
+Roscoe Village,French,-1,-1
+Uptown,Contemporary,-1,-1
+Uptown,Burgers,-1,-1
+Uptown,Japanese,-1,-1
+Uptown,Seafood,-1,-1
+Uptown,Steaks,-1,-1
+Uptown,Sushi,-1,-1
+Uptown,Thai,-1,-1
+Uptown,French,-1,-1
+West Rogers Park,Contemporary,-1,-1
+West Rogers Park,Burgers,-1,-1
+West Rogers Park,Japanese,-1,-1
+West Rogers Park,Seafood,-1,-1
+West Rogers Park,Steaks,-1,-1
+West Rogers Park,Sushi,-1,-1
+West Rogers Park,Thai,-1,-1
+West Rogers Park,French,-1,-1
+Wrigleyville,Contemporary,-1,-1
+Wrigleyville,Burgers,-1,-1
+Wrigleyville,Japanese,-1,-1
+Wrigleyville,Seafood,-1,-1
+Wrigleyville,Steaks,-1,-1
+Wrigleyville,Sushi,-1,-1
+Wrigleyville,Thai,-1,-1
+Wrigleyville,French,-1,-1
+Northwest,Contemporary,-1,-1
+Northwest,Burgers,-1,-1
+Northwest,Japanese,-1,-1
+Northwest,Seafood,-1,-1
+Northwest,Steaks,-1,-1
+Northwest,Sushi,-1,-1
+Northwest,Thai,-1,-1
+Northwest,French,-1,-1
+Belmont Cragin/Hermosa,Contemporary,-1,-1
+Belmont Cragin/Hermosa,Burgers,-1,-1
+Belmont Cragin/Hermosa,Japanese,-1,-1
+Belmont Cragin/Hermosa,Seafood,-1,-1
+Belmont Cragin/Hermosa,Steaks,-1,-1
+Belmont Cragin/Hermosa,Sushi,-1,-1
+Belmont Cragin/Hermosa,Thai,-1,-1
+Belmont Cragin/Hermosa,French,-1,-1
+Bucktown/Wicker Park,Contemporary,1,1
+Bucktown/Wicker Park,Burgers,-1,-1
+Bucktown/Wicker Park,Japanese,1,0.964730167
+Bucktown/Wicker Park,Seafood,-1,-1
+Bucktown/Wicker Park,Steaks,-1,-1
+Bucktown/Wicker Park,Sushi,0.982243927,0.915726851
+Bucktown/Wicker Park,Thai,-1,-1
+Bucktown/Wicker Park,French,-1,-1
+Dunning,Contemporary,-1,-1
+Dunning,Burgers,-1,-1
+Dunning,Japanese,-1,-1
+Dunning,Seafood,-1,-1
+Dunning,Steaks,-1,-1
+Dunning,Sushi,-1,-1
+Dunning,Thai,-1,-1
+Dunning,French,-1,-1
+East Village / Ukrainian Village,Contemporary,-1,-1
+East Village / Ukrainian Village,Burgers,-1,-1
+East Village / Ukrainian Village,Japanese,-1,-1
+East Village / Ukrainian Village,Seafood,-1,-1
+East Village / Ukrainian Village,Steaks,-1,-1
+East Village / Ukrainian Village,Sushi,-1,-1
+East Village / Ukrainian Village,Thai,-1,-1
+East Village / Ukrainian Village,French,-1,-1
+Edgebrook,Contemporary,-1,-1
+Edgebrook,Burgers,-1,-1
+Edgebrook,Japanese,-1,-1
+Edgebrook,Seafood,-1,-1
+Edgebrook,Steaks,-1,-1
+Edgebrook,Sushi,-1,-1
+Edgebrook,Thai,-1,-1
+Edgebrook,French,-1,-1
+Edison Park,Contemporary,-1,-1
+Edison Park,Burgers,-1,-1
+Edison Park,Japanese,-1,-1
+Edison Park,Seafood,-1,-1
+Edison Park,Steaks,-1,-1
+Edison Park,Sushi,-1,-1
+Edison Park,Thai,-1,-1
+Edison Park,French,-1,-1
+Forest Glen / Sauganash,Contemporary,-1,-1
+Forest Glen / Sauganash,Burgers,-1,-1
+Forest Glen / Sauganash,Japanese,-1,-1
+Forest Glen / Sauganash,Seafood,-1,-1
+Forest Glen / Sauganash,Steaks,-1,-1
+Forest Glen / Sauganash,Sushi,-1,-1
+Forest Glen / Sauganash,Thai,-1,-1
+Forest Glen / Sauganash,French,-1,-1
+Galewood/Montclare,Contemporary,-1,-1
+Galewood/Montclare,Burgers,-1,-1
+Galewood/Montclare,Japanese,-1,-1
+Galewood/Montclare,Seafood,-1,-1
+Galewood/Montclare,Steaks,-1,-1
+Galewood/Montclare,Sushi,-1,-1
+Galewood/Montclare,Thai,-1,-1
+Galewood/Montclare,French,-1,-1
+Jefferson Park,Contemporary,-1,-1
+Jefferson Park,Burgers,-1,-1
+Jefferson Park,Japanese,-1,-1
+Jefferson Park,Seafood,-1,-1
+Jefferson Park,Steaks,-1,-1
+Jefferson Park,Sushi,-1,-1
+Jefferson Park,Thai,-1,-1
+Jefferson Park,French,-1,-1
+Logan Square,Contemporary,0.722222222,0.722222222
+Logan Square,Burgers,-1,-1
+Logan Square,Japanese,0.759569397,0.760674602
+Logan Square,Seafood,-1,-1
+Logan Square,Steaks,-1,-1
+Logan Square,Sushi,0.76048588,0.7459411
+Logan Square,Thai,-1,-1
+Logan Square,French,-1,-1
+Norwood Park,Contemporary,-1,-1
+Norwood Park,Burgers,-1,-1
+Norwood Park,Japanese,-1,-1
+Norwood Park,Seafood,-1,-1
+Norwood Park,Steaks,-1,-1
+Norwood Park,Sushi,-1,-1
+Norwood Park,Thai,-1,-1
+Norwood Park,French,-1,-1
+O'Hare,Contemporary,-1,-1
+O'Hare,Burgers,-1,-1
+O'Hare,Japanese,-1,-1
+O'Hare,Seafood,-1,-1
+O'Hare,Steaks,-1,-1
+O'Hare,Sushi,-1,-1
+O'Hare,Thai,-1,-1
+O'Hare,French,-1,-1
+Portage Park,Contemporary,-1,-1
+Portage Park,Burgers,-1,-1
+Portage Park,Japanese,-1,-1
+Portage Park,Seafood,-1,-1
+Portage Park,Steaks,-1,-1
+Portage Park,Sushi,-1,-1
+Portage Park,Thai,-1,-1
+Portage Park,French,-1,-1
+West Town,Contemporary,-1,-1
+West Town,Burgers,-1,-1
+West Town,Japanese,1,0.63212105
+West Town,Seafood,-1,-1
+West Town,Steaks,-1,-1
+West Town,Sushi,0.700356083,0.700356083
+West Town,Thai,-1,-1
+West Town,French,-1,-1
+South,Contemporary,-1,-1
+South,Burgers,-1,-1
+South,Japanese,-1,-1
+South,Seafood,-1,-1
+South,Steaks,-1,-1
+South,Sushi,-1,-1
+South,Thai,-1,-1
+South,French,-1,-1
+Beverly/Mt Greenwood,Contemporary,-1,-1
+Beverly/Mt Greenwood,Burgers,-1,-1
+Beverly/Mt Greenwood,Japanese,-1,-1
+Beverly/Mt Greenwood,Seafood,-1,-1
+Beverly/Mt Greenwood,Steaks,-1,-1
+Beverly/Mt Greenwood,Sushi,-1,-1
+Beverly/Mt Greenwood,Thai,-1,-1
+Beverly/Mt Greenwood,French,-1,-1
+Bridgeport/Sox,Contemporary,-1,-1
+Bridgeport/Sox,Burgers,-1,-1
+Bridgeport/Sox,Japanese,-1,-1
+Bridgeport/Sox,Seafood,-1,-1
+Bridgeport/Sox,Steaks,-1,-1
+Bridgeport/Sox,Sushi,-1,-1
+Bridgeport/Sox,Thai,-1,-1
+Bridgeport/Sox,French,-1,-1
+Bronzeville/ Douglas,Contemporary,-1,-1
+Bronzeville/ Douglas,Burgers,-1,-1
+Bronzeville/ Douglas,Japanese,-1,-1
+Bronzeville/ Douglas,Seafood,-1,-1
+Bronzeville/ Douglas,Steaks,-1,-1
+Bronzeville/ Douglas,Sushi,-1,-1
+Bronzeville/ Douglas,Thai,-1,-1
+Bronzeville/ Douglas,French,-1,-1
+Calumet Heights,Contemporary,-1,-1
+Calumet Heights,Burgers,-1,-1
+Calumet Heights,Japanese,-1,-1
+Calumet Heights,Seafood,-1,-1
+Calumet Heights,Steaks,-1,-1
+Calumet Heights,Sushi,-1,-1
+Calumet Heights,Thai,-1,-1
+Calumet Heights,French,-1,-1
+Chatham/Avalon Park,Contemporary,-1,-1
+Chatham/Avalon Park,Burgers,-1,-1
+Chatham/Avalon Park,Japanese,-1,-1
+Chatham/Avalon Park,Seafood,-1,-1
+Chatham/Avalon Park,Steaks,-1,-1
+Chatham/Avalon Park,Sushi,-1,-1
+Chatham/Avalon Park,Thai,-1,-1
+Chatham/Avalon Park,French,-1,-1
+Chinatown,Contemporary,-1,-1
+Chinatown,Burgers,-1,-1
+Chinatown,Japanese,-1,-1
+Chinatown,Seafood,-1,-1
+Chinatown,Steaks,-1,-1
+Chinatown,Sushi,-1,-1
+Chinatown,Thai,-1,-1
+Chinatown,French,-1,-1
+Englewood/Auburn / Gresham,Contemporary,-1,-1
+Englewood/Auburn / Gresham,Burgers,-1,-1
+Englewood/Auburn / Gresham,Japanese,-1,-1
+Englewood/Auburn / Gresham,Seafood,-1,-1
+Englewood/Auburn / Gresham,Steaks,-1,-1
+Englewood/Auburn / Gresham,Sushi,-1,-1
+Englewood/Auburn / Gresham,Thai,-1,-1
+Englewood/Auburn / Gresham,French,-1,-1
+Far South Side,Contemporary,-1,-1
+Far South Side,Burgers,-1,-1
+Far South Side,Japanese,-1,-1
+Far South Side,Seafood,-1,-1
+Far South Side,Steaks,-1,-1
+Far South Side,Sushi,-1,-1
+Far South Side,Thai,-1,-1
+Far South Side,French,-1,-1
+Grand Blvd/Oakland / Fuller Park,Contemporary,-1,-1
+Grand Blvd/Oakland / Fuller Park,Burgers,-1,-1
+Grand Blvd/Oakland / Fuller Park,Japanese,-1,-1
+Grand Blvd/Oakland / Fuller Park,Seafood,-1,-1
+Grand Blvd/Oakland / Fuller Park,Steaks,-1,-1
+Grand Blvd/Oakland / Fuller Park,Sushi,-1,-1
+Grand Blvd/Oakland / Fuller Park,Thai,-1,-1
+Grand Blvd/Oakland / Fuller Park,French,-1,-1
+Hegewisch/East Side,Contemporary,-1,-1
+Hegewisch/East Side,Burgers,-1,-1
+Hegewisch/East Side,Japanese,-1,-1
+Hegewisch/East Side,Seafood,-1,-1
+Hegewisch/East Side,Steaks,-1,-1

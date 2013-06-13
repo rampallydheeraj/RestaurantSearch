@@ -1,0 +1,68 @@
+Bridgeport/Sox,American,-1,-1
+Bridgeport/Sox,Italian,-1,-1
+Bridgeport/Sox,Sandwiches,-1,-1
+Bridgeport/Sox,Pizza,-1,-1
+Bridgeport/Sox,Mexican,-1,-1
+Bridgeport/Sox,asian,-1,-1
+Bridgeport/Sox,Chinese,-1,-1
+Bronzeville/ Douglas,All,-1,-1
+Bronzeville/ Douglas,American,-1,-1
+Bronzeville/ Douglas,Italian,-1,-1
+Bronzeville/ Douglas,Sandwiches,-1,-1
+Bronzeville/ Douglas,Pizza,-1,-1
+Bronzeville/ Douglas,Mexican,-1,-1
+Bronzeville/ Douglas,asian,-1,-1
+Bronzeville/ Douglas,Chinese,-1,-1
+Calumet Heights,All,-1,-1
+Calumet Heights,American,-1,-1
+Calumet Heights,Italian,-1,-1
+Calumet Heights,Sandwiches,-1,-1
+Calumet Heights,Pizza,-1,-1
+Calumet Heights,Mexican,-1,-1
+Calumet Heights,asian,-1,-1
+Calumet Heights,Chinese,-1,-1
+Chatham/Avalon Park,All,-1,-1
+Chatham/Avalon Park,American,-1,-1
+Chatham/Avalon Park,Italian,-1,-1
+Chatham/Avalon Park,Sandwiches,-1,-1
+Chatham/Avalon Park,Pizza,-1,-1
+Chatham/Avalon Park,Mexican,-1,-1
+Chatham/Avalon Park,asian,-1,-1
+Chatham/Avalon Park,Chinese,-1,-1
+Chinatown,All,0.272110655207983,0.506657432164955
+Chinatown,American,-1,-1
+Chinatown,Italian,-1,-1
+Chinatown,Sandwiches,-1,-1
+Chinatown,Pizza,-1,-1
+Chinatown,Mexican,-1,-1
+Chinatown,asian,-1,-1
+Chinatown,Chinese,0.451981321122453,0.619466665205349
+Englewood/Auburn / Gresham,All,-1,-1
+Englewood/Auburn / Gresham,American,-1,-1
+Englewood/Auburn / Gresham,Italian,-1,-1
+Englewood/Auburn / Gresham,Sandwiches,-1,-1
+Englewood/Auburn / Gresham,Pizza,-1,-1
+Englewood/Auburn / Gresham,Mexican,-1,-1
+Englewood/Auburn / Gresham,asian,-1,-1
+Englewood/Auburn / Gresham,Chinese,-1,-1
+Far South Side,All,-1,-1
+Far South Side,American,-1,-1
+Far South Side,Italian,-1,-1
+Far South Side,Sandwiches,-1,-1
+Far South Side,Pizza,-1,-1
+Far South Side,Mexican,-1,-1
+Far South Side,asian,-1,-1
+Far South Side,Chinese,-1,-1
+Grand Blvd/Oakland / Fuller Park,All,-1,-1
+Grand Blvd/Oakland / Fuller Park,American,-1,-1
+Grand Blvd/Oakland / Fuller Park,Italian,-1,-1
+Grand Blvd/Oakland / Fuller Park,Sandwiches,-1,-1
+Grand Blvd/Oakland / Fuller Park,Pizza,-1,-1
+Grand Blvd/Oakland / Fuller Park,Mexican,-1,-1
+Grand Blvd/Oakland / Fuller Park,asian,-1,-1
+Grand Blvd/Oakland / Fuller Park,Chinese,-1,-1
+Hegewisch/East Side,All,-1,-1
+Hegewisch/East Side,American,-1,-1
+Hegewisch/East Side,Italian,-1,-1
+Hegewisch/East Side,Sandwiches,-1,-1
+Hegewisch/East Side,Pizza,-1,-1

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCrosswalk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Crosswalk>
+    <Name>Albany Park</Name>
+    <Key>nh-chicago_albany_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Archer Heights</Name>
+    <Key>nh-chicago_archer_heights-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Armour Square</Name>
+    <Key>nh-chicago_armour_square-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Ashburn</Name>
+    <Key>nh-chicago_ashburn-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Auburn Gresham</Name>
+    <Key>nh-chicago_auburn_gresham-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Austin</Name>
+    <Key>nh-chicago_austin-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Avalon Park</Name>
+    <Key>nh-chicago_avalon_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Avondale</Name>
+    <Key>nh-chicago_avondale-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Back of the Yards</Name>
+    <Key>nh-chicago_back_of_the_yards-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Belmont Central</Name>
+    <Key>nh-chicago_belmont_central-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Beverly</Name>
+    <Key>nh-chicago_beverly-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bridgeport</Name>
+    <Key>nh-chicago_bridgeport-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Brighton Park</Name>
+    <Key>nh-chicago_brighton_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bucktown</Name>
+    <Key>nh-chicago_bucktown-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Burnside</Name>
+    <Key>nh-chicago_burnside-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Calumet Heights</Name>
+    <Key>nh-chicago_calumet_heights-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Canaryville</Name>
+    <Key>nh-chicago_canaryville-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Central</Name>
+    <Key>nh-chicago_central-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Chatham</Name>
+    <Key>nh-chicago_chatham-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Chicago Lawn</Name>
+    <Key>nh-chicago_chicago_lawn-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Clearing</Name>
+    <Key>nh-chicago_clearing-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Cragin</Name>
+    <Key>nh-chicago_cragin-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>DePaul</Name>
+    <Key>nh-chicago_depaul-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Douglas</Name>
+    <Key>nh-chicago_douglas-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Dunning</Name>
+    <Key>nh-chicago_dunning-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>East Garfield Park</Name>
+    <Key>nh-chicago_east_garfield_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>East Side</Name>
+    <Key>nh-chicago_east_side-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Edgewater</Name>
+    <Key>nh-chicago_edgewater-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Edison Park</Name>
+    <Key>nh-chicago_edison_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Englewood</Name>
+    <Key>nh-chicago_englewood-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Far North Side</Name>
+    <Key>nh-chicago_far_north_side-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Far Southeast Side</Name>
+    <Key>nh-chicago_far_southeast_side-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Far southwest Side</Name>
+    <Key>nh-chicago_far_southwest_side-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Forest Glen</Name>
+    <Key>nh-chicago_forest_glen-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Fuller Park</Name>
+    <Key>nh-chicago_fuller_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Gage Park</Name>
+    <Key>nh-chicago_gage_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Galewood</Name>
+    <Key>nh-chicago_galewood-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Garfield Ridge</Name>
+    <Key>nh-chicago_garfield_ridge-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Goose Island</Name>
+    <Key>nh-chicago_goose_island-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Grand Boulevard</Name>
+    <Key>nh-chicago_grand_boulevard-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Greater Grand Crossing</Name>
+    <Key>nh-chicago_greater_grand_crossing-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Greektown</Name>
+    <Key>nh-chicago_greektown-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hegewisch</Name>
+    <Key>nh-chicago_hegewisch-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hermosa</Name>
+    <Key>nh-chicago_hermosa-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Humboldt Park</Name>
+    <Key>nh-chicago_humboldt_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hyde Park</Name>
+    <Key>nh-chicago_hyde_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Irving Park</Name>
+    <Key>nh-chicago_irving_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Jefferson Park</Name>
+    <Key>nh-chicago_jefferson_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Jeffrey Manor</Name>
+    <Key>nh-chicago_jeffrey_manor-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Kenwood</Name>
+    <Key>nh-chicago_kenwood-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lakeview</Name>
+    <Key>nh-chicago_lakeview-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lincoln Park</Name>
+    <Key>nh-chicago_lincoln_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lincoln Square</Name>
+    <Key>nh-chicago_lincoln_square-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Little Village</Name>
+    <Key>nh-chicago_little_village-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Logan Square</Name>
+    <Key>nh-chicago_logan_square-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Loop</Name>
+    <Key>nh-chicago_loop-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>McKinley Park</Name>
+    <Key>nh-chicago_mckinley_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Montclare</Name>
+    <Key>nh-chicago_montclare-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Morgan Park</Name>
+    <Key>nh-chicago_morgan_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Mount Greenwood</Name>
+    <Key>nh-chicago_mount_greenwood-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near North Side</Name>
+    <Key>nh-chicago_near_north_side-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near South Side</Name>
+    <Key>nh-chicago_near_south_side-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near West Side</Name>
+    <Key>nh-chicago_near_west_side-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>North Center</Name>
+    <Key>nh-chicago_north_center-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>North Lawndale</Name>
+    <Key>nh-chicago_north_lawndale-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>North Park</Name>
+    <Key>nh-chicago_north_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>North Side</Name>
+    <Key>nh-chicago_north_side-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Northwest Side</Name>
+    <Key>nh-chicago_northwest_side-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Norwood Park</Name>
+    <Key>nh-chicago_norwood_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Oakland</Name>
+    <Key>nh-chicago_oakland-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Pilsen</Name>
+    <Key>nh-chicago_pilsen-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Portage Park</Name>
+    <Key>nh-chicago_portage_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Pullman</Name>
+    <Key>nh-chicago_pullman-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Ravenswood</Name>
+    <Key>nh-chicago_ravenswood-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Rogers Park</Name>
+    <Key>nh-chicago_rogers_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Roscoe Village</Name>
+    <Key>nh-chicago_roscoe_village-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Roseland</Name>
+    <Key>nh-chicago_roseland-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Sauganash</Name>
+    <Key>nh-chicago_sauganash-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Scottsdale</Name>
+    <Key>nh-chicago_scottsdale-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Chicago</Name>
+    <Key>nh-chicago_south_chicago-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Deering</Name>
+    <Key>nh-chicago_south_deering-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Shore</Name>
+    <Key>nh-chicago_south_shore-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Side</Name>
+    <Key>nh-chicago_south_side-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Southwest Side</Name>
+    <Key>nh-chicago_southwest_side-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Ukranian Village</Name>
+    <Key>nh-chicago_ukranian_village-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Uptown Chicago, IL</Name>
+    <Key>nh-chicago_uptown-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Washington Park</Name>
+    <Key>nh-chicago_washington_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Elsdon</Name>
+    <Key>nh-chicago_west_elsdon-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Englewood</Name>
+    <Key>nh-chicago_west_englewood-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Garfield Park</Name>
+    <Key>nh-chicago_west_garfield_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Lawn</Name>
+    <Key>nh-chicago_west_lawn-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Pullman</Name>
+    <Key>nh-chicago_west_pullman-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Rogers Park</Name>
+    <Key>nh-chicago_west_rogers_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Side</Name>
+    <Key>nh-chicago_west_side-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Town</Name>
+    <Key>nh-chicago_west_town-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Wicker Park</Name>
+    <Key>nh-chicago_wicker_park-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Woodlawn</Name>
+    <Key>nh-chicago_woodlawn-il</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Wrigleyville</Name>
+    <Key>nh-chicago_wrigleyville-il</Key>
+  </Crosswalk>
+</ArrayOfCrosswalk>

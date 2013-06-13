@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCrosswalk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Crosswalk>
+    <Name>CENTRAL</Name>
+    <Key>837639</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Gold Coast/Mag Mile/Streeterville</Name>
+    <Key>837502</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Loop</Name>
+    <Key>837503</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Museum Campus</Name>
+    <Key>837504</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near North</Name>
+    <Key>837505</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near South Side</Name>
+    <Key>837506</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Printers Row</Name>
+    <Key>837507</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>River North</Name>
+    <Key>837508</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Loop</Name>
+    <Key>837509</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>NORTH</Name>
+    <Key>837640</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Albany Park</Name>
+    <Key>837511</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Andersonville</Name>
+    <Key>837512</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>DePaul</Name>
+    <Key>837513</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Edgewater</Name>
+    <Key>837514</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lakeview</Name>
+    <Key>837515</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lincoln Park</Name>
+    <Key>837516</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lincoln Square</Name>
+    <Key>837517</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>North Center</Name>
+    <Key>837518</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Old Town</Name>
+    <Key>837519</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Ravenswood</Name>
+    <Key>837520</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Rogers Park/West Rogers Park</Name>
+    <Key>837521</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Roscoe Village</Name>
+    <Key>837522</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Uptown</Name>
+    <Key>837523</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Ridge</Name>
+    <Key>837524</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Wrigleyville</Name>
+    <Key>837525</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>NORTHWEST</Name>
+    <Key>837628</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Avondale</Name>
+    <Key>837527</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Belmont Cragin</Name>
+    <Key>837528</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Irving Park</Name>
+    <Key>837529</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Jefferson Park</Name>
+    <Key>837530</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Logan Square</Name>
+    <Key>837531</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Portage Park</Name>
+    <Key>837532</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>WEST</Name>
+    <Key>837641</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Austin</Name>
+    <Key>837534</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Fulton Market</Name>
+    <Key>837535</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Garfield Park</Name>
+    <Key>837536</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Greektown</Name>
+    <Key>837537</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Humboldt Park</Name>
+    <Key>837538</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lawndale</Name>
+    <Key>837539</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>University Village/Little Italy</Name>
+    <Key>837540</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near West Side</Name>
+    <Key>837541</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Pilsen/Little Village</Name>
+    <Key>837542</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>River West</Name>
+    <Key>837543</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Ukrainian Village/East Village</Name>
+    <Key>837544</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>United Center</Name>
+    <Key>837545</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Loop</Name>
+    <Key>837546</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Wicker Park/Bucktown</Name>
+    <Key>837547</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Town</Name>
+    <Key>838998</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>SOUTH</Name>
+    <Key>837630</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Beverly</Name>
+    <Key>837549</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bridgeport</Name>
+    <Key>837550</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bronzeville</Name>
+    <Key>837551</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Chatham</Name>
+    <Key>837552</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Chinatown</Name>
+    <Key>837553</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Englewood</Name>
+    <Key>837554</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hyde Park</Name>
+    <Key>837555</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Oakland/Kenwood</Name>
+    <Key>837556</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Pullman</Name>
+    <Key>837557</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Shore</Name>
+    <Key>837558</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Washington Park</Name>
+    <Key>837559</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Woodlawn</Name>
+    <Key>837560</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>SOUTHWEST</Name>
+    <Key>837642</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Brighton Park</Name>
+    <Key>837562</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>McKinley Park</Name>
+    <Key>837565</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Lawn</Name>
+    <Key>837566</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>SUBURBS NORTH</Name>
+    <Key>837643</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Evanston</Name>
+    <Key>837568</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lincolnwood</Name>
+    <Key>837569</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Skokie</Name>
+    <Key>837570</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>SUBURBS WEST</Name>
+    <Key>837645</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Berwyn</Name>
+    <Key>837573</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Cicero</Name>
+    <Key>837574</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Forest Park</Name>
+    <Key>837575</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+</ArrayOfCrosswalk>

@@ -1,0 +1,108 @@
+Lakeview East,Burgers,0,0
+Lakeview East,Japanese,0,0
+Lakeview East,Seafood,0,0
+Lakeview East,Steaks,0,0
+Lakeview East,Sushi,0.564178688405436,0.564178688405436
+Lakeview East,Thai,0,0
+Lakeview East,French,-1,-1
+Lincoln Square,Contemporary,-1,-1
+Lincoln Square,Burgers,-1,-1
+Lincoln Square,Japanese,-1,-1
+Lincoln Square,Seafood,-1,-1
+Lincoln Square,Steaks,-1,-1
+Lincoln Square,Sushi,-1,-1
+Lincoln Square,Thai,-1,-1
+Lincoln Square,French,-1,-1
+North Center,Contemporary,-1,-1
+North Center,Burgers,-1,-1
+North Center,Japanese,-1,-1
+North Center,Seafood,-1,-1
+North Center,Steaks,-1,-1
+North Center,Sushi,-1,-1
+North Center,Thai,-1,-1
+North Center,French,-1,-1
+North Park,Contemporary,-1,-1
+North Park,Burgers,-1,-1
+North Park,Japanese,-1,-1
+North Park,Seafood,-1,-1
+North Park,Steaks,-1,-1
+North Park,Sushi,-1,-1
+North Park,Thai,-1,-1
+North Park,French,-1,-1
+Ravenswood,Contemporary,-1,-1
+Ravenswood,Burgers,-1,-1
+Ravenswood,Japanese,-1,-1
+Ravenswood,Seafood,-1,-1
+Ravenswood,Steaks,-1,-1
+Ravenswood,Sushi,-1,-1
+Ravenswood,Thai,-1,-1
+Ravenswood,French,-1,-1
+Rogers Park,Contemporary,-1,-1
+Rogers Park,Burgers,-1,-1
+Rogers Park,Japanese,-1,-1
+Rogers Park,Seafood,-1,-1
+Rogers Park,Steaks,-1,-1
+Rogers Park,Sushi,-1,-1
+Rogers Park,Thai,-1,-1
+Rogers Park,French,-1,-1
+Roscoe Village,Contemporary,0,0
+Roscoe Village,Burgers,-1,-1
+Roscoe Village,Japanese,-1,-1
+Roscoe Village,Seafood,-1,-1
+Roscoe Village,Steaks,-1,-1
+Roscoe Village,Sushi,-1,-1
+Roscoe Village,Thai,-1,-1
+Roscoe Village,French,-1,-1
+Uptown,Contemporary,-1,-1
+Uptown,Burgers,-1,-1
+Uptown,Japanese,-1,-1
+Uptown,Seafood,-1,-1
+Uptown,Steaks,-1,-1
+Uptown,Sushi,-1,-1
+Uptown,Thai,-1,-1
+Uptown,French,-1,-1
+West Rogers Park,Contemporary,-1,-1
+West Rogers Park,Burgers,-1,-1
+West Rogers Park,Japanese,-1,-1
+West Rogers Park,Seafood,-1,-1
+West Rogers Park,Steaks,-1,-1
+West Rogers Park,Sushi,-1,-1
+West Rogers Park,Thai,-1,-1
+West Rogers Park,French,-1,-1
+Wrigleyville,Contemporary,1,1
+Wrigleyville,Burgers,0,0.315464876785729
+Wrigleyville,Japanese,-1,-1
+Wrigleyville,Seafood,-1,-1
+Wrigleyville,Steaks,-1,-1
+Wrigleyville,Sushi,-1,-1
+Wrigleyville,Thai,-1,-1
+Wrigleyville,French,-1,-1
+Northwest,Contemporary,0,0
+Northwest,Burgers,-1,-1
+Northwest,Japanese,-1,-1
+Northwest,Seafood,-1,-1
+Northwest,Steaks,-1,-1
+Northwest,Sushi,-1,-1
+Northwest,Thai,-1,-1
+Northwest,French,-1,-1
+Belmont Cragin/Hermosa,Contemporary,-1,-1
+Belmont Cragin/Hermosa,Burgers,-1,-1
+Belmont Cragin/Hermosa,Japanese,-1,-1
+Belmont Cragin/Hermosa,Seafood,-1,-1
+Belmont Cragin/Hermosa,Steaks,-1,-1
+Belmont Cragin/Hermosa,Sushi,-1,-1
+Belmont Cragin/Hermosa,Thai,-1,-1
+Belmont Cragin/Hermosa,French,-1,-1
+Bucktown/Wicker Park,Contemporary,0,0.315464876785729
+Bucktown/Wicker Park,Burgers,0,0
+Bucktown/Wicker Park,Japanese,0.391955162341329,0.633172598654721
+Bucktown/Wicker Park,Seafood,0.722222222222222,0.722222222222222
+Bucktown/Wicker Park,Steaks,0.643260072354293,0.80886708330916
+Bucktown/Wicker Park,Sushi,-1,-1
+Bucktown/Wicker Park,Thai,-1,-1
+Bucktown/Wicker Park,French,-1,-1
+Dunning,Contemporary,-1,-1
+Dunning,Burgers,-1,-1
+Dunning,Japanese,-1,-1
+Dunning,Seafood,-1,-1
+Dunning,Steaks,-1,-1

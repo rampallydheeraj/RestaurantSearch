@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCrosswalk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Crosswalk>
+    <Name>Albany Park</Name>
+    <Key>albany-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Archer Heights</Name>
+    <Key>archer-heights</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Armour Square</Name>
+    <Key>armour-square</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Ashburn</Name>
+    <Key>ashburn</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Auburn Gresham</Name>
+    <Key>auburn-gresham</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Austin</Name>
+    <Key>austin</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Avalon Park</Name>
+    <Key>avalon-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Avondale</Name>
+    <Key>avondale</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Belmont Central</Name>
+    <Key>belmont-central</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Beverly</Name>
+    <Key>beverly</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bridgeport</Name>
+    <Key>bridgeport</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Brighton Park</Name>
+    <Key>brighton-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bronzeville</Name>
+    <Key>bronzeville</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bucktown</Name>
+    <Key>bucktown</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Burnside</Name>
+    <Key>burnside</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Calumet Heights</Name>
+    <Key>calumet-heights</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Chatham</Name>
+    <Key>chatham</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Chicago Lawn</Name>
+    <Key>chicago-lawn</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Clearing</Name>
+    <Key>clearing</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Cragin</Name>
+    <Key>cragin</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>DePaul</Name>
+    <Key>depaul</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Dunning</Name>
+    <Key>dunning</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>East Garfield Park</Name>
+    <Key>east-garfield-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>East Side</Name>
+    <Key>east-side</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Edgewater</Name>
+    <Key>edgewater</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Edison Park</Name>
+    <Key>edison-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Englewood</Name>
+    <Key>englewood</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Forest Glen</Name>
+    <Key>forest-glen</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Fuller Park</Name>
+    <Key>fuller-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Gage Park</Name>
+    <Key>gage-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Galewood</Name>
+    <Key>galewood</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Garfield Ridge</Name>
+    <Key>garfield-ridge</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Goose Island</Name>
+    <Key>goose-island</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Greater Grand Crossing</Name>
+    <Key>greater-grand-crossing</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hegewisch</Name>
+    <Key>hegewisch</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hermosa</Name>
+    <Key>hermosa</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Humboldt Park</Name>
+    <Key>humboldt-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hyde Park</Name>
+    <Key>hyde-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Irving Park</Name>
+    <Key>irving-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Jefferson Park</Name>
+    <Key>jefferson-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Jeffrey Manor</Name>
+    <Key>jeffrey-manor</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Kenwood</Name>
+    <Key>kenwood</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lakeview</Name>
+    <Key>lakeview</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lawndale</Name>
+    <Key>lawndale</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lincoln Park</Name>
+    <Key>lincoln-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lincoln Square</Name>
+    <Key>lincoln-square</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Little Village</Name>
+    <Key>little-village</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Logan Square</Name>
+    <Key>logan-square</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Loop</Name>
+    <Key>loop</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>McKinley Park</Name>
+    <Key>mckinley-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Montclare</Name>
+    <Key>montclare</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Morgan Park</Name>
+    <Key>morgan-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Mount Greenwood</Name>
+    <Key>mount-greenwood</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near North Side</Name>
+    <Key>near-north-side</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near South Side</Name>
+    <Key>near-south-side</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near West Side</Name>
+    <Key>near-west-side</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>New City</Name>
+    <Key>new-city</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>North Center</Name>
+    <Key>north-center</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>North Park</Name>
+    <Key>north-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Norwood Park</Name>
+    <Key>norwood-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Oakland</Name>
+    <Key>oakland</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>O'Hare</Name>
+    <Key>ohare</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Pilsen</Name>
+    <Key>pilsen</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Portage Park</Name>
+    <Key>portage-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Pullman</Name>
+    <Key>pullman</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Ravenswood</Name>
+    <Key>ravenswood</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Riverdale</Name>
+    <Key>riverdale</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Rogers Park</Name>
+    <Key>rogers-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Roscoe Village</Name>
+    <Key>roscoe-village</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Roseland</Name>
+    <Key>roseland</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Sauganash</Name>
+    <Key>sauganash</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Scottsdale</Name>
+    <Key>scottsdale</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Chicago</Name>
+    <Key>south-chicago</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Deering</Name>
+    <Key>south-deering</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Loop</Name>
+    <Key>south-loop</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Shore</Name>
+    <Key>south-shore</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Tri-Taylor</Name>
+    <Key>tri-taylor</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Ukrainian Village</Name>
+    <Key>ukrainian-village</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>University Village / Little Italy</Name>
+    <Key>university-village-little-italy</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Uptown</Name>
+    <Key>uptown</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Washington Heights / Brainerd</Name>
+    <Key>washington-heights-brainerd</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Washington Park</Name>
+    <Key>washington-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Elsdon</Name>
+    <Key>west-elsdon</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Englewood</Name>
+    <Key>west-englewood</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Garfield Park</Name>
+    <Key>west-garfield-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Lawn</Name>
+    <Key>west-lawn</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Loop</Name>
+    <Key>west-loop</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Pullman</Name>
+    <Key>west-pullman</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Rogers Park</Name>
+    <Key>west-rogers-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Wicker Park</Name>
+    <Key>wicker-park</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Woodlawn</Name>
+    <Key>woodlawn</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+</ArrayOfCrosswalk>

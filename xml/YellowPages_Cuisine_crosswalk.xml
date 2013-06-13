@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCrosswalk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Crosswalk>
+    <Name>American</Name>
+    <Key>American Restaurants</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bar &amp; Grills</Name>
+    <Key>Bar &amp; Grills</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bars</Name>
+    <Key>Bars</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Breakfast, Brunch &amp; Lunch</Name>
+    <Key>Breakfast, Brunch &amp; Lunch Restaurants</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Brew Pubs</Name>
+    <Key>Brew Pubs</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Caterers</Name>
+    <Key>Caterers</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Chinese</Name>
+    <Key>Chinese Restaurants</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Cocktail Lounges</Name>
+    <Key>Cocktail Lounges</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Coffee &amp; Espresso</Name>
+    <Key>Coffee &amp; Espresso Restaurants</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Family Style</Name>
+    <Key>Family Style Restaurants</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Fast Food</Name>
+    <Key>Fast Food Restaurants</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hamburgers &amp; Hot Dogs</Name>
+    <Key>Hamburgers &amp; Hot Dogs</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Italian</Name>
+    <Key>Italian Restaurants</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Mexican</Name>
+    <Key>Mexican Restaurants</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Pan Asian</Name>
+    <Key>Pan Asian Restaurants</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Pizza</Name>
+    <Key>Pizza</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Sandwich Shops</Name>
+    <Key>Sandwich Shops</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Take Out</Name>
+    <Key>Take Out Restaurants</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Taverns</Name>
+    <Key>Taverns</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+</ArrayOfCrosswalk>

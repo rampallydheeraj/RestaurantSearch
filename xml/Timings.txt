@@ -1,0 +1,192 @@
+Downtown,4,2,0,13,9,3,2,9,11,2,19,Large Area
+Grant Park Museums,5,0,0,2,1,1,1,2,1,1,6
+Greektown,4,0,0,2,2,0,1,2,2,1,4
+Loop,4,0,0,2,1,1,1,2,2,1,6
+Near South Side,4,0,0,1,2,2,1,2,1,0,5
+South Loop,4,0,0,3,3,1,1,2,1,1,6
+Warehouse District,3,0,0,2,3,0,0,2,3,1,4
+West Loop,4,0,0,2,2,0,1,4,3,0,5
+Near North,6,2,0,13,13,6,4,7,8,3,19,Large Area
+Gold Coast,4,0,0,3,2,1,1,2,2,1,5
+Lincoln Park,3,0,0,2,2,1,1,2,2,1,4
+Magnificent Mile,5,0,0,2,2,1,1,3,2,1,6
+Near North Side,5,0,0,9,2,3,1,4,2,3,12
+Old Town,4,0,0,2,2,1,1,2,2,1,5
+River North,4,0,0,3,2,1,2,2,2,0,5
+Rush & Division,4,0,0,2,2,1,1,2,2,0,5
+Sheffield/De Paul,4,0,0,2,2,0,1,4,1,0,5
+Streeterville,4,0,0,2,2,2,1,2,2,0,5
+North,5,4,0,13,11,2,5,7,10,2,22,Large Area
+Albany Park,5,1,0,2,3,0,1,2,2,0,6
+Andersonville,4,0,0,2,5,1,1,2,1,0,5
+Boystown,4,0,0,5,2,2,1,4,4,1,6
+Devon Avenue,5,0,0,2,1,0,1,2,1,0,5
+Edgewater,6,0,0,2,2,1,1,2,2,0,7
+Irving Park/Avondale,4,0,0,3,8,2,3,5,2,0,11
+Lakeview,4,1,0,2,3,0,0,3,2,0,5
+Lakeview East,7,0,0,2,2,0,1,2,1,0,7
+Lincoln Square,3,0,0,3,2,2,0,2,2,0,5
+North Center,3,1,0,2,2,1,1,2,1,0,5
+North Park,4,0,0,2,2,1,1,2,2,0,5
+Ravenswood,4,0,0,3,2,2,1,2,2,0,5
+Rogers Park,4,0,0,2,2,0,1,2,1,0,5
+Roscoe Village,4,0,0,2,2,1,1,2,2,0,5
+Uptown,5,0,0,4,2,0,1,2,1,0,6
+West Rogers Park,4,0,0,2,2,0,1,2,1,0,5
+Wrigleyville,5,0,0,2,2,1,1,2,2,0,6
+Northwest,5,1,0,11,9,2,3,6,8,3,20,Large Area
+Belmont Cragin/Hermosa,4,0,0,2,8,1,3,7,2,0,10
+Bucktown/Wicker Park,4,0,0,3,4,2,1,7,3,2,9
+Dunning,4,1,0,1,2,0,1,2,1,0,5
+East Village / Ukrainian Village,5,0,0,2,1,2,1,2,1,0,6
+Edgebrook,4,1,0,2,2,0,0,1,1,0,5
+Edison Park,4,0,0,0,2,0,0,2,1,0,5
+Forest Glen / Sauganash,3,1,0,2,2,0,0,2,2,0,3
+Galewood/Montclare,5,1,0,3,4,1,1,2,2,0,6
+Jefferson Park,4,0,0,2,1,0,1,1,1,1,5
+Logan Square,4,0,0,3,1,1,1,3,2,1,6
+Norwood Park,5,0,0,2,2,0,1,2,1,0,5
+O'Hare,3,2,0,0,20,0,1,1,3,1,21
+Portage Park,5,0,0,1,2,1,1,2,1,0,6
+West Town,4,0,0,2,9,2,1,2,9,0,12
+South,5,1,0,11,9,2,3,7,7,1,15,Large Area
+Beverly/Mt Greenwood,5,1,0,2,6,1,1,2,1,0,7
+Bridgeport/Sox,5,1,0,2,2,2,1,2,2,0,5
+Bronzeville/ Douglas,4,1,0,2,3,2,1,2,2,0,4
+Calumet Heights,5,1,0,0,2,0,1,1,0,0,5
+Chatham/Avalon Park,4,1,0,2,2,0,1,2,1,0,5
+Chinatown,4,0,0,3,2,1,1,2,1,1,5
+Englewood/Auburn / Gresham,4,0,0,2,4,1,1,3,3,0,6
+Far South Side,5,1,0,8,10,3,3,6,14,0,21
+Grand Blvd/Oakland / Fuller Park,4,1,0,1,4,0,1,2,3,0,5
+Hegewisch/East Side,5,0,0,0,2,0,1,2,0,0,6
+Hyde Park/University Of Chicago,4,1,0,3,4,1,1,4,3,0,6
+Park Manor/Grand Crossing,4,1,0,2,8,0,1,2,7,1,11
+Pullman,3,1,0,1,2,1,1,1,1,0,4
+Roseland/Csu/ Washington Heights,5,0,0,2,4,0,1,3,3,0,6
+South Chicago,5,1,0,0,2,0,1,2,2,0,7
+South Shore,3,1,0,2,3,0,1,2,1,0,4
+Washington Park / Woodlawn,5,1,0,2,3,1,1,2,6,0,8
+Southwest,5,1,0,10,12,3,4,7,10,4,16,Large Area
+Archer Height/Brighton/ Mc Kinley Park,6,2,0,8,10,0,3,4,10,0,14
+Ashburn/West Lawn / Ford City,5,0,0,2,9,0,2,5,7,0,12
+Back Of The Yards,3,2,0,0,2,0,1,3,2,0,4
+Lawndale,4,1,0,2,2,0,1,2,11,0,14
+Little Tuscany,3,0,0,2,4,1,1,2,5,0,5
+Marquette Park,5,2,0,1,2,0,0,2,1,0,6
+Midway,5,1,0,0,2,0,1,2,2,0,5
+Pilsen/Heart of Chicago/Little Village,4,0,0,2,6,1,1,3,6,0,8
+West,4,0,0,10,11,3,3,6,8,0,17,Large Area
+Austin,4,0,0,1,2,0,1,2,1,0,4
+Garfield Park,3,1,0,2,5,1,2,3,3,0,6
+Humboldt Park,4,1,0,2,2,1,1,2,1,0,5
+Little Italy,4,2,0,2,3,0,1,3,1,1,4
+United Center,4,1,0,2,2,1,1,3,1,0,4
+Near North Suburbs,5,1,0,8,11,3,3,6,10,0,16,Large Area
+Harwood Heights,3,0,0,0,2,1,0,2,1,0,4
+Lincolnwood,4,2,0,2,3,1,1,2,2,0,5
+Niles,4,0,0,0,1,0,1,1,2,0,5
+Norridge,3,0,0,0,2,1,1,3,1,0,4
+Park Ridge,3,0,0,0,2,1,1,2,1,0,4
+Schiller Park,2,0,0,0,3,0,1,2,0,0,3
+Skokie,4,0,0,2,0,0,0,0,0,0,5
+Near South Suburbs,5,1,0,7,9,2,2,6,9,1,14,Large Area
+Alsip,3,0,0,0,0,1,0,2,1,0,3
+Blue Island,3,1,0,0,2,0,0,2,0,0,3
+Burbank,4,0,0,0,0,0,0,0,1,0,5
+Dolton,3,0,0,0,1,0,0,0,1,0,3
+Evergreen Park,3,0,0,2,3,0,1,2,1,0,4
+Riverdale,3,1,0,1,1,0,0,3,1,0,3
+Summit,3,0,0,0,2,0,1,2,1,0,3
+Near West Suburbs,5,1,0,8,10,1,2,6,7,1,13,Large Area
+Cicero,4,0,0,1,1,1,0,2,2,0,5
+Elmwood Park,3,1,0,2,2,0,1,1,2,0,4
+Oak Park,5,0,0,0,0,0,0,0,1,0,6
+River Grove,3,0,0,0,3,0,0,3,0,0,4
+North Suburbs,5,0,0,0,0,0,0,0,1,1,5,Large Area
+Bannockburn,3,0,0,0,0,0,0,0,0,0,3
+Deerfield,5,0,0,0,0,0,0,0,0,0,6
+Glenview,4,0,0,0,0,0,0,0,0,0,4
+Gurnee,3,0,0,0,0,0,0,0,0,0,3
+Libertyville,4,0,0,0,0,0,0,0,0,0,5
+Lincolnshire,5,0,0,0,0,0,0,0,0,0,5
+Morton Grove,3,0,0,0,0,0,0,0,0,0,3
+Mundelein,3,0,0,0,0,0,0,0,0,0,4
+Northbrook,5,0,0,0,0,0,0,0,0,0,5
+Prospect Heights,3,0,0,0,0,0,0,0,0,0,4
+North Shore Suburbs,5,0,0,4,0,0,0,0,1,0,6,Large Area
+Evanston,6,0,0,2,0,0,0,0,0,0,6
+Glencoe,3,0,0,0,0,0,0,0,0,0,3
+Highland Park,3,0,0,0,0,0,0,0,0,0,4
+Highwood,6,0,0,0,0,0,0,0,0,0,7
+Lake Bluff,4,0,0,0,0,0,0,0,0,0,4
+Lake Forest,4,0,0,0,0,0,0,0,0,0,5
+Wilmette,4,0,0,0,0,0,0,0,0,0,4
+Winnetka,4,0,0,0,0,0,0,0,0,0,4
+Northwest Suburbs,6,0,0,0,2,0,0,1,0,0,6,Large Area
+Algonquin,4,0,0,0,0,0,0,0,0,0,5
+Arlington Heights,4,0,0,0,0,0,0,0,0,0,4
+Barrington,3,0,0,0,0,0,0,0,0,0,4
+Buffalo Grove,5,0,0,0,0,0,0,0,0,0,5
+Crystal Lake,6,0,0,0,0,0,0,0,0,0,6
+Des Plaines,4,0,0,0,2,0,1,1,0,0,5
+Dundee,3,0,0,0,0,0,0,0,0,0,3
+Elk Grove,4,0,0,0,0,0,0,0,0,0,4
+Hanover Park,3,0,0,0,0,0,0,0,0,0,3
+Hoffman Estates,4,0,0,0,0,0,0,0,0,0,4
+Itasca,4,0,0,0,0,0,0,0,0,0,4
+Lake Zurich,4,0,0,0,0,0,0,0,0,0,4
+Mount Prospect,4,0,0,0,0,0,0,0,0,0,4
+Palatine,4,0,0,0,0,0,0,0,0,0,5
+Rolling Meadows,4,0,0,0,0,0,0,0,0,0,4
+Rosemont,4,0,0,0,2,0,1,1,0,0,5
+Schaumburg,4,0,0,0,0,0,0,0,0,1,4
+Streamwood,5,0,0,0,0,0,0,0,0,0,5
+Vernon Hills,3,0,0,0,0,0,0,0,0,0,4
+Wheeling,4,0,0,0,0,0,0,0,0,0,4
+South Suburbs,6,2,0,7,24,1,2,5,7,0,28,Large Area
+Chicago Heights,5,0,0,0,0,0,0,0,0,0,5
+Crestwood,4,0,0,0,0,0,0,0,2,0,4
+Frankfort,3,0,0,0,0,0,0,0,0,0,4
+Hazel Crest,2,0,0,0,0,0,0,0,0,0,3
+Homewood,3,0,0,0,0,0,0,0,0,0,4
+Lansing,4,0,0,0,0,0,0,0,0,0,4
+Lockport,4,0,0,0,0,0,0,0,0,0,4
+Oak Forest,3,0,0,0,0,0,0,0,0,0,3
+Oak Lawn,2,1,0,0,2,1,1,1,2,0,3
+Orland Park,5,0,0,0,0,0,0,0,0,0,5
+Palos Heights/Hills/Park,4,0,0,0,0,0,0,0,0,0,5
+South Holland,3,0,0,0,0,0,0,0,1,0,3
+Tinley Park,4,0,0,0,0,0,0,0,0,0,5
+West Suburbs,5,3,0,8,8,3,2,5,9,0,13,Large Area
+Addison,4,0,0,0,0,0,0,0,0,0,4
+Aurora,5,0,0,0,0,0,0,0,0,0,6
+Bartlett,3,0,0,0,0,0,0,0,0,0,4
+Batavia,3,0,0,0,0,0,0,0,0,0,3
+Bensenville,4,0,0,0,0,0,0,0,0,0,4
+Berwyn,3,0,0,1,0,0,0,0,0,0,4
+Bolingbrook,4,0,0,0,0,0,0,0,0,0,4
+Brookfield,4,0,0,0,0,0,0,0,0,0,4
+Burr Ridge,3,0,0,0,0,0,0,0,0,0,4
+Clarendon Hills,3,0,0,0,0,0,0,0,0,0,4
+Downers Grove,4,0,0,0,0,0,0,0,0,0,5
+Elmhurst,5,0,0,0,0,0,0,0,0,0,5
+Forest Park,4,0,0,1,0,0,0,0,0,0,4
+Franklin Park,3,0,0,0,1,0,0,1,0,0,4
+Geneva,5,0,0,0,0,0,0,0,0,0,5
+Glen Ellyn,4,0,0,0,0,0,0,0,0,0,4
+Hinsdale,3,0,0,0,0,0,0,0,0,0,4
+La Grange,4,0,0,0,0,0,0,0,0,0,4
+Lisle,4,0,0,0,0,0,0,0,0,0,4
+Lombard,4,0,0,0,0,0,0,0,0,0,4
+Naperville,3,0,0,0,0,0,0,0,0,0,4
+Oak Brook and Oakbrook Terrace,4,0,0,0,0,0,0,0,0,0,5
+St Charles,6,0,0,0,0,0,0,0,0,1,7
+Villa Park,3,0,0,0,0,0,0,0,0,0,4
+Warrenville,3,0,0,0,0,0,0,0,0,0,4
+Westchester,3,0,0,0,0,0,0,0,0,0,4
+Western Springs,3,0,0,0,0,0,0,0,0,0,3
+Westmont,3,0,0,0,0,0,0,0,0,0,3
+Wheaton,4,0,0,0,0,0,0,0,0,0,4
+Willow Springs,3,0,0,0,0,0,0,0,0,0,4
+Woodridge,4,0,0,0,0,0,0,0,0,0,4

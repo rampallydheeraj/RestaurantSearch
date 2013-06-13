@@ -1,0 +1,108 @@
+Dunning,Sushi,-1,-1
+Dunning,Thai,-1,-1
+Dunning,French,-1,-1
+East Village / Ukrainian Village,Contemporary,0,0.361501477491864
+East Village / Ukrainian Village,Burgers,-1,-1
+East Village / Ukrainian Village,Japanese,-1,-1
+East Village / Ukrainian Village,Seafood,-1,-1
+East Village / Ukrainian Village,Steaks,-1,-1
+East Village / Ukrainian Village,Sushi,-1,-1
+East Village / Ukrainian Village,Thai,-1,-1
+East Village / Ukrainian Village,French,-1,-1
+Edgebrook,Contemporary,-1,-1
+Edgebrook,Burgers,-1,-1
+Edgebrook,Japanese,-1,-1
+Edgebrook,Seafood,-1,-1
+Edgebrook,Steaks,-1,-1
+Edgebrook,Sushi,-1,-1
+Edgebrook,Thai,-1,-1
+Edgebrook,French,-1,-1
+Edison Park,Contemporary,-1,-1
+Edison Park,Burgers,-1,-1
+Edison Park,Japanese,-1,-1
+Edison Park,Seafood,-1,-1
+Edison Park,Steaks,-1,-1
+Edison Park,Sushi,-1,-1
+Edison Park,Thai,-1,-1
+Edison Park,French,-1,-1
+Forest Glen / Sauganash,Contemporary,-1,-1
+Forest Glen / Sauganash,Burgers,-1,-1
+Forest Glen / Sauganash,Japanese,-1,-1
+Forest Glen / Sauganash,Seafood,-1,-1
+Forest Glen / Sauganash,Steaks,-1,-1
+Forest Glen / Sauganash,Sushi,-1,-1
+Forest Glen / Sauganash,Thai,-1,-1
+Forest Glen / Sauganash,French,-1,-1
+Galewood/Montclare,Contemporary,-1,-1
+Galewood/Montclare,Burgers,-1,-1
+Galewood/Montclare,Japanese,-1,-1
+Galewood/Montclare,Seafood,-1,-1
+Galewood/Montclare,Steaks,-1,-1
+Galewood/Montclare,Sushi,-1,-1
+Galewood/Montclare,Thai,-1,-1
+Galewood/Montclare,French,-1,-1
+Jefferson Park,Contemporary,-1,-1
+Jefferson Park,Burgers,-1,-1
+Jefferson Park,Japanese,-1,-1
+Jefferson Park,Seafood,-1,-1
+Jefferson Park,Steaks,-1,-1
+Jefferson Park,Sushi,-1,-1
+Jefferson Park,Thai,-1,-1
+Jefferson Park,French,-1,-1
+Logan Square,Contemporary,0,0
+Logan Square,Burgers,-1,-1
+Logan Square,Japanese,-1,-1
+Logan Square,Seafood,-1,-1
+Logan Square,Steaks,-1,-1
+Logan Square,Sushi,-1,-1
+Logan Square,Thai,-1,-1
+Logan Square,French,-1,-1
+Norwood Park,Contemporary,-1,-1
+Norwood Park,Burgers,-1,-1
+Norwood Park,Japanese,-1,-1
+Norwood Park,Seafood,-1,-1
+Norwood Park,Steaks,-1,-1
+Norwood Park,Sushi,-1,-1
+Norwood Park,Thai,-1,-1
+Norwood Park,French,-1,-1
+O'Hare,Contemporary,-1,-1
+O'Hare,Burgers,-1,-1
+O'Hare,Japanese,-1,-1
+O'Hare,Seafood,-1,-1
+O'Hare,Steaks,-1,-1
+O'Hare,Sushi,-1,-1
+O'Hare,Thai,-1,-1
+O'Hare,French,-1,-1
+Portage Park,Contemporary,-1,-1
+Portage Park,Burgers,-1,-1
+Portage Park,Japanese,-1,-1
+Portage Park,Seafood,-1,-1
+Portage Park,Steaks,-1,-1
+Portage Park,Sushi,-1,-1
+Portage Park,Thai,-1,-1
+Portage Park,French,-1,-1
+West Town,Contemporary,0.364335851993989,0.542536142673074
+West Town,Burgers,-1,-1
+West Town,Japanese,-1,-1
+West Town,Seafood,-1,-1
+West Town,Steaks,-1,-1
+West Town,Sushi,-1,-1
+West Town,Thai,-1,-1
+West Town,French,-1,-1
+South,Contemporary,0,0
+South,Burgers,-1,-1
+South,Japanese,-1,-1
+South,Seafood,-1,-1
+South,Steaks,-1,-1
+South,Sushi,-1,-1
+South,Thai,-1,-1
+South,French,-1,-1
+Beverly/Mt Greenwood,Contemporary,-1,-1
+Beverly/Mt Greenwood,Burgers,-1,-1
+Beverly/Mt Greenwood,Japanese,-1,-1
+Beverly/Mt Greenwood,Seafood,-1,-1
+Beverly/Mt Greenwood,Steaks,-1,-1
+Beverly/Mt Greenwood,Sushi,-1,-1
+Beverly/Mt Greenwood,Thai,-1,-1
+Beverly/Mt Greenwood,French,-1,-1
+Bridgeport/Sox,Contemporary,-1,-1

@@ -1,0 +1,13 @@
+American,Metromix,0,American:ChicagoReader;American:YellowPages;American:Menuism;American:DexKnows;American:Yahoo;American:Zagat;
+
+Italian,Metromix,0,Italian:Yelp;Italian:ChicagoReader;Italian:YellowPages;Italian:Menuism;Italian/American:Menuism;Italian:CitySearch;Italian:MenuPages;Italian:DexKnows;Italian:Yahoo;Italian:Zagat;
+
+Sandwiches,Metromix,0,Sandwiches:Yelp;Sandwiches:Menuism;Sandwiches:MenuPages;Sandwiches:Yahoo;Sandwiches:Zagat;
+
+Pizza,Metromix,0,Pizza:Yelp;Pizza:ChicagoReader;Pizza:YellowPages;Pizza:Menuism;Pizza:CitySearch;Pizza:MenuPages;Pizza:DexKnows;Pizza:Yahoo;Pizza:Zagat;
+
+Mexican,Metromix,0,Mexican:Yelp;Mexican/Southwestern:ChicagoReader;Mexican:YellowPages;Mexican:Menuism;Mexican:CitySearch;Mexican:MenuPages;Mexican:DexKnows;Mexican:Yahoo;Mexican:Zagat;
+
+asian,Metromix,0,Asian:ChicagoReader;Asian:Menuism;Asian:CitySearch;Asian:MenuPages;Asian:DexKnows;Asian:Zagat;
+
+Chinese,Metromix,0,Chinese:Yelp;Chinese:ChicagoReader;Chinese:YellowPages;Chinese:Menuism;Chinese:CitySearch;Chinese:MenuPages;Chinese:DexKnows;Chinese:Yahoo;Chinese:Zagat;

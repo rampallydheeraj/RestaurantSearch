@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCrosswalk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Crosswalk>
+    <Name>Albany Park, Chicago, IL</Name>
+    <Key>Albany Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Andersonville, Chicago, IL</Name>
+    <Key>Andersonville, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Archer Heights, Chicago, IL</Name>
+    <Key>Archer Heights, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Ashburn, Chicago, IL</Name>
+    <Key>Ashburn, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Auburn Gresham, Chicago, IL</Name>
+    <Key>Auburn Gresham, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Austin, Chicago, IL</Name>
+    <Key>Austin, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Avalon Park, Chicago, IL</Name>
+    <Key>Avalon Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Avondale, Chicago, IL</Name>
+    <Key>Avondale, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Back of the Yards, Chicago, IL</Name>
+    <Key>Back of the Yards, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Belmont Central, Chicago, IL</Name>
+    <Key>Belmont Central, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Beverly, Chicago, IL</Name>
+    <Key>Beverly, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Brainerd, Chicago, IL</Name>
+    <Key>Brainerd, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bridgeport, Chicago, IL</Name>
+    <Key>Bridgeport, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Brighton Park, Chicago, IL</Name>
+    <Key>Brighton Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bronzeville, Chicago, IL</Name>
+    <Key>Bronzeville, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bucktown, Chicago, IL</Name>
+    <Key>Bucktown, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Burnside, Chicago, IL</Name>
+    <Key>Burnside, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Cabrini-Green, Chicago, IL</Name>
+    <Key>Cabrini-Green, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Calumet Heights, Chicago, IL</Name>
+    <Key>Calumet Heights, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Canaryville, Chicago, IL</Name>
+    <Key>Canaryville, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Chatham, Chicago, IL</Name>
+    <Key>Chatham, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Chicago Lawn, Chicago, IL</Name>
+    <Key>Chicago Lawn, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Chinatown, Chicago, IL</Name>
+    <Key>Chinatown, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Clearing, Chicago, IL</Name>
+    <Key>Clearing, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Cragin, Chicago, IL</Name>
+    <Key>Cragin, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>DePaul, Chicago, IL</Name>
+    <Key>DePaul, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Douglas, Chicago, IL</Name>
+    <Key>Douglas, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Dunning, Chicago, IL</Name>
+    <Key>Dunning, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>East Garfield Park, Chicago, IL</Name>
+    <Key>East Garfield Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>East Side, Chicago, IL</Name>
+    <Key>East Side, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Edgewater, Chicago, IL</Name>
+    <Key>Edgewater, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Edison Park, Chicago, IL</Name>
+    <Key>Edison Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Englewood, Chicago, IL</Name>
+    <Key>Englewood, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Forest Glen, Chicago, IL</Name>
+    <Key>Forest Glen, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Fulton Market, Chicago, IL</Name>
+    <Key>Fulton Market, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Gage Park, Chicago, IL</Name>
+    <Key>Gage Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Galewood, Chicago, IL</Name>
+    <Key>Galewood, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Garfield Ridge, Chicago, IL</Name>
+    <Key>Garfield Ridge, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Gold Coast, Chicago, IL</Name>
+    <Key>Gold Coast, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Goose Island, Chicago, IL</Name>
+    <Key>Goose Island, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Grand Boulevard, Chicago, IL</Name>
+    <Key>Grand Boulevard, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Greater Grand Crossing, Chicago, IL</Name>
+    <Key>Greater Grand Crossing, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Greektown, Chicago, IL</Name>
+    <Key>Greektown, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hegewisch, Chicago, IL</Name>
+    <Key>Hegewisch, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hermosa, Chicago, IL</Name>
+    <Key>Hermosa, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Humboldt Park, Chicago, IL</Name>
+    <Key>Humboldt Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hyde Park, Chicago, IL</Name>
+    <Key>Hyde Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Irving Park, Chicago, IL</Name>
+    <Key>Irving Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Jefferson Park, Chicago, IL</Name>
+    <Key>Jefferson Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Jeffery Manor, Chicago, IL</Name>
+    <Key>Jeffery Manor, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Kenwood, Chicago, IL</Name>
+    <Key>Kenwood, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lakeview, Chicago, IL</Name>
+    <Key>Lakeview, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lawndale, Chicago, IL</Name>
+    <Key>Lawndale, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lincoln Park, Chicago, IL</Name>
+    <Key>Lincoln Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lincoln Square, Chicago, IL</Name>
+    <Key>Lincoln Square, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Little Village, Chicago, IL</Name>
+    <Key>Little Village, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Logan Square, Chicago, IL</Name>
+    <Key>Logan Square, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Magnificent Mile, Chicago, IL</Name>
+    <Key>Magnificent Mile, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Marquette Park, Chicago, IL</Name>
+    <Key>Marquette Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>McKinley Park, Chicago, IL</Name>
+    <Key>McKinley Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Montclare, Chicago, IL</Name>
+    <Key>Montclare, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Morgan Park, Chicago, IL</Name>
+    <Key>Morgan Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Mount Greenwood, Chicago, IL</Name>
+    <Key>Mount Greenwood, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near North Side, Chicago, IL</Name>
+    <Key>Near North Side, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near Southside, Chicago, IL</Name>
+    <Key>Near Southside, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near West Side, Chicago, IL</Name>
+    <Key>Near West Side, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>New City, Chicago, IL</Name>
+    <Key>New City, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Noble Square, Chicago, IL</Name>
+    <Key>Noble Square, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>North Center, Chicago, IL</Name>
+    <Key>North Center, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>North Park, Chicago, IL</Name>
+    <Key>North Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Norwood Park, Chicago, IL</Name>
+    <Key>Norwood Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Oakland, Chicago, IL</Name>
+    <Key>Oakland, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>O\'Hare, Chicago, IL</Name>
+    <Key>O\'Hare, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Old Town, Chicago, IL</Name>
+    <Key>Old Town, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Pilsen, Chicago, IL</Name>
+    <Key>Pilsen, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Portage Park, Chicago, IL</Name>
+    <Key>Portage Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Printer\'s Row, Chicago, IL</Name>
+    <Key>Printer\'s Row, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Pullman, Chicago, IL</Name>
+    <Key>Pullman, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Ravenswood, Chicago, IL</Name>
+    <Key>Ravenswood, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>River East, Chicago, IL</Name>
+    <Key>River East, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>River North, Chicago, IL</Name>
+    <Key>River North, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>River West, Chicago, IL</Name>
+    <Key>River West, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Riverdale, Chicago, IL</Name>
+    <Key>Riverdale, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Rogers Park, Chicago, IL</Name>
+    <Key>Rogers Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Roscoe Village, Chicago, IL</Name>
+    <Key>Roscoe Village, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Roseland, Chicago, IL</Name>
+    <Key>Roseland, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Sauganash, Chicago, IL</Name>
+    <Key>Sauganash, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Scottsdale, Chicago, IL</Name>
+    <Key>Scottsdale, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Chicago, Chicago, IL</Name>
+    <Key>South Chicago, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Deering, Chicago, IL</Name>
+    <Key>South Deering, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Loop, Chicago, IL</Name>
+    <Key>South Loop, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Shore, Chicago, IL</Name>
+    <Key>South Shore, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Streeterville, Chicago, IL</Name>
+    <Key>Streeterville, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>The Loop, Chicago, IL</Name>
+    <Key>The Loop, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Tri-Taylor, Chicago, IL</Name>
+    <Key>Tri-Taylor, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Ukrainian Village, Chicago, IL</Name>
+    <Key>Ukrainian Village, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>University Village, Chicago, IL</Name>
+    <Key>University Village, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Uptown, Chicago, IL</Name>
+    <Key>Uptown, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Washington Heights, Chicago, IL</Name>
+    <Key>Washington Heights, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Washington Park, Chicago, IL</Name>
+    <Key>Washington Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Elsdon, Chicago, IL</Name>
+    <Key>West Elsdon, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Englewood, Chicago, IL</Name>
+    <Key>West Englewood, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Garfield Park, Chicago, IL</Name>
+    <Key>West Garfield Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Lawn, Chicago, IL</Name>
+    <Key>West Lawn, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Loop, Chicago, IL</Name>
+    <Key>West Loop, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Pullman, Chicago, IL</Name>
+    <Key>West Pullman, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Wicker Park, Chicago, IL</Name>
+    <Key>Wicker Park, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Woodlawn, Chicago, IL</Name>
+    <Key>Woodlawn, Chicago, IL</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Wrigleyville, Chicago, IL</Name>
+    <Key>Wrigleyville, Chicago, IL</Key>
+  </Crosswalk>
+</ArrayOfCrosswalk>

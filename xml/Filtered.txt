@@ -1,0 +1,131 @@
+All	American
+All	Italian
+All	Sandwiches
+All	Pizza
+All	Mexican
+All	asian
+All	Chinese
+Downtown	All
+Downtown	American
+Downtown	Italian
+Downtown	Sandwiches
+Downtown	Pizza
+Downtown	Mexican
+Grant Park Museums	All
+Grant Park Museums	American
+Grant Park Museums	Italian
+Grant Park Museums	Sandwiches
+Grant Park Museums	Pizza
+Grant Park Museums	Mexican
+Grant Park Museums	asian
+Greektown	All
+Loop	All
+Loop	American
+Loop	Italian
+Loop	Sandwiches
+Loop	Pizza
+Loop	Mexican
+Loop	asian
+South Loop	All
+South Loop	American
+South Loop	Italian
+South Loop	Sandwiches
+South Loop	Pizza
+Warehouse District	All
+West Loop	All
+West Loop	American
+West Loop	Italian
+West Loop	Sandwiches
+West Loop	Pizza
+Near North	All
+Near North	American
+Near North	Italian
+Near North	Sandwiches
+Near North	Pizza
+Near North	Mexican
+Near North	asian
+Gold Coast	All
+Gold Coast	American
+Gold Coast	Italian
+Lincoln Park	All
+Lincoln Park	American
+Lincoln Park	Italian
+Lincoln Park	Sandwiches
+Lincoln Park	Pizza
+Lincoln Park	Mexican
+Magnificent Mile	All
+Magnificent Mile	American
+Magnificent Mile	Italian
+Near North Side	All
+Near North Side	American
+Near North Side	Italian
+Near North Side	Sandwiches
+Near North Side	Pizza
+Near North Side	Mexican
+Near North Side	asian
+Near North Side	Chinese
+Old Town	All
+Old Town	American
+River North	All
+River North	American
+River North	Italian
+River North	Sandwiches
+River North	Pizza
+River North	Mexican
+River North	asian
+Rush & Division	All
+Rush & Division	American
+Rush & Division	Italian
+Sheffield/De Paul	All
+Sheffield/De Paul	American
+Sheffield/De Paul	Italian
+Sheffield/De Paul	Sandwiches
+Sheffield/De Paul	Pizza
+Sheffield/De Paul	Mexican
+Streeterville	All
+Streeterville	American
+Streeterville	Italian
+North	All
+North	American
+North	Italian
+North	Sandwiches
+North	Pizza
+North	Mexican
+North	asian
+Boystown	All
+Boystown	American
+Boystown	Italian
+Boystown	Sandwiches
+Boystown	Pizza
+Boystown	Mexican
+Boystown	asian
+Lakeview	All
+Lakeview	American
+Lakeview	Italian
+Lakeview	Sandwiches
+Lakeview	Pizza
+Lakeview	Mexican
+Lakeview	asian
+Lakeview East	All
+Lakeview East	American
+Lakeview East	Italian
+Lakeview East	Sandwiches
+Lakeview East	Pizza
+Lakeview East	Mexican
+Lakeview East	asian
+Roscoe Village	All
+Wrigleyville	All
+Wrigleyville	American
+Northwest	All
+Bucktown/Wicker Park	All
+Bucktown/Wicker Park	American
+Bucktown/Wicker Park	Italian
+Bucktown/Wicker Park	Sandwiches
+Bucktown/Wicker Park	Pizza
+East Village / Ukrainian Village	All
+Logan Square	All
+West Town	All
+South	All
+Chinatown	All
+Chinatown	Chinese
+

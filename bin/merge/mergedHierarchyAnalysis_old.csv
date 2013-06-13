@@ -1,0 +1,171 @@
+Near North Side,Yahoo,Gold Coast:Metromix;Magnificent Mile:Metromix;Near North Side:Metromix;River North:Metromix;Streeterville:Metromix;River North:Metromix;Gold Coast:Yelp;Magnificent Mile:Yelp;Near North Side:Yelp;River East:Yelp;River North:Yelp;Streeterville:Yelp;Gold Coast/Mag Mile/Streeterville:ChicagoReader;Near North:ChicagoReader;River North:ChicagoReader;Central Chicago:YellowPages;Near North Side:YellowPages;Near North Side:Menuism;Central:CitySearch;Gold Coast:MenuPages;River North:MenuPages;Streeterville:MenuPages;Near North Side:DexKnows;
+
+Loop,Yahoo,Grant Park Museums:Metromix;Loop:Metromix;South Loop:Metromix;Loop:Metromix;South Loop:Yelp;The Loop:Yelp;Loop:ChicagoReader;Printers Row:ChicagoReader;South Loop:ChicagoReader;Loop:YellowPages;Loop:Menuism;South Loop:Menuism;Central:CitySearch;Loop:MenuPages;South Loop / Near South:MenuPages;Central:DexKnows;Loop:DexKnows;
+
+Lakeview,Yahoo,Boystown:Metromix;Lakeview:Metromix;Lakeview East:Metromix;Uptown:Metromix;Lakeview:Metromix;Lakeview:Yelp;Uptown:Yelp;Wrigleyville:Yelp;Lakeview:ChicagoReader;Lincoln Park:ChicagoReader;Wrigleyville:ChicagoReader;Lakeview:YellowPages;Wrigleyville:YellowPages;Lakeview:Menuism;Lakeview:CitySearch;Wrigleyville:CitySearch;Lincoln Park / DePaul:MenuPages;Uptown:MenuPages;Wrigleyville / Lakeview:MenuPages;Lakeview:DexKnows;North Side:DexKnows;Wrigleyville:DexKnows;
+
+West Town,Yahoo,Bucktown/Wicker Park:Metromix;East Village / Ukrainian Village:Metromix;Logan Square:Metromix;West Town:Metromix;Humboldt Park:Metromix;Humboldt Park:Yelp;Near West Side:Yelp;Noble Square:Yelp;River West:Yelp;Ukrainian Village:Yelp;West Loop:Yelp;Wicker Park:Yelp;Humboldt Park:ChicagoReader;River West:ChicagoReader;Ukrainian Village/East Village:ChicagoReader;Wicker Park/Bucktown:ChicagoReader;West Town:ChicagoReader;West Side:YellowPages;Wicker Park:YellowPages;Goose Island:YellowPages;Ukranian Village:YellowPages;West Town:YellowPages;Goose Island:Menuism;Ukrainian Village:Menuism;West Town:Menuism;Wicker Park:Menuism;Goose Island:CitySearch;Ukranian Village:CitySearch;West Side:CitySearch;Wicker Park:CitySearch;Ukranian Village:MenuPages;West Loop / Greektown:MenuPages;Wicker Park / Bucktown:MenuPages;Goose Island:DexKnows;Ukranian Village:DexKnows;West Side:DexKnows;West Town:DexKnows;Wicker Park:DexKnows;
+
+Near West Side,Yahoo,Greektown:Metromix;West Loop:Metromix;United Center:Metromix;Greektown:Yelp;Near West Side:Yelp;West Loop:Yelp;Near South Side:ChicagoReader;Greektown:ChicagoReader;Near West Side:ChicagoReader;River West:ChicagoReader;West Loop:ChicagoReader;West Town:ChicagoReader;Near West Side:YellowPages;West Side:YellowPages;Greektown:YellowPages;Near West Side:Menuism;West Loop:Menuism;Greektown:CitySearch;Near West Side:CitySearch;West Loop / Greektown:MenuPages;Greektown:DexKnows;Near West Side:DexKnows;
+
+Lincoln Park,Yahoo,Lincoln Park:Metromix;Old Town:Metromix;Sheffield/De Paul:Metromix;Lincoln Park:Metromix;DePaul:Yelp;Lakeview:Yelp;Lincoln Park:Yelp;Near North:ChicagoReader;Lakeview:ChicagoReader;Lincoln Park:ChicagoReader;Old Town:ChicagoReader;Central Chicago:YellowPages;Lincoln Park:YellowPages;Near North Side:YellowPages;North Side:YellowPages;DePaul:Menuism;Lakeview:Menuism;Lincoln Park:Menuism;Central:CitySearch;DePaul:CitySearch;Lakeview:CitySearch;Lincoln Park:CitySearch;Lincoln Park / DePaul:MenuPages;DePaul:DexKnows;Lincoln Park:DexKnows;
+
+Wicker Park,Yahoo,Bucktown/Wicker Park:Metromix;East Village / Ukrainian Village:Metromix;Ukrainian Village:Yelp;Wicker Park:Yelp;Ukrainian Village/East Village:ChicagoReader;Wicker Park/Bucktown:ChicagoReader;West Side:YellowPages;Wicker Park:YellowPages;Goose Island:YellowPages;Ukranian Village:YellowPages;Wicker Park:Menuism;Goose Island:CitySearch;Wicker Park:CitySearch;Wicker Park / Bucktown:MenuPages;Goose Island:DexKnows;Ukranian Village:DexKnows;Wicker Park:DexKnows;
+
+Depaul,Yahoo,Lincoln Park:Metromix;Sheffield/De Paul:Metromix;Lincoln Park:Metromix;DePaul:Yelp;Lincoln Park:Yelp;Lakeview:ChicagoReader;Lincoln Park:ChicagoReader;DePaul:YellowPages;North Side:YellowPages;DePaul:Menuism;DePaul:CitySearch;Lincoln Park / DePaul:MenuPages;Bucktown:DexKnows;DePaul:DexKnows;North Side:DexKnows;
+
+West Ridge,Yahoo,Devon Avenue:Metromix;North Center / Sauganash:Metromix;Rogers Park:Metromix;Rogers Park:Metromix;Ravenswood:ChicagoReader;Rogers Park/West Rogers Park:ChicagoReader;West Rogers Park:YellowPages;West Rogers Park:Menuism;West Rogers Park:CitySearch;Rogers Park / Devon Ave:MenuPages;Far North Side:DexKnows;West Rogers Park:DexKnows;
+
+Edgewater,Yahoo,Andersonville:Metromix;Edgewater:Metromix;Andersonville:Yelp;Edgewater:Yelp;Uptown:Yelp;Andersonville:ChicagoReader;Edgewater:ChicagoReader;Ravenswood:ChicagoReader;Rogers Park/West Rogers Park:ChicagoReader;Edgewater:YellowPages;Edgewater:Menuism;Far North Side:CitySearch;Edgewater / Andersonville:MenuPages;Rogers Park / Devon Ave:MenuPages;Edgewater:DexKnows;Uptown:DexKnows;
+
+Logan Square,Yahoo,Belmont Cragin/Hermosa:Metromix;Bucktown/Wicker Park:Metromix;Logan Square:Metromix;Avondale:Yelp;Bucktown:Yelp;Logan Square:Yelp;Logan Square:ChicagoReader;Wicker Park/Bucktown:ChicagoReader;Avondale:YellowPages;Bucktown:YellowPages;Logan Square:YellowPages;Avondale:Menuism;Bucktown:Menuism;Logan Square:Menuism;Bucktown:CitySearch;Logan Square:CitySearch;Hermosa:MenuPages;Logan Square / Avondale:MenuPages;Wicker Park / Bucktown:MenuPages;Avondale:DexKnows;Bucktown:DexKnows;Logan Square:DexKnows;North Side:DexKnows;
+
+Uptown,Yahoo,Andersonville:Metromix;Ravenswood:Metromix;Uptown:Metromix;Andersonville:Yelp;Ravenswood:Yelp;Uptown:Yelp;Andersonville:ChicagoReader;Ravenswood:ChicagoReader;Uptown:ChicagoReader;Far North Side:YellowPages;Ravenswood:YellowPages;Uptown:YellowPages;Ravenswood:Menuism;Uptown:Menuism;Far North Side:CitySearch;Edgewater / Andersonville:MenuPages;Uptown:MenuPages;Ravenswood:DexKnows;Uptown:DexKnows;
+
+Belmont Cragin,Yahoo,Belmont Cragin/Hermosa:Metromix;Austin:Metromix;Belmont Central:Yelp;Cragin:Yelp;Montclare:Yelp;Belmont Cragin:ChicagoReader;Belmont Central:YellowPages;Cragin:YellowPages;Dunning:YellowPages;Hermosa:YellowPages;Belmont Central:Menuism;Cragin:Menuism;Dunning:Menuism;Cragin:CitySearch;Montclare / Cragin:MenuPages;Belmont Central:DexKnows;Cragin:DexKnows;Northwest Side:DexKnows;
+
+Portage Park,Yahoo,Belmont Cragin/Hermosa:Metromix;Jefferson Park:Metromix;Portage Park:Metromix;Belmont Central:Yelp;Cragin:Yelp;Dunning:Yelp;Portage Park:Yelp;Belmont Cragin:ChicagoReader;Portage Park:ChicagoReader;Portage Park:YellowPages;Cragin:Menuism;Portage Park:Menuism;Cragin:CitySearch;Montclare / Cragin:MenuPages;Portage Park / Dunning:MenuPages;Belmont Central:DexKnows;Cragin:DexKnows;Northwest Side:DexKnows;Portage Park:DexKnows;
+
+Rogers Park,Yahoo,Edgewater:Metromix;Rogers Park:Metromix;Rogers Park:Metromix;Edgewater:Yelp;Rogers Park:Yelp;Rogers Park/West Rogers Park:ChicagoReader;Edgewater:YellowPages;Rogers Park:YellowPages;Edgewater:Menuism;Rogers Park:Menuism;Far North Side:CitySearch;Edgewater / Andersonville:MenuPages;Rogers Park / Devon Ave:MenuPages;Edgewater:DexKnows;Rogers Park:DexKnows;
+
+River North,Yahoo,River North:Metromix;River North:Metromix;Near North Side:Yelp;River North:Yelp;Loop:ChicagoReader;River North:ChicagoReader;Central Chicago:YellowPages;Near North Side:YellowPages;Near North Side:Menuism;Central:CitySearch;River North:MenuPages;Near North Side:DexKnows;
+
+Albany Park,Yahoo,Albany Park:Metromix;Albany Park:Yelp;Irving Park:Yelp;Albany Park:ChicagoReader;Northwest Side:YellowPages;Albany Park:YellowPages;Irving Park:YellowPages;Albany Park:Menuism;Irving Park:Menuism;Far North Side:CitySearch;Albany Park / North Park:MenuPages;Irving Park:MenuPages;Albany Park:DexKnows;Far North Side:DexKnows;Irving Park:DexKnows;
+
+Austin,Yahoo,Austin:Metromix;Garfield Park:Metromix;Humboldt Park:Metromix;Austin:Yelp;Humboldt Park:Yelp;West Garfield Park:Yelp;Other Northwest:ChicagoReader;Austin:YellowPages;Austin:Menuism;Austin:CitySearch;Hermosa:MenuPages;Humboldt-Austin-Garfield:MenuPages;Montclare / Cragin:MenuPages;Austin:DexKnows;West Side:DexKnows;
+
+Pilsen,Yahoo,Little Tuscany:Metromix;Pilsen/Heart of Chicago/Little Village:Metromix;Pilsen:Yelp;Pilsen/Little Village:ChicagoReader;Other West:ChicagoReader;Little Village:YellowPages;Pilsen:YellowPages;Pilsen:Menuism;Little Village:CitySearch;Pilsen:CitySearch;Chinatown / Pilsen:MenuPages;Lawndale:MenuPages;Little Village:DexKnows;Pilsen:DexKnows;West Side:DexKnows;
+
+West Loop,Yahoo,West Loop:Metromix;Little Italy:Metromix;Near West Side:Yelp;The Loop:Yelp;University Village:Yelp;Loop:ChicagoReader;South Loop:ChicagoReader;West Loop:ChicagoReader;Near West Side:YellowPages;University Village / Little Italy:YellowPages;University Village / Little Italy:Menuism;West Loop:Menuism;Near West Side:CitySearch;Loop:MenuPages;Near West:MenuPages;West Loop / Greektown:MenuPages;Near West Side:DexKnows;
+
+Irving Park,Yahoo,Portage Park:Metromix;Avondale:Yelp;Cragin:Yelp;Hermosa:Yelp;Irving Park:Yelp;Albany Park:ChicagoReader;Avondale:ChicagoReader;Irving Park:ChicagoReader;Northwest Side:YellowPages;Irving Park:YellowPages;Albany Park:Menuism;Avondale:Menuism;Irving Park:Menuism;Hermosa:MenuPages;Irving Park:MenuPages;Avondale:DexKnows;Irving Park:DexKnows;
+
+North Center,Yahoo,Lincoln Square:Metromix;Ravenswood:Metromix;Lakeview:Yelp;North Center:Yelp;Ravenswood:Yelp;Lincoln Square:ChicagoReader;North Center:ChicagoReader;Ravenswood:ChicagoReader;Ravenswood:YellowPages;North Center:YellowPages;North Center:Menuism;Ravenswood:Menuism;Lakeview:CitySearch;North Center:CitySearch;Far North Side:CitySearch;Lincoln Sq / Ravenswood:MenuPages;Roscoe Village / North Ctr:MenuPages;Wrigleyville / Lakeview:MenuPages;North Center:DexKnows;North Side:DexKnows;Ravenswood:DexKnows;
+
+Ravenswood,Yahoo,Lincoln Square:Metromix;Ravenswood:Metromix;Lincoln Square:Yelp;Ravenswood:Yelp;Lincoln Square:ChicagoReader;Ravenswood:ChicagoReader;Ravenswood:YellowPages;Ravenswood:Menuism;Far North Side:CitySearch;Lincoln Sq / Ravenswood:MenuPages;Ravenswood:DexKnows;
+
+Streeterville,Yahoo,Gold Coast:Metromix;Magnificent Mile:Metromix;River North:Metromix;River North:Metromix;Magnificent Mile:Yelp;Near North Side:Yelp;River East:Yelp;Streeterville:Yelp;Gold Coast/Mag Mile/Streeterville:ChicagoReader;Near North:ChicagoReader;River North:ChicagoReader;Near North Side:Menuism;Central:CitySearch;Streeterville:MenuPages;Near North Side:DexKnows;
+
+Avondale,Yahoo,Belmont Cragin/Hermosa:Metromix;Logan Square:Metromix;Portage Park:Metromix;Avondale:Yelp;Logan Square:Yelp;Avondale:ChicagoReader;Logan Square:ChicagoReader;Northwest Side:YellowPages;North Park:YellowPages;Avondale:YellowPages;Irving Park:YellowPages;Avondale:Menuism;Irving Park:Menuism;Logan Square:Menuism;Logan Square:CitySearch;Hermosa:MenuPages;Irving Park:MenuPages;Logan Square / Avondale:MenuPages;Avondale:DexKnows;Logan Square:DexKnows;North Side:DexKnows;
+
+Greater Grand Crossing,Yahoo,Chatham/Avalon Park:Metromix;Park Manor/Grand Crossing:Metromix;Chatham:Yelp;Greater Grand Crossing:Yelp;Chatham:ChicagoReader;South Shore:ChicagoReader;Other South:ChicagoReader;Greater Grand Crossing:YellowPages;Auburn Gresham:Menuism;Chatham:Menuism;Greater Grand Crossing:Menuism;Auburn Gresham:CitySearch;Chatham:CitySearch;Greater Grand Crossing:CitySearch;Far SE Chicago:MenuPages;South Shore / Woodlawn:MenuPages;Chatham:DexKnows;Greater Grand Crossing:DexKnows;South Side:DexKnows;
+
+Garfield Ridge,Yahoo,Midway:Metromix;Garfield Ridge:Yelp;West Lawn:Yelp;Other Southwest:ChicagoReader;Garfield Ridge:YellowPages;McKinley Park:YellowPages;Bridgeport:Menuism;Brighton Park:Menuism;Garfield Ridge:Menuism;McKinley Park:Menuism;West Lawn:Menuism;Garfield Ridge:CitySearch;Chicago Lawn / Ashburn:MenuPages;Midway:MenuPages;Bridgeport:DexKnows;Brighton Park:DexKnows;Garfield Ridge:DexKnows;Southwest Side:DexKnows;
+
+Andersonville,Yahoo,Andersonville:Metromix;Andersonville:Yelp;Edgewater:Yelp;Uptown:Yelp;Andersonville:ChicagoReader;Edgewater:ChicagoReader;Ravenswood:ChicagoReader;Edgewater:YellowPages;Edgewater:Menuism;Ravenswood:Menuism;Uptown:Menuism;Far North Side:CitySearch;Edgewater / Andersonville:MenuPages;Edgewater:DexKnows;Ravenswood:DexKnows;Uptown:DexKnows;
+
+Dunning,Yahoo,Belmont Cragin/Hermosa:Metromix;Galewood/Montclare:Metromix;Belmont Central:Yelp;Dunning:Yelp;Montclare:Yelp;Belmont Cragin:ChicagoReader;Other Northwest:ChicagoReader;Dunning:YellowPages;Dunning:Menuism;Portage Park:Menuism;Portage Park / Dunning:MenuPages;Belmont Central:DexKnows;Dunning:DexKnows;Northwest Side:DexKnows;Portage Park:DexKnows;
+
+Chinatown,Yahoo,Near South Side:Metromix;Bridgeport/Sox:Metromix;Chinatown:Metromix;Chinatown:Yelp;Bridgeport:ChicagoReader;Chinatown:ChicagoReader;Armour Square:YellowPages;Armour Square:Menuism;South Side:CitySearch;Chinatown / Pilsen:MenuPages;Armour Square:DexKnows;
+
+Gold Coast,Yahoo,Near North Side:Metromix;Gold Coast:Yelp;Near North Side:Yelp;Gold Coast/Mag Mile/Streeterville:ChicagoReader;Near North:ChicagoReader;Lincoln Park:Menuism;Near North Side:Menuism;Central:CitySearch;Lincoln Park:CitySearch;Gold Coast:MenuPages;Old Town / Goose Island:MenuPages;Near North Side:DexKnows;
+
+Humboldt Park,Yahoo,Garfield Park:Metromix;Humboldt Park:Metromix;Humboldt Park:Yelp;Garfield Park:ChicagoReader;Humboldt Park:ChicagoReader;Humboldt Park:YellowPages;Humboldt Park:Menuism;Austin:CitySearch;Humboldt Park:CitySearch;Hermosa:MenuPages;Humboldt-Austin-Garfield:MenuPages;Humboldt Park:DexKnows;West Side:DexKnows;
+
+South Shore,Yahoo,South Chicago:Metromix;South Shore:Metromix;South:Yelp;South Shore:Yelp;South Shore:ChicagoReader;Avalon Park:YellowPages;South Chicago:YellowPages;South Shore:YellowPages;Avalon Park:Menuism;South Chicago:Menuism;South Shore:Menuism;South Chicago:CitySearch;South Shore:CitySearch;South Shore / Woodlawn:MenuPages;South Chicago:DexKnows;South Shore:DexKnows;South Side:DexKnows;
+
+Hyde Park,Yahoo,Hyde Park/University Of Chicago:Metromix;Washington Park / Woodlawn:Metromix;Hyde Park:Yelp;Hyde Park:ChicagoReader;Hyde Park:YellowPages;Hyde Park:Menuism;Hyde Park:CitySearch;Hyde Park / Kenwood:MenuPages;Hyde Park:DexKnows;South Side:DexKnows;
+
+Bridgeport,Yahoo,Bridgeport/Sox:Metromix;Back Of The Yards:Metromix;Bridgeport:Yelp;Canaryville:Yelp;New City:Yelp;Bridgeport:ChicagoReader;South Side:YellowPages;Bridgeport:YellowPages;Bridgeport:Menuism;Garfield Ridge:Menuism;Bridgeport:CitySearch;Bridgeport-McKinley Park:MenuPages;Bridgeport:DexKnows;South Side:DexKnows;
+
+New City,Yahoo,Back Of The Yards:Metromix;Back of the Yards:Yelp;Englewood:Yelp;New City:Yelp;Southwest Side:YellowPages;Back of the Yards:YellowPages;New City:Menuism;Back of the Yards:CitySearch;Englewood:CitySearch;New City / Chatham:MenuPages;Back of the Yards:DexKnows;South Side:DexKnows;Southwest Side:DexKnows;
+
+Brighton Park,Yahoo,Archer Height/Brighton/ Mc Kinley Park:Metromix;Back Of The Yards:Metromix;Brighton Park:Yelp;Back of the Yards:YellowPages;Brighton Park:YellowPages;Brighton Park:Menuism;Garfield Ridge:Menuism;New City:Menuism;Back of the Yards:CitySearch;Brighton Park:CitySearch;Archer Hts / Brighton Pk:MenuPages;New City / Chatham:MenuPages;Brighton Park:DexKnows;Southwest Side:DexKnows;
+
+Bucktown,Yahoo,Bucktown/Wicker Park:Metromix;Bucktown:Yelp;Logan Square:Yelp;Logan Square:ChicagoReader;Wicker Park/Bucktown:ChicagoReader;Bucktown:YellowPages;Bucktown:Menuism;Bucktown:CitySearch;Lincoln Park / DePaul:MenuPages;Wicker Park / Bucktown:MenuPages;Bucktown:DexKnows;North Side:DexKnows;
+
+North Park,Yahoo,North Center / Sauganash:Metromix;Albany Park:Yelp;North Park:Yelp;Albany Park:ChicagoReader;Rogers Park/West Rogers Park:ChicagoReader;Other North:ChicagoReader;Other Northwest:ChicagoReader;North Park:YellowPages;Albany Park:Menuism;North Park:Menuism;DePaul:CitySearch;Lakeview:CitySearch;Far North Side:CitySearch;Albany Park / North Park:MenuPages;Rogers Park / Devon Ave:MenuPages;Albany Park:DexKnows;Far North Side:DexKnows;North Park:DexKnows;
+
+Near South Side,Yahoo,Near South Side:Metromix;South Loop:Metromix;Near Southside:Yelp;South Loop:ChicagoReader;Near South Side:YellowPages;Near South Side:Menuism;South Loop:Menuism;Central:CitySearch;South Loop / Near South:MenuPages;Near South Side:DexKnows;
+
+Jefferson Park,Yahoo,Jefferson Park:Metromix;Jefferson Park:Yelp;Norwood Park:Yelp;Portage Park:Yelp;Jefferson Park:ChicagoReader;Jefferson Park:YellowPages;Norwood Park:YellowPages;Jefferson Park:Menuism;Norwood Park:Menuism;Norwood Park:CitySearch;Far North Side:CitySearch;Far NW Chicago:MenuPages;Far North Side:DexKnows;Jefferson Park:DexKnows;Norwood Park:DexKnows;Portage Park:DexKnows;
+
+Auburn Gresham,Yahoo,Englewood/Auburn / Gresham:Metromix;Auburn Gresham:Yelp;Far Southwest Side:YellowPages;Auburn Gresham:YellowPages;Auburn Gresham:Menuism;Auburn Gresham:CitySearch;New City / Chatham:MenuPages;Auburn Gresham:DexKnows;Far southwest Side:DexKnows;
+
+West Park,Yahoo,East Village / Ukrainian Village:Metromix;Logan Square:Metromix;Garfield Park:Metromix;Humboldt Park:Metromix;Humboldt Park:Yelp;Ukrainian Village:Yelp;Wicker Park:Yelp;Humboldt Park:ChicagoReader;Ukrainian Village/East Village:ChicagoReader;Wicker Park/Bucktown:ChicagoReader;West Town:YellowPages;Humboldt Park:Menuism;West Town:Menuism;Wicker Park:Menuism;Humboldt Park:CitySearch;West Side:CitySearch;Wicker Park:CitySearch;Humboldt-Austin-Garfield:MenuPages;Ukranian Village:MenuPages;Wicker Park / Bucktown:MenuPages;Humboldt Park:DexKnows;West Side:DexKnows;West Town:DexKnows;Wicker Park:DexKnows;
+
+West Lawn,Yahoo,Ashburn/West Lawn / Ford City:Metromix;West Elsdon:Yelp;West Lawn:Yelp;West Lawn:ChicagoReader;Ashburn:YellowPages;Scottsdale:YellowPages;West Lawn:YellowPages;Ashburn:Menuism;West Lawn:Menuism;Scottsdale:CitySearch;West Elsdon:CitySearch;West Lawn:CitySearch;Chicago Lawn / Ashburn:MenuPages;Far southwest Side:DexKnows;Southwest Side:DexKnows;West Elsdon:DexKnows;West Lawn:DexKnows;
+
+Ashburn,Yahoo,Ashburn/West Lawn / Ford City:Metromix;Ashburn:Yelp;Scottsdale:Yelp;Ashburn:YellowPages;Scottsdale:YellowPages;Ashburn:Menuism;Scottsdale:Menuism;West Lawn:Menuism;Scottsdale:CitySearch;West Lawn:CitySearch;Chicago Lawn / Ashburn:MenuPages;Ashburn:DexKnows;Far southwest Side:DexKnows;Scottsdale:DexKnows;West Lawn:DexKnows;
+
+Norwood Park,Yahoo,Jefferson Park:Metromix;Norwood Park:Metromix;O'Hare:Metromix;Norwood Park:Yelp;Other Northwest:ChicagoReader;Jefferson Park:YellowPages;Norwood Park:YellowPages;Jefferson Park:Menuism;Norwood Park:Menuism;Norwood Park:CitySearch;Far NW Chicago:MenuPages;Jefferson Park:DexKnows;Norwood Park:DexKnows;
+
+Gage Park,Yahoo,Ashburn/West Lawn / Ford City:Metromix;:Yelp;Gage Park:Yelp;Marquette Park:Yelp;Chicago Lawn:YellowPages;Gage Park:YellowPages;Chicago Lawn:Menuism;Gage Park:Menuism;Chicago Lawn:CitySearch;Gage Park:CitySearch;Archer Hts / Brighton Pk:MenuPages;Chicago Lawn / Ashburn:MenuPages;Chicago Lawn:DexKnows;Gage Park:DexKnows;Southwest Side:DexKnows;
+
+Clearing,Yahoo,Midway:Metromix;Clearing:Yelp;Clearing:YellowPages;Clearing:Menuism;West Lawn:Menuism;Clearing:CitySearch;Chicago Lawn / Ashburn:MenuPages;Midway:MenuPages;Clearing:DexKnows;
+
+Little Italy,Yahoo,Little Italy:Metromix;University Village:Yelp;University Village/Little Italy:ChicagoReader;Near West Side:ChicagoReader;University Village / Little Italy:YellowPages;University Village / Little Italy:Menuism;West Side:CitySearch;Near West:MenuPages;
+
+Chatham,Yahoo,Chatham/Avalon Park:Metromix;Englewood/Auburn / Gresham:Metromix;Auburn Gresham:Yelp;Chatham:Yelp;Chatham:ChicagoReader;Far Southeast Side:YellowPages;Chatham:YellowPages;Chatham:Menuism;Auburn Gresham:CitySearch;Chatham:CitySearch;Far SE Chicago:MenuPages;New City / Chatham:MenuPages;Chatham:DexKnows;Far Southeast Side:DexKnows;
+
+Archer Heights,Yahoo,Archer Height/Brighton/ Mc Kinley Park:Metromix;Archer Heights:Yelp;Brighton Park:Yelp;Archer Heights:YellowPages;Brighton Park:YellowPages;Archer Heights:Menuism;Brighton Park:Menuism;Archer Heights:CitySearch;Brighton Park:CitySearch;Archer Hts / Brighton Pk:MenuPages;Archer Heights:DexKnows;Brighton Park:DexKnows;Little Village:DexKnows;Southwest Side:DexKnows;
+
+Roseland,Yahoo,Roseland/Csu/ Washington Heights:Metromix;Roseland:Yelp;Far Southeast Side:YellowPages;Roseland:YellowPages;Roseland:Menuism;West Pullman:Menuism;Far SW Chicago:MenuPages;Far Southeast Side:DexKnows;Roseland:DexKnows;West Pullman:DexKnows;
+
+Roscoe Village,Yahoo,Roscoe Village:Metromix;Roscoe Village:Yelp;Lakeview:ChicagoReader;Roscoe Village:ChicagoReader;North Center:YellowPages;Roscoe Village:YellowPages;North Center:Menuism;Roscoe Village:Menuism;North Center:CitySearch;Roscoe Village:CitySearch;Roscoe Village / North Ctr:MenuPages;Wrigleyville / Lakeview:MenuPages;North Center:DexKnows;North Side:DexKnows;Roscoe Village:DexKnows;
+
+West Englewood,Yahoo,Englewood/Auburn / Gresham:Metromix;Englewood:Yelp;West Englewood:Yelp;Southwest Side:YellowPages;West Englewood:YellowPages;Englewood:Menuism;New City:Menuism;West Englewood:Menuism;Back of the Yards:CitySearch;Englewood:CitySearch;West Englewood:CitySearch;Back of the Yards:DexKnows;Englewood:DexKnows;Southwest Side:DexKnows;West Englewood:DexKnows;
+
+Beverly,Yahoo,Beverly/Mt Greenwood:Metromix;Roseland/Csu/ Washington Heights:Metromix;Beverly:Yelp;Beverly:ChicagoReader;Far Southeast Side:YellowPages;Beverly:YellowPages;Washington Heights / Brainerd:YellowPages;Beverly:Menuism;Far southwest Side:CitySearch;Washington Heights / Brainerd:CitySearch;Far SW Chicago:MenuPages;Beverly:DexKnows;Far southwest Side:DexKnows;
+
+Morgan Park,Yahoo,Beverly/Mt Greenwood:Metromix;Roseland/Csu/ Washington Heights:Metromix;Morgan Park:Yelp;Roseland:Yelp;Other South:ChicagoReader;Far Southwest Side:YellowPages;Morgan Park:YellowPages;Morgan Park:Menuism;Far southwest Side:CitySearch;Far SW Chicago:MenuPages;Far southwest Side:DexKnows;Morgan Park:DexKnows;
+
+North Lawndale,Yahoo,Lawndale:Metromix;East Garfield Park:Yelp;Lawndale:Yelp;West Garfield Park:Yelp;Little Village:YellowPages;North Lawndale:YellowPages;Lawndale:Menuism;Little Village:Menuism;Little Village:CitySearch;North Lawndale:CitySearch;Humboldt-Austin-Garfield:MenuPages;North Lawndale:DexKnows;West Side:DexKnows;
+
+O'Hare,Yahoo,O'Hare:Metromix;O'Hare:YellowPages;O'Hare:Menuism;Far NW Chicago:MenuPages;
+
+McKinley Park,Yahoo,Archer Height/Brighton/ Mc Kinley Park:Metromix;Back of the Yards:Yelp;McKinley Park:Yelp;New City:Yelp;Brighton Park:YellowPages;McKinley Park:YellowPages;Garfield Ridge:Menuism;McKinley Park:Menuism;McKinley Park:CitySearch;Bridgeport-McKinley Park:MenuPages;McKinley Park:DexKnows;
+
+Lincoln Square,Yahoo,Lincoln Square:Metromix;Lincoln Square:Yelp;Lincoln Square:ChicagoReader;Ravenswood:ChicagoReader;Lincoln Square:YellowPages;Lincoln Square:Menuism;Ravenswood:Menuism;Far North Side:CitySearch;Lincoln Sq / Ravenswood:MenuPages;Lincoln Square:DexKnows;Ravenswood:DexKnows;West Rogers Park:DexKnows;
+
+Old Town,Yahoo,Old Town:Metromix;Near North Side:Yelp;Old Town:Yelp;Near North:ChicagoReader;Old Town:ChicagoReader;Central Chicago:YellowPages;Near North Side:YellowPages;Near North Side:Menuism;Central:CitySearch;Old Town / Goose Island:MenuPages;Near North Side:DexKnows;
+
+Greektown,Yahoo,Greektown:Metromix;West Loop:Metromix;Greektown:Yelp;Near West Side:Yelp;West Loop:Yelp;Greektown:ChicagoReader;Near West Side:YellowPages;West Side:YellowPages;Greektown:YellowPages;West Loop:Menuism;Greektown:CitySearch;Near West Side:CitySearch;West Loop / Greektown:MenuPages;Greektown:DexKnows;Near West Side:DexKnows;
+
+South Chicago,Yahoo,South Chicago:Metromix;Calumet Heights:Yelp;South:Yelp;South Deering:Yelp;Other South:ChicagoReader;South Chicago:YellowPages;South Chicago:Menuism;South Chicago:CitySearch;Far SE Chicago:MenuPages;Far Southeast Side:DexKnows;South Chicago:DexKnows;
+
+West Elsdon,Yahoo,Ashburn/West Lawn / Ford City:Metromix;Archer Heights:Yelp;West Elsdon:Yelp;West Lawn:Yelp;Archer Heights:YellowPages;West Elsdon:YellowPages;West Lawn:YellowPages;Archer Heights:Menuism;West Elsdon:Menuism;Archer Heights:CitySearch;West Elsdon:CitySearch;West Lawn:CitySearch;Archer Hts / Brighton Pk:MenuPages;Chicago Lawn / Ashburn:MenuPages;Archer Heights:DexKnows;Southwest Side:DexKnows;West Elsdon:DexKnows;
+
+Grand Boulevard,Yahoo,Grand Blvd/Oakland / Fuller Park:Metromix;Washington Park / Woodlawn:Metromix;Grand Boulevard:Yelp;Washington Park:Yelp;Bronzeville:ChicagoReader;Grand Boulevard:YellowPages;Bronzeville:Menuism;Grand Boulevard:CitySearch;Washington Park:CitySearch;Bronzeville / Douglas:MenuPages;Grand Boulevard:DexKnows;South Side:DexKnows;
+
+West Garfield Park,Yahoo,Garfield Park:Metromix;West Garfield Park:Yelp;North Park:YellowPages;West Garfield Park:YellowPages;West Garfield Park:Menuism;West Garfield Park:DexKnows;West Side:DexKnows;
+
+Edison Park,Yahoo,Edison Park:Metromix;Norwood Park:Metromix;Edison Park:Yelp;Other Northwest:ChicagoReader;Edison Park:YellowPages;Edison Park:Menuism;Far NW Chicago:MenuPages;Edison Park:DexKnows;
+
+Washington Heights,Yahoo,Far South Side:Metromix;Roseland/Csu/ Washington Heights:Metromix;Auburn Gresham:Yelp;Brainerd:Yelp;Washington Heights:Yelp;Other South:ChicagoReader;Far Southeast Side:YellowPages;Far Southwest Side:YellowPages;Washington Heights / Brainerd:YellowPages;Washington Heights / Brainerd:Menuism;Washington Heights / Brainerd:CitySearch;Far southwest Side:DexKnows;
+
+Englewood,Yahoo,Englewood/Auburn / Gresham:Metromix;Englewood:Yelp;Southwest Side:YellowPages;Englewood:YellowPages;Englewood:Menuism;Englewood:CitySearch;New City / Chatham:MenuPages;Englewood:DexKnows;
+
+Woodlawn,Yahoo,Washington Park / Woodlawn:Metromix;Woodlawn:Yelp;Woodlawn:ChicagoReader;Woodlawn:YellowPages;Woodlawn:Menuism;Woodlawn:CitySearch;South Shore / Woodlawn:MenuPages;South Side:DexKnows;Woodlawn:DexKnows;
+
+Tri-taylor,Yahoo,Lawndale:Metromix;Little Italy:Metromix;Tri-Taylor:Yelp;University Village:Yelp;Tri-Taylor:YellowPages;Tri-Taylor:Menuism;University Village / Little Italy:Menuism;Tri-Taylor:CitySearch;Near West:MenuPages;West Side:DexKnows;
+
+Mount Greenwood,Yahoo,Beverly/Mt Greenwood:Metromix;Mount Greenwood:Yelp;Mount Greenwood:YellowPages;Mount Greenwood:Menuism;Far southwest Side:CitySearch;Mount Greenwood:CitySearch;Far southwest Side:DexKnows;Mount Greenwood:DexKnows;
+
+Hermosa,Yahoo,Belmont Cragin/Hermosa:Metromix;Hermosa:Yelp;Hermosa:YellowPages;Hermosa:Menuism;Logan Square:Menuism;Logan Square:CitySearch;Hermosa:MenuPages;Hermosa:DexKnows;
+
+East Garfield Park,Yahoo,Garfield Park:Metromix;East Garfield Park:Yelp;West Town:ChicagoReader;East Garfield Park:YellowPages;East Garfield Park:Menuism;Lawndale:Menuism;East Garfield Park:CitySearch;North Lawndale:CitySearch;Humboldt-Austin-Garfield:MenuPages;East Garfield Park:DexKnows;West Side:DexKnows;
+
+Douglas,Yahoo,Bronzeville/ Douglas:Metromix;Bronzeville:Yelp;Douglas:Yelp;Douglas:YellowPages;Bronzeville:Menuism;Douglas:CitySearch;Douglas:DexKnows;South Side:DexKnows;
+
+South Deering,Yahoo,Calumet Heights:Metromix;Far South Side:Metromix;South Deering:Yelp;Calumet Heights:YellowPages;Jeffrey Manor:YellowPages;South Deering:YellowPages;Jeffrey Manor:Menuism;South Deering:Menuism;Far SE Chicago:MenuPages;Far Southeast Side:DexKnows;Jeffrey Manor:DexKnows;South Deering:DexKnows;
+
+East Side,Yahoo,Hegewisch/East Side:Metromix;East Side:Yelp;East Side:YellowPages;East Side:Menuism;Far SE Chicago:MenuPages;East Side:DexKnows;Far Southeast Side:DexKnows;
+
+Kenwood,Yahoo,Hyde Park/University Of Chicago:Metromix;Kenwood:Yelp;Hyde Park:ChicagoReader;Kenwood:YellowPages;Kenwood:Menuism;Kenwood:CitySearch;Hyde Park / Kenwood:MenuPages;Grand Boulevard:DexKnows;Kenwood:DexKnows;South Side:DexKnows;
+
+Avalon Park,Yahoo,South Chicago:Metromix;Avalon Park:Yelp;South:Yelp;Avalon Park:YellowPages;Avalon Park:Menuism;Avalon Park:DexKnows;Far Southeast Side:DexKnows;South Chicago:DexKnows;
+
+West Pullman,Yahoo,Far South Side:Metromix;Morgan Park:Yelp;West Pullman:Yelp;Other South:ChicagoReader;Far Southeast Side:YellowPages;West Pullman:YellowPages;West Pullman:Menuism;Far southwest Side:CitySearch;Far SW Chicago:MenuPages;Far Southeast Side:DexKnows;Far southwest Side:DexKnows;Morgan Park:DexKnows;West Pullman:DexKnows;
+
+Sauganash,Yahoo,North Center / Sauganash:Metromix;Sauganash:Yelp;Sauganash:YellowPages;Sauganash:Menuism;Sauganash:CitySearch;Far North Side:CitySearch;Albany Park / North Park:MenuPages;Far North Side:DexKnows;Sauganash:DexKnows;
+
+Hegewisch,Yahoo,Hegewisch/East Side:Metromix;East Side:Yelp;Hegewisch:Yelp;Hegewisch:YellowPages;East Side:Menuism;Hegewisch:Menuism;Far SE Chicago:MenuPages;East Side:DexKnows;Far Southeast Side:DexKnows;Hegewisch:DexKnows;
+
+Forest Glen,Yahoo,Edgebrook:Metromix;Forest Glen:Yelp;Other Northwest:ChicagoReader;Forest Glen:YellowPages;Forest Glen:Menuism;Far North Side:CitySearch;Far NW Chicago:MenuPages;Far North Side:DexKnows;Forest Glen:DexKnows;
+
+Washington Park,Yahoo,Washington Park / Woodlawn:Metromix;Washington Park:Yelp;Washington Park:YellowPages;Washington Park:Menuism;Washington Park:CitySearch;South Side:DexKnows;Washington Park:DexKnows;
+
+Armour Square,Yahoo,Bridgeport/Sox:Metromix;Bronzeville/ Douglas:Metromix;Bridgeport:Yelp;Chinatown:Yelp;Bridgeport:ChicagoReader;South Side:YellowPages;Armour Square:YellowPages;Armour Square:Menuism;South Side:CitySearch;Bridgeport-McKinley Park:MenuPages;Armour Square:DexKnows;
+
+Canaryville,Yahoo,Canaryville:Yelp;New City:Yelp;Southwest Side:YellowPages;Canaryville:YellowPages;New City:Menuism;Canaryville:DexKnows;

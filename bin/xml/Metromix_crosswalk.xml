@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCrosswalk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Crosswalk>
+    <Name>Downtown</Name>
+    <Key />
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near North</Name>
+    <Key />
+  </Crosswalk>
+  <Crosswalk>
+    <Name>North</Name>
+    <Key />
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Northwest</Name>
+    <Key />
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South</Name>
+    <Key />
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Southwest</Name>
+    <Key />
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West</Name>
+    <Key />
+  </Crosswalk>
+</ArrayOfCrosswalk>

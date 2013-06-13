@@ -1,0 +1,108 @@
+All,Burgers,-1,-1
+All,Japanese,0,0.386852807234542
+All,Seafood,0,0
+All,Steaks,1,1
+All,Sushi,0,0.301029995663981
+All,Thai,0,0
+All,French,0.5,0.5
+Downtown,Contemporary,1,1
+Downtown,Burgers,0,0
+Downtown,Japanese,0.5,0.5
+Downtown,Seafood,0,0
+Downtown,Steaks,0,0.356207187108022
+Downtown,Sushi,1,1
+Downtown,Thai,-1,-1
+Downtown,French,-1,-1
+Grant Park Museums,Contemporary,0,0
+Grant Park Museums,Burgers,0,0.356207187108022
+Grant Park Museums,Japanese,0,0
+Grant Park Museums,Seafood,0,0
+Grant Park Museums,Steaks,0,0
+Grant Park Museums,Sushi,0.777777777777778,0.777777777777778
+Grant Park Museums,Thai,0.887070455198913,0.887070455198913
+Grant Park Museums,French,-1,-1
+Greektown,Contemporary,0.549842827163052,0.716721295307783
+Greektown,Burgers,-1,-1
+Greektown,Japanese,-1,-1
+Greektown,Seafood,-1,-1
+Greektown,Steaks,-1,-1
+Greektown,Sushi,-1,-1
+Greektown,Thai,-1,-1
+Greektown,French,-1,-1
+Loop,Contemporary,0,0.315464876785729
+Loop,Burgers,0,0.356207187108022
+Loop,Japanese,0.880122040336371,0.880122040336371
+Loop,Seafood,0,0
+Loop,Steaks,0,0
+Loop,Sushi,0,0.315464876785729
+Loop,Thai,0.438349772880324,0.534252292107862
+Loop,French,-1,-1
+Near South Side,Contemporary,-1,-1
+Near South Side,Burgers,-1,-1
+Near South Side,Japanese,-1,-1
+Near South Side,Seafood,-1,-1
+Near South Side,Steaks,-1,-1
+Near South Side,Sushi,-1,-1
+Near South Side,Thai,-1,-1
+Near South Side,French,-1,-1
+South Loop,Contemporary,0.420236570986963,0.667852873667208
+South Loop,Burgers,0.922403738232479,0.961201869116239
+South Loop,Japanese,0.6,0.733333333333333
+South Loop,Seafood,0.456672848795871,0.456672848795871
+South Loop,Steaks,1,1
+South Loop,Sushi,-1,-1
+South Loop,Thai,-1,-1
+South Loop,French,-1,-1
+Warehouse District,Contemporary,0.5,0.5
+Warehouse District,Burgers,-1,-1
+Warehouse District,Japanese,-1,-1
+Warehouse District,Seafood,-1,-1
+Warehouse District,Steaks,-1,-1
+Warehouse District,Sushi,-1,-1
+Warehouse District,Thai,-1,-1
+Warehouse District,French,-1,-1
+West Loop,Contemporary,0,0.370508476500398
+West Loop,Burgers,0.33921728943257,0.431094859322968
+West Loop,Japanese,0.411764705882353,0.62129834535766
+West Loop,Seafood,0,0
+West Loop,Steaks,0.166139232228341,0.436250818908887
+West Loop,Sushi,-1,-1
+West Loop,Thai,-1,-1
+West Loop,French,-1,-1
+Near North,Contemporary,1,1
+Near North,Burgers,0,0.386852807234542
+Near North,Japanese,0.5,0.5
+Near North,Seafood,0,0.386852807234542
+Near North,Steaks,0,0
+Near North,Sushi,0,0.301029995663981
+Near North,Thai,0.630929753571457,0.630929753571457
+Near North,French,-1,-1
+Gold Coast,Contemporary,0.630929753571457,0.630929753571457
+Gold Coast,Burgers,0.630929753571457,0.630929753571457
+Gold Coast,Japanese,0.446547102043933,0.670630598390121
+Gold Coast,Seafood,-1,-1
+Gold Coast,Steaks,-1,-1
+Gold Coast,Sushi,-1,-1
+Gold Coast,Thai,-1,-1
+Gold Coast,French,-1,-1
+Lincoln Park,Contemporary,0.886580942506778,0.960375171397213
+Lincoln Park,Burgers,0.0547589362194393,0.358210371089251
+Lincoln Park,Japanese,0.452337234757542,0.605138940531066
+Lincoln Park,Seafood,0.538461538461538,0.677398459537222
+Lincoln Park,Steaks,0.333333333333333,0.543643251190486
+Lincoln Park,Sushi,0,0.370628655402855
+Lincoln Park,Thai,-1,-1
+Lincoln Park,French,-1,-1
+Magnificent Mile,Contemporary,0.875,0.916666666666667
+Magnificent Mile,Burgers,0.4375,0.625
+Magnificent Mile,Japanese,0.470147631530004,0.678511706487237
+Magnificent Mile,Seafood,-1,-1
+Magnificent Mile,Steaks,-1,-1
+Magnificent Mile,Sushi,-1,-1
+Magnificent Mile,Thai,-1,-1
+Magnificent Mile,French,-1,-1
+Near North Side,Contemporary,0,0.386852807234542
+Near North Side,Burgers,0,0.386852807234542
+Near North Side,Japanese,0.333333333333333,0.462284269078181
+Near North Side,Seafood,0,0
+Near North Side,Steaks,0.405518304508469,0.52933133413970

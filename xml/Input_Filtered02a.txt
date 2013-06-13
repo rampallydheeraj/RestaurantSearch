@@ -1,0 +1,216 @@
+Albany Park,Sandwiches,-1,-1
+Albany Park,Pizza,-1,-1
+Albany Park,Mexican,-1,-1
+Albany Park,asian,-1,-1
+Albany Park,Chinese,-1,-1
+Andersonville,All,-1,-1
+Andersonville,American,-1,-1
+Andersonville,Italian,-1,-1
+Andersonville,Sandwiches,-1,-1
+Andersonville,Pizza,-1,-1
+Andersonville,Mexican,-1,-1
+Andersonville,asian,-1,-1
+Andersonville,Chinese,-1,-1
+Boystown,All,0,0.356207187
+Boystown,American,0,0
+Boystown,Italian,0.868913212,0.774480643
+Boystown,Sandwiches,0,0.333333333
+Boystown,Pizza,0.617836778,0.54501848
+Boystown,Mexican,0,0.356207187
+Boystown,asian,0,0.386852807
+Boystown,Chinese,-1,-1
+Devon Avenue,All,-1,-1
+Devon Avenue,American,-1,-1
+Devon Avenue,Italian,-1,-1
+Devon Avenue,Sandwiches,-1,-1
+Devon Avenue,Pizza,-1,-1
+Devon Avenue,Mexican,-1,-1
+Devon Avenue,asian,-1,-1
+Devon Avenue,Chinese,-1,-1
+Edgewater,All,-1,-1
+Edgewater,American,-1,-1
+Edgewater,Italian,-1,-1
+Edgewater,Sandwiches,-1,-1
+Edgewater,Pizza,-1,-1
+Edgewater,Mexican,-1,-1
+Edgewater,asian,-1,-1
+Edgewater,Chinese,-1,-1
+Irving Park/Avondale,All,-1,-1
+Irving Park/Avondale,American,-1,-1
+Irving Park/Avondale,Italian,-1,-1
+Irving Park/Avondale,Sandwiches,-1,-1
+Irving Park/Avondale,Pizza,-1,-1
+Irving Park/Avondale,Mexican,-1,-1
+Irving Park/Avondale,asian,-1,-1
+Irving Park/Avondale,Chinese,-1,-1
+Lakeview,All,0,0.386852807
+Lakeview,American,0,0
+Lakeview,Italian,0.914264295,0.855083738
+Lakeview,Sandwiches,0,0
+Lakeview,Pizza,0.609108128,0.557394306
+Lakeview,Mexican,0,0.315464877
+Lakeview,asian,0.430676558,0.414452687
+Lakeview,Chinese,-1,-1
+Lakeview East,All,0,0.356207187
+Lakeview East,American,0,0.333333333
+Lakeview East,Italian,0.896345619,0.779902759
+Lakeview East,Sandwiches,0,0.333333333
+Lakeview East,Pizza,0.912069454,0.866622987
+Lakeview East,Mexican,0,0.335861428
+Lakeview East,asian,0.430676558,0.414452687
+Lakeview East,Chinese,-1,-1
+Lincoln Square,All,-1,-1
+Lincoln Square,American,-1,-1
+Lincoln Square,Italian,-1,-1
+Lincoln Square,Sandwiches,-1,-1
+Lincoln Square,Pizza,-1,-1
+Lincoln Square,Mexican,-1,-1
+Lincoln Square,asian,-1,-1
+Lincoln Square,Chinese,-1,-1
+North Center,All,-1,-1
+North Center,American,-1,-1
+North Center,Italian,-1,-1
+North Center,Sandwiches,-1,-1
+North Center,Pizza,-1,-1
+North Center,Mexican,-1,-1
+North Center,asian,-1,-1
+North Center,Chinese,-1,-1
+North Park,All,-1,-1
+North Park,American,-1,-1
+North Park,Italian,-1,-1
+North Park,Sandwiches,-1,-1
+North Park,Pizza,-1,-1
+North Park,Mexican,-1,-1
+North Park,asian,-1,-1
+North Park,Chinese,-1,-1
+Ravenswood,All,-1,-1
+Ravenswood,American,-1,-1
+Ravenswood,Italian,-1,-1
+Ravenswood,Sandwiches,-1,-1
+Ravenswood,Pizza,-1,-1
+Ravenswood,Mexican,-1,-1
+Ravenswood,asian,-1,-1
+Ravenswood,Chinese,-1,-1
+Rogers Park,All,-1,-1
+Rogers Park,American,-1,-1
+Rogers Park,Italian,-1,-1
+Rogers Park,Sandwiches,-1,-1
+Rogers Park,Pizza,-1,-1
+Rogers Park,Mexican,-1,-1
+Rogers Park,asian,-1,-1
+Rogers Park,Chinese,-1,-1
+Roscoe Village,All,-1,-1
+Roscoe Village,American,-1,-1
+Roscoe Village,Italian,-1,-1
+Roscoe Village,Sandwiches,-1,-1
+Roscoe Village,Pizza,-1,-1
+Roscoe Village,Mexican,-1,-1
+Roscoe Village,asian,-1,-1
+Roscoe Village,Chinese,-1,-1
+Uptown,All,-1,-1
+Uptown,American,-1,-1
+Uptown,Italian,-1,-1
+Uptown,Sandwiches,-1,-1
+Uptown,Pizza,-1,-1
+Uptown,Mexican,-1,-1
+Uptown,asian,-1,-1
+Uptown,Chinese,-1,-1
+West Rogers Park,All,-1,-1
+West Rogers Park,American,-1,-1
+West Rogers Park,Italian,-1,-1
+West Rogers Park,Sandwiches,-1,-1
+West Rogers Park,Pizza,-1,-1
+West Rogers Park,Mexican,-1,-1
+West Rogers Park,asian,-1,-1
+West Rogers Park,Chinese,-1,-1
+Wrigleyville,All,1,1
+Wrigleyville,American,-1,-1
+Wrigleyville,Italian,-1,-1
+Wrigleyville,Sandwiches,-1,-1
+Wrigleyville,Pizza,-1,-1
+Wrigleyville,Mexican,-1,-1
+Wrigleyville,asian,-1,-1
+Wrigleyville,Chinese,-1,-1
+Northwest,All,0,0
+Northwest,American,-1,-1
+Northwest,Italian,-1,-1
+Northwest,Sandwiches,-1,-1
+Northwest,Pizza,-1,-1
+Northwest,Mexican,-1,-1
+Northwest,asian,-1,-1
+Northwest,Chinese,-1,-1
+Belmont Cragin/Hermosa,All,-1,-1
+Belmont Cragin/Hermosa,American,-1,-1
+Belmont Cragin/Hermosa,Italian,-1,-1
+Belmont Cragin/Hermosa,Sandwiches,-1,-1
+Belmont Cragin/Hermosa,Pizza,-1,-1
+Belmont Cragin/Hermosa,Mexican,-1,-1
+Belmont Cragin/Hermosa,asian,-1,-1
+Belmont Cragin/Hermosa,Chinese,-1,-1
+Bucktown/Wicker Park,All,0.586429043,0.571701308
+Bucktown/Wicker Park,American,0,0
+Bucktown/Wicker Park,Italian,0.51411539,0.502987376
+Bucktown/Wicker Park,Sandwiches,1,0.560902662
+Bucktown/Wicker Park,Pizza,0.929332352,0.69305725
+Bucktown/Wicker Park,Mexican,1,0.670807512
+Bucktown/Wicker Park,asian,0.827400851,0.814234826
+Bucktown/Wicker Park,Chinese,-1,-1
+Dunning,All,-1,-1
+Dunning,American,-1,-1
+Dunning,Italian,-1,-1
+Dunning,Sandwiches,-1,-1
+Dunning,Pizza,-1,-1
+Dunning,Mexican,-1,-1
+Dunning,asian,-1,-1
+Dunning,Chinese,-1,-1
+East Village / Ukrainian Village,All,0.5,0.5
+East Village / Ukrainian Village,American,-1,-1
+East Village / Ukrainian Village,Italian,-1,-1
+East Village / Ukrainian Village,Sandwiches,-1,-1
+East Village / Ukrainian Village,Pizza,-1,-1
+East Village / Ukrainian Village,Mexican,-1,-1
+East Village / Ukrainian Village,asian,-1,-1
+East Village / Ukrainian Village,Chinese,-1,-1
+Edgebrook,All,-1,-1
+Edgebrook,American,-1,-1
+Edgebrook,Italian,-1,-1
+Edgebrook,Sandwiches,-1,-1
+Edgebrook,Pizza,-1,-1
+Edgebrook,Mexican,-1,-1
+Edgebrook,asian,-1,-1
+Edgebrook,Chinese,-1,-1
+Edison Park,All,-1,-1
+Edison Park,American,-1,-1
+Edison Park,Italian,-1,-1
+Edison Park,Sandwiches,-1,-1
+Edison Park,Pizza,-1,-1
+Edison Park,Mexican,-1,-1
+Edison Park,asian,-1,-1
+Edison Park,Chinese,-1,-1
+Forest Glen / Sauganash,All,-1,-1
+Forest Glen / Sauganash,American,-1,-1
+Forest Glen / Sauganash,Italian,-1,-1
+Forest Glen / Sauganash,Sandwiches,-1,-1
+Forest Glen / Sauganash,Pizza,-1,-1
+Forest Glen / Sauganash,Mexican,-1,-1
+Forest Glen / Sauganash,asian,-1,-1
+Forest Glen / Sauganash,Chinese,-1,-1
+Galewood/Montclare,All,-1,-1
+Galewood/Montclare,American,-1,-1
+Galewood/Montclare,Italian,-1,-1
+Galewood/Montclare,Sandwiches,-1,-1
+Galewood/Montclare,Pizza,-1,-1
+Galewood/Montclare,Mexican,-1,-1
+Galewood/Montclare,asian,-1,-1
+Galewood/Montclare,Chinese,-1,-1
+Jefferson Park,All,-1,-1
+Jefferson Park,American,-1,-1
+Jefferson Park,Italian,-1,-1
+Jefferson Park,Sandwiches,-1,-1
+Jefferson Park,Pizza,-1,-1
+Jefferson Park,Mexican,-1,-1
+Jefferson Park,asian,-1,-1
+Jefferson Park,Chinese,-1,-1
+Logan Square,All,0,0.381280876
+Logan Square,American,0.630929754,0.630929754
+Logan Square,Italian,-1,-1

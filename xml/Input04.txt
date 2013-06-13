@@ -1,0 +1,108 @@
+Dunning,Mexican,-1,-1
+Dunning,asian,-1,-1
+Dunning,Chinese,-1,-1
+East Village / Ukrainian Village,All,0,0.361501477491864
+East Village / Ukrainian Village,American,-1,-1
+East Village / Ukrainian Village,Italian,-1,-1
+East Village / Ukrainian Village,Sandwiches,-1,-1
+East Village / Ukrainian Village,Pizza,-1,-1
+East Village / Ukrainian Village,Mexican,-1,-1
+East Village / Ukrainian Village,asian,-1,-1
+East Village / Ukrainian Village,Chinese,-1,-1
+Edgebrook,All,-1,-1
+Edgebrook,American,-1,-1
+Edgebrook,Italian,-1,-1
+Edgebrook,Sandwiches,-1,-1
+Edgebrook,Pizza,-1,-1
+Edgebrook,Mexican,-1,-1
+Edgebrook,asian,-1,-1
+Edgebrook,Chinese,-1,-1
+Edison Park,All,-1,-1
+Edison Park,American,-1,-1
+Edison Park,Italian,-1,-1
+Edison Park,Sandwiches,-1,-1
+Edison Park,Pizza,-1,-1
+Edison Park,Mexican,-1,-1
+Edison Park,asian,-1,-1
+Edison Park,Chinese,-1,-1
+Forest Glen / Sauganash,All,-1,-1
+Forest Glen / Sauganash,American,-1,-1
+Forest Glen / Sauganash,Italian,-1,-1
+Forest Glen / Sauganash,Sandwiches,-1,-1
+Forest Glen / Sauganash,Pizza,-1,-1
+Forest Glen / Sauganash,Mexican,-1,-1
+Forest Glen / Sauganash,asian,-1,-1
+Forest Glen / Sauganash,Chinese,-1,-1
+Galewood/Montclare,All,-1,-1
+Galewood/Montclare,American,-1,-1
+Galewood/Montclare,Italian,-1,-1
+Galewood/Montclare,Sandwiches,-1,-1
+Galewood/Montclare,Pizza,-1,-1
+Galewood/Montclare,Mexican,-1,-1
+Galewood/Montclare,asian,-1,-1
+Galewood/Montclare,Chinese,-1,-1
+Jefferson Park,All,-1,-1
+Jefferson Park,American,-1,-1
+Jefferson Park,Italian,-1,-1
+Jefferson Park,Sandwiches,-1,-1
+Jefferson Park,Pizza,-1,-1
+Jefferson Park,Mexican,-1,-1
+Jefferson Park,asian,-1,-1
+Jefferson Park,Chinese,-1,-1
+Logan Square,All,0,0
+Logan Square,American,-1,-1
+Logan Square,Italian,-1,-1
+Logan Square,Sandwiches,-1,-1
+Logan Square,Pizza,-1,-1
+Logan Square,Mexican,-1,-1
+Logan Square,asian,-1,-1
+Logan Square,Chinese,-1,-1
+Norwood Park,All,-1,-1
+Norwood Park,American,-1,-1
+Norwood Park,Italian,-1,-1
+Norwood Park,Sandwiches,-1,-1
+Norwood Park,Pizza,-1,-1
+Norwood Park,Mexican,-1,-1
+Norwood Park,asian,-1,-1
+Norwood Park,Chinese,-1,-1
+O'Hare,All,-1,-1
+O'Hare,American,-1,-1
+O'Hare,Italian,-1,-1
+O'Hare,Sandwiches,-1,-1
+O'Hare,Pizza,-1,-1
+O'Hare,Mexican,-1,-1
+O'Hare,asian,-1,-1
+O'Hare,Chinese,-1,-1
+Portage Park,All,-1,-1
+Portage Park,American,-1,-1
+Portage Park,Italian,-1,-1
+Portage Park,Sandwiches,-1,-1
+Portage Park,Pizza,-1,-1
+Portage Park,Mexican,-1,-1
+Portage Park,asian,-1,-1
+Portage Park,Chinese,-1,-1
+West Town,All,0.364335851993989,0.542536142673074
+West Town,American,-1,-1
+West Town,Italian,-1,-1
+West Town,Sandwiches,-1,-1
+West Town,Pizza,-1,-1
+West Town,Mexican,-1,-1
+West Town,asian,-1,-1
+West Town,Chinese,-1,-1
+South,All,0,0
+South,American,-1,-1
+South,Italian,-1,-1
+South,Sandwiches,-1,-1
+South,Pizza,-1,-1
+South,Mexican,-1,-1
+South,asian,-1,-1
+South,Chinese,-1,-1
+Beverly/Mt Greenwood,All,-1,-1
+Beverly/Mt Greenwood,American,-1,-1
+Beverly/Mt Greenwood,Italian,-1,-1
+Beverly/Mt Greenwood,Sandwiches,-1,-1
+Beverly/Mt Greenwood,Pizza,-1,-1
+Beverly/Mt Greenwood,Mexican,-1,-1
+Beverly/Mt Greenwood,asian,-1,-1
+Beverly/Mt Greenwood,Chinese,-1,-1
+Bridgeport/Sox,All,-1,-1

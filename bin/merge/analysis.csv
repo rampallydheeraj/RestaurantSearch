@@ -1,0 +1,636 @@
+25,25,1,Near North Side,Metromix
+28,28,1,Loop,Metromix
+21,22,0.954545454545455,Lakeview,Metromix
+32,32,1,West Town,Metromix
+27,27,1,Near West Side,Metromix
+28,28,1,Lincoln Park,Metromix
+26,27,0.962962962962963,Wicker Park,Metromix
+28,28,1,Depaul,Metromix
+19,20,0.95,West Ridge,Metromix
+33,33,1,Edgewater,Metromix
+22,23,0.956521739130435,Logan Square,Metromix
+36,36,1,Uptown,Metromix
+14,17,0.823529411764706,Belmont Cragin,Metromix
+21,22,0.954545454545455,Portage Park,Metromix
+16,16,1,Rogers Park,Metromix
+17,17,1,River North,Metromix
+19,21,0.904761904761905,Albany Park,Metromix
+16,18,0.888888888888889,Austin,Metromix
+27,28,0.964285714285714,Pilsen,Metromix
+13,15,0.866666666666667,West Loop,Metromix
+11,12,0.916666666666667,Irving Park,Metromix
+10,13,0.769230769230769,North Center,Metromix
+38,39,0.974358974358974,Ravenswood,Metromix
+32,32,1,Streeterville,Metromix
+10,13,0.769230769230769,Avondale,Metromix
+20,22,0.909090909090909,Greater Grand Crossing,Metromix
+15,16,0.9375,Garfield Ridge,Metromix
+31,32,0.96875,Andersonville,Metromix
+11,11,1,Dunning,Metromix
+30,30,1,Chinatown,Metromix
+16,19,0.842105263157895,Gold Coast,Metromix
+6,7,0.857142857142857,Humboldt Park,Metromix
+7,9,0.777777777777778,South Shore,Metromix
+24,24,1,Hyde Park,Metromix
+18,18,1,Bridgeport,Metromix
+5,6,0.833333333333333,New City,Metromix
+14,14,1,Brighton Park,Metromix
+10,11,0.909090909090909,Bucktown,Metromix
+9,10,0.9,North Park,Metromix
+14,14,1,Near South Side,Metromix
+10,10,1,Jefferson Park,Metromix
+8,10,0.8,Auburn Gresham,Metromix
+16,16,1,West Park,Metromix
+8,9,0.888888888888889,West Lawn,Metromix
+4,6,0.666666666666667,Ashburn,Metromix
+13,13,1,Norwood Park,Metromix
+4,4,1,Gage Park,Metromix
+8,8,1,Clearing,Metromix
+19,20,0.95,Little Italy,Metromix
+8,9,0.888888888888889,Chatham,Metromix
+6,6,1,Archer Heights,Metromix
+7,8,0.875,Roseland,Metromix
+15,15,1,Roscoe Village,Metromix
+4,5,0.8,West Englewood,Metromix
+13,14,0.928571428571429,Beverly,Metromix
+14,14,1,Morgan Park,Metromix
+2,3,0.666666666666667,North Lawndale,Metromix
+2,2,1,O'Hare,Metromix
+8,9,0.888888888888889,McKinley Park,Metromix
+7,8,0.875,Lincoln Square,Metromix
+13,13,1,Old Town,Metromix
+13,13,1,Greektown,Metromix
+7,7,1,South Chicago,Metromix
+8,8,1,West Elsdon,Metromix
+6,8,0.75,Grand Boulevard,Metromix
+4,5,0.8,West Garfield Park,Metromix
+10,10,1,Edison Park,Metromix
+4,4,1,Washington Heights,Metromix
+2,5,0.4,Englewood,Metromix
+3,3,1,Woodlawn,Metromix
+7,7,1,Tri-taylor,Metromix
+9,9,1,Mount Greenwood,Metromix
+3,3,1,Hermosa,Metromix
+1,2,0.5,East Garfield Park,Metromix
+3,3,1,Douglas,Metromix
+2,2,1,South Deering,Metromix
+7,7,1,East Side,Metromix
+3,4,0.75,Kenwood,Metromix
+1,1,1,Avalon Park,Metromix
+2,2,1,West Pullman,Metromix
+1,2,0.5,Sauganash,Metromix
+4,4,1,Hegewisch,Metromix
+6,6,1,Forest Glen,Metromix
+3,3,1,Washington Park,Metromix
+5,5,1,Armour Square,Metromix
+42,42,1,Near North Side,Yelp
+39,41,0.951219512195122,Loop,Yelp
+42,42,1,Lakeview,Yelp
+43,43,1,West Town,Yelp
+33,33,1,Near West Side,Yelp
+41,42,0.976190476190476,Lincoln Park,Yelp
+40,40,1,Wicker Park,Yelp
+44,47,0.936170212765957,Depaul,Yelp
+41,41,1,Edgewater,Yelp
+51,52,0.980769230769231,Logan Square,Yelp
+46,46,1,Uptown,Yelp
+44,45,0.977777777777778,Belmont Cragin,Yelp
+39,40,0.975,Portage Park,Yelp
+51,51,1,Rogers Park,Yelp
+38,38,1,River North,Yelp
+32,32,1,Albany Park,Yelp
+38,41,0.926829268292683,Austin,Yelp
+39,39,1,Pilsen,Yelp
+36,36,1,West Loop,Yelp
+40,41,0.975609756097561,Irving Park,Yelp
+37,39,0.948717948717949,North Center,Yelp
+42,43,0.976744186046512,Ravenswood,Yelp
+35,36,0.972222222222222,Streeterville,Yelp
+40,42,0.952380952380952,Avondale,Yelp
+39,41,0.951219512195122,Greater Grand Crossing,Yelp
+34,38,0.894736842105263,Garfield Ridge,Yelp
+31,31,1,Andersonville,Yelp
+27,28,0.964285714285714,Dunning,Yelp
+25,25,1,Chinatown,Yelp
+20,20,1,Gold Coast,Yelp
+34,34,1,Humboldt Park,Yelp
+28,35,0.8,South Shore,Yelp
+21,23,0.91304347826087,Hyde Park,Yelp
+24,26,0.923076923076923,Bridgeport,Yelp
+27,29,0.931034482758621,New City,Yelp
+31,31,1,Brighton Park,Yelp
+28,28,1,Bucktown,Yelp
+27,28,0.964285714285714,North Park,Yelp
+30,30,1,Near South Side,Yelp
+23,23,1,Jefferson Park,Yelp
+27,28,0.964285714285714,Auburn Gresham,Yelp
+21,22,0.954545454545455,West Park,Yelp
+28,29,0.96551724137931,West Lawn,Yelp
+19,25,0.76,Ashburn,Yelp
+25,26,0.961538461538462,Norwood Park,Yelp
+18,19,0.947368421052632,Gage Park,Yelp
+15,16,0.9375,Clearing,Yelp
+21,21,1,Little Italy,Yelp
+17,17,1,Chatham,Yelp
+18,21,0.857142857142857,Archer Heights,Yelp
+17,20,0.85,Roseland,Yelp
+22,22,1,Roscoe Village,Yelp
+17,24,0.708333333333333,West Englewood,Yelp
+19,22,0.863636363636364,Beverly,Yelp
+13,14,0.928571428571429,Morgan Park,Yelp
+18,18,1,North Lawndale,Yelp
+11,12,0.916666666666667,McKinley Park,Yelp
+16,17,0.941176470588235,Lincoln Square,Yelp
+17,17,1,Old Town,Yelp
+16,16,1,Greektown,Yelp
+15,15,1,South Chicago,Yelp
+16,17,0.941176470588235,West Elsdon,Yelp
+13,16,0.8125,Grand Boulevard,Yelp
+11,14,0.785714285714286,West Garfield Park,Yelp
+9,11,0.818181818181818,Edison Park,Yelp
+13,15,0.866666666666667,Washington Heights,Yelp
+12,12,1,Englewood,Yelp
+9,10,0.9,Woodlawn,Yelp
+12,14,0.857142857142857,Tri-taylor,Yelp
+9,10,0.9,Mount Greenwood,Yelp
+12,12,1,Hermosa,Yelp
+9,9,1,East Garfield Park,Yelp
+8,8,1,Douglas,Yelp
+3,3,1,South Deering,Yelp
+12,12,1,East Side,Yelp
+9,10,0.9,Kenwood,Yelp
+5,5,1,Avalon Park,Yelp
+6,6,1,West Pullman,Yelp
+6,7,0.857142857142857,Sauganash,Yelp
+7,7,1,Hegewisch,Yelp
+6,6,1,Forest Glen,Yelp
+7,7,1,Washington Park,Yelp
+6,6,1,Armour Square,Yelp
+2,2,1,Canaryville,Yelp
+41,41,1,Near North Side,ChicagoReader
+30,30,1,Loop,ChicagoReader
+40,40,1,Lakeview,ChicagoReader
+26,26,1,West Town,ChicagoReader
+22,25,0.88,Near West Side,ChicagoReader
+42,42,1,Lincoln Park,ChicagoReader
+33,33,1,Wicker Park,ChicagoReader
+38,38,1,Depaul,ChicagoReader
+13,14,0.928571428571429,West Ridge,ChicagoReader
+28,28,1,Edgewater,ChicagoReader
+25,25,1,Logan Square,ChicagoReader
+22,23,0.956521739130435,Uptown,ChicagoReader
+3,3,1,Belmont Cragin,ChicagoReader
+3,4,0.75,Portage Park,ChicagoReader
+19,19,1,Rogers Park,ChicagoReader
+36,36,1,River North,ChicagoReader
+10,10,1,Albany Park,ChicagoReader
+1,1,1,Austin,ChicagoReader
+11,11,1,Pilsen,ChicagoReader
+8,9,0.888888888888889,West Loop,ChicagoReader
+15,15,1,Irving Park,ChicagoReader
+24,24,1,North Center,ChicagoReader
+24,25,0.96,Ravenswood,ChicagoReader
+25,25,1,Streeterville,ChicagoReader
+15,15,1,Avondale,ChicagoReader
+7,7,1,Greater Grand Crossing,ChicagoReader
+1,2,0.5,Garfield Ridge,ChicagoReader
+20,20,1,Andersonville,ChicagoReader
+3,3,1,Dunning,ChicagoReader
+10,10,1,Chinatown,ChicagoReader
+17,19,0.894736842105263,Gold Coast,ChicagoReader
+5,5,1,Humboldt Park,ChicagoReader
+2,2,1,South Shore,ChicagoReader
+14,14,1,Hyde Park,ChicagoReader
+14,14,1,Bridgeport,ChicagoReader
+9,10,0.9,Bucktown,ChicagoReader
+6,6,1,North Park,ChicagoReader
+12,12,1,Near South Side,ChicagoReader
+3,3,1,Jefferson Park,ChicagoReader
+8,8,1,West Park,ChicagoReader
+2,2,1,West Lawn,ChicagoReader
+2,2,1,Norwood Park,ChicagoReader
+3,3,1,Little Italy,ChicagoReader
+1,1,1,Chatham,ChicagoReader
+10,10,1,Roscoe Village,ChicagoReader
+5,5,1,Beverly,ChicagoReader
+2,2,1,Morgan Park,ChicagoReader
+4,6,0.666666666666667,Lincoln Square,ChicagoReader
+13,13,1,Old Town,ChicagoReader
+5,7,0.714285714285714,Greektown,ChicagoReader
+1,1,1,South Chicago,ChicagoReader
+1,1,1,Grand Boulevard,ChicagoReader
+4,4,1,Edison Park,ChicagoReader
+1,1,1,Washington Heights,ChicagoReader
+1,1,1,Woodlawn,ChicagoReader
+1,2,0.5,East Garfield Park,ChicagoReader
+1,1,1,Kenwood,ChicagoReader
+1,1,1,West Pullman,ChicagoReader
+5,5,1,Forest Glen,ChicagoReader
+1,1,1,Armour Square,ChicagoReader
+1,1,1,Near North Side,YellowPages
+10,11,0.909090909090909,Loop,YellowPages
+20,22,0.909090909090909,Lakeview,YellowPages
+44,44,1,West Town,YellowPages
+33,34,0.970588235294118,Near West Side,YellowPages
+26,28,0.928571428571429,Lincoln Park,YellowPages
+26,27,0.962962962962963,Wicker Park,YellowPages
+26,29,0.896551724137931,Depaul,YellowPages
+34,35,0.971428571428571,West Ridge,YellowPages
+38,38,1,Edgewater,YellowPages
+47,50,0.94,Logan Square,YellowPages
+44,47,0.936170212765957,Uptown,YellowPages
+63,69,0.91304347826087,Belmont Cragin,YellowPages
+39,44,0.886363636363636,Portage Park,YellowPages
+49,50,0.98,Rogers Park,YellowPages
+12,12,1,River North,YellowPages
+49,51,0.96078431372549,Albany Park,YellowPages
+44,47,0.936170212765957,Austin,YellowPages
+45,46,0.978260869565217,Pilsen,YellowPages
+17,20,0.85,West Loop,YellowPages
+47,49,0.959183673469388,Irving Park,YellowPages
+62,67,0.925373134328358,North Center,YellowPages
+15,21,0.714285714285714,Ravenswood,YellowPages
+49,54,0.907407407407407,Avondale,YellowPages
+47,57,0.824561403508772,Greater Grand Crossing,YellowPages
+49,63,0.777777777777778,Garfield Ridge,YellowPages
+6,8,0.75,Andersonville,YellowPages
+45,48,0.9375,Dunning,YellowPages
+43,43,1,Chinatown,YellowPages
+43,47,0.914893617021277,Humboldt Park,YellowPages
+41,47,0.872340425531915,South Shore,YellowPages
+40,45,0.888888888888889,Hyde Park,YellowPages
+42,43,0.976744186046512,Bridgeport,YellowPages
+41,48,0.854166666666667,New City,YellowPages
+44,49,0.897959183673469,Brighton Park,YellowPages
+35,36,0.972222222222222,Bucktown,YellowPages
+32,37,0.864864864864865,North Park,YellowPages
+34,36,0.944444444444444,Near South Side,YellowPages
+35,36,0.972222222222222,Jefferson Park,YellowPages
+39,43,0.906976744186046,Auburn Gresham,YellowPages
+34,36,0.944444444444444,West Park,YellowPages
+32,35,0.914285714285714,West Lawn,YellowPages
+28,34,0.823529411764706,Ashburn,YellowPages
+36,38,0.947368421052632,Norwood Park,YellowPages
+31,35,0.885714285714286,Gage Park,YellowPages
+30,34,0.882352941176471,Clearing,YellowPages
+32,33,0.96969696969697,Little Italy,YellowPages
+26,26,1,Chatham,YellowPages
+25,26,0.961538461538462,Archer Heights,YellowPages
+38,38,1,Roseland,YellowPages
+25,25,1,Roscoe Village,YellowPages
+25,28,0.892857142857143,West Englewood,YellowPages
+24,24,1,Beverly,YellowPages
+26,27,0.962962962962963,Morgan Park,YellowPages
+29,31,0.935483870967742,North Lawndale,YellowPages
+5,5,1,O'Hare,YellowPages
+18,21,0.857142857142857,McKinley Park,YellowPages
+24,24,1,Lincoln Square,YellowPages
+2,2,1,Old Town,YellowPages
+16,16,1,Greektown,YellowPages
+22,22,1,South Chicago,YellowPages
+17,20,0.85,West Elsdon,YellowPages
+17,20,0.85,Grand Boulevard,YellowPages
+18,22,0.818181818181818,West Garfield Park,YellowPages
+12,16,0.75,Edison Park,YellowPages
+23,24,0.958333333333333,Washington Heights,YellowPages
+17,20,0.85,Englewood,YellowPages
+17,18,0.944444444444444,Woodlawn,YellowPages
+13,15,0.866666666666667,Tri-taylor,YellowPages
+19,20,0.95,Mount Greenwood,YellowPages
+14,17,0.823529411764706,Hermosa,YellowPages
+17,17,1,East Garfield Park,YellowPages
+5,9,0.555555555555556,Douglas,YellowPages
+15,17,0.882352941176471,South Deering,YellowPages
+15,16,0.9375,East Side,YellowPages
+10,12,0.833333333333333,Kenwood,YellowPages
+6,7,0.857142857142857,Avalon Park,YellowPages
+9,9,1,West Pullman,YellowPages
+8,8,1,Sauganash,YellowPages
+8,10,0.8,Hegewisch,YellowPages
+7,8,0.875,Forest Glen,YellowPages
+6,7,0.857142857142857,Washington Park,YellowPages
+4,4,1,Armour Square,YellowPages
+5,5,1,Canaryville,YellowPages
+15,15,1,Near North Side,Menuism
+31,34,0.911764705882353,Loop,Menuism
+15,18,0.833333333333333,Lakeview,Menuism
+30,30,1,West Town,Menuism
+17,18,0.944444444444444,Near West Side,Menuism
+32,36,0.888888888888889,Lincoln Park,Menuism
+19,20,0.95,Wicker Park,Menuism
+32,34,0.941176470588235,Depaul,Menuism
+19,21,0.904761904761905,West Ridge,Menuism
+43,43,1,Edgewater,Menuism
+55,60,0.916666666666667,Logan Square,Menuism
+41,46,0.891304347826087,Uptown,Menuism
+27,34,0.794117647058823,Belmont Cragin,Menuism
+23,28,0.821428571428571,Portage Park,Menuism
+52,52,1,Rogers Park,Menuism
+12,12,1,River North,Menuism
+38,39,0.974358974358974,Albany Park,Menuism
+42,46,0.91304347826087,Austin,Menuism
+22,23,0.956521739130435,Pilsen,Menuism
+10,13,0.769230769230769,West Loop,Menuism
+44,45,0.977777777777778,Irving Park,Menuism
+43,50,0.86,North Center,Menuism
+19,25,0.76,Ravenswood,Menuism
+9,13,0.692307692307692,Streeterville,Menuism
+47,50,0.94,Avondale,Menuism
+16,22,0.727272727272727,Greater Grand Crossing,Menuism
+50,58,0.862068965517241,Garfield Ridge,Menuism
+32,34,0.941176470588235,Andersonville,Menuism
+37,39,0.948717948717949,Dunning,Menuism
+41,41,1,Chinatown,Menuism
+4,6,0.666666666666667,Gold Coast,Menuism
+32,39,0.82051282051282,Humboldt Park,Menuism
+24,32,0.75,South Shore,Menuism
+31,38,0.815789473684211,Hyde Park,Menuism
+32,34,0.941176470588235,Bridgeport,Menuism
+26,34,0.764705882352941,New City,Menuism
+38,44,0.863636363636364,Brighton Park,Menuism
+11,13,0.846153846153846,Bucktown,Menuism
+28,33,0.848484848484849,North Park,Menuism
+24,28,0.857142857142857,Near South Side,Menuism
+27,29,0.931034482758621,Jefferson Park,Menuism
+25,27,0.925925925925926,Auburn Gresham,Menuism
+27,30,0.9,West Park,Menuism
+23,28,0.821428571428571,West Lawn,Menuism
+23,29,0.793103448275862,Ashburn,Menuism
+19,22,0.863636363636364,Norwood Park,Menuism
+24,27,0.888888888888889,Gage Park,Menuism
+25,27,0.925925925925926,Clearing,Menuism
+22,22,1,Little Italy,Menuism
+18,21,0.857142857142857,Chatham,Menuism
+19,21,0.904761904761905,Archer Heights,Menuism
+16,24,0.666666666666667,Roseland,Menuism
+15,16,0.9375,Roscoe Village,Menuism
+17,23,0.739130434782609,West Englewood,Menuism
+26,28,0.928571428571429,Beverly,Menuism
+10,15,0.666666666666667,Morgan Park,Menuism
+5,7,0.714285714285714,North Lawndale,Menuism
+4,4,1,O'Hare,Menuism
+19,19,1,McKinley Park,Menuism
+19,22,0.863636363636364,Lincoln Square,Menuism
+5,5,1,Old Town,Menuism
+5,5,1,Greektown,Menuism
+16,16,1,South Chicago,Menuism
+22,24,0.916666666666667,West Elsdon,Menuism
+4,6,0.666666666666667,Grand Boulevard,Menuism
+12,17,0.705882352941177,West Garfield Park,Menuism
+9,13,0.692307692307692,Edison Park,Menuism
+5,9,0.555555555555556,Washington Heights,Menuism
+9,12,0.75,Englewood,Menuism
+10,12,0.833333333333333,Woodlawn,Menuism
+10,13,0.769230769230769,Tri-taylor,Menuism
+12,14,0.857142857142857,Mount Greenwood,Menuism
+15,15,1,Hermosa,Menuism
+8,9,0.888888888888889,East Garfield Park,Menuism
+1,5,0.2,Douglas,Menuism
+7,9,0.777777777777778,South Deering,Menuism
+12,13,0.923076923076923,East Side,Menuism
+5,6,0.833333333333333,Kenwood,Menuism
+8,9,0.888888888888889,Avalon Park,Menuism
+4,5,0.8,West Pullman,Menuism
+5,6,0.833333333333333,Sauganash,Menuism
+9,9,1,Hegewisch,Menuism
+8,9,0.888888888888889,Forest Glen,Menuism
+5,6,0.833333333333333,Washington Park,Menuism
+5,5,1,Armour Square,Menuism
+3,3,1,Canaryville,Menuism
+33,33,1,Near North Side,CitySearch
+18,18,1,Loop,CitySearch
+49,50,0.98,Lakeview,CitySearch
+47,48,0.979166666666667,West Town,CitySearch
+56,56,1,Near West Side,CitySearch
+62,63,0.984126984126984,Lincoln Park,CitySearch
+41,41,1,Wicker Park,CitySearch
+53,53,1,Depaul,CitySearch
+55,57,0.964912280701754,West Ridge,CitySearch
+32,33,0.96969696969697,Edgewater,CitySearch
+61,64,0.953125,Logan Square,CitySearch
+27,28,0.964285714285714,Uptown,CitySearch
+12,18,0.666666666666667,Belmont Cragin,CitySearch
+1,5,0.2,Portage Park,CitySearch
+19,21,0.904761904761905,Rogers Park,CitySearch
+22,22,1,River North,CitySearch
+31,32,0.96875,Albany Park,CitySearch
+72,72,1,Austin,CitySearch
+64,67,0.955223880597015,Pilsen,CitySearch
+42,44,0.954545454545455,West Loop,CitySearch
+47,49,0.959183673469388,North Center,CitySearch
+20,24,0.833333333333333,Ravenswood,CitySearch
+18,18,1,Streeterville,CitySearch
+1,6,0.166666666666667,Avondale,CitySearch
+63,69,0.91304347826087,Greater Grand Crossing,CitySearch
+44,57,0.771929824561403,Garfield Ridge,CitySearch
+20,23,0.869565217391304,Andersonville,CitySearch
+17,17,1,Chinatown,CitySearch
+15,16,0.9375,Gold Coast,CitySearch
+56,57,0.982456140350877,Humboldt Park,CitySearch
+47,50,0.94,South Shore,CitySearch
+32,34,0.941176470588235,Hyde Park,CitySearch
+46,46,1,Bridgeport,CitySearch
+52,54,0.962962962962963,New City,CitySearch
+51,54,0.944444444444444,Brighton Park,CitySearch
+40,40,1,Bucktown,CitySearch
+9,13,0.692307692307692,North Park,CitySearch
+12,15,0.8,Near South Side,CitySearch
+8,11,0.727272727272727,Jefferson Park,CitySearch
+46,47,0.978723404255319,Auburn Gresham,CitySearch
+7,11,0.636363636363636,West Park,CitySearch
+38,40,0.95,West Lawn,CitySearch
+5,18,0.277777777777778,Ashburn,CitySearch
+30,34,0.882352941176471,Norwood Park,CitySearch
+37,39,0.948717948717949,Gage Park,CitySearch
+35,37,0.945945945945946,Clearing,CitySearch
+1,2,0.5,Little Italy,CitySearch
+18,21,0.857142857142857,Chatham,CitySearch
+32,32,1,Archer Heights,CitySearch
+29,30,0.966666666666667,Roscoe Village,CitySearch
+30,36,0.833333333333333,West Englewood,CitySearch
+16,22,0.727272727272727,Beverly,CitySearch
+9,12,0.75,Morgan Park,CitySearch
+34,36,0.944444444444444,North Lawndale,CitySearch
+17,23,0.739130434782609,McKinley Park,CitySearch
+10,10,1,Lincoln Square,CitySearch
+8,8,1,Old Town,CitySearch
+21,21,1,Greektown,CitySearch
+25,25,1,South Chicago,CitySearch
+26,29,0.896551724137931,West Elsdon,CitySearch
+21,24,0.875,Grand Boulevard,CitySearch
+15,21,0.714285714285714,Washington Heights,CitySearch
+22,24,0.916666666666667,Englewood,CitySearch
+18,19,0.947368421052632,Woodlawn,CitySearch
+14,16,0.875,Tri-taylor,CitySearch
+11,12,0.916666666666667,Mount Greenwood,CitySearch
+0,2,0,Hermosa,CitySearch
+18,19,0.947368421052632,East Garfield Park,CitySearch
+12,14,0.857142857142857,Douglas,CitySearch
+10,11,0.909090909090909,Kenwood,CitySearch
+2,2,1,West Pullman,CitySearch
+4,6,0.666666666666667,Sauganash,CitySearch
+1,2,0.5,Forest Glen,CitySearch
+7,8,0.875,Washington Park,CitySearch
+3,4,0.75,Armour Square,CitySearch
+39,39,1,Near North Side,MenuPages
+40,40,1,Loop,MenuPages
+45,45,1,Lakeview,MenuPages
+25,28,0.892857142857143,West Town,MenuPages
+20,21,0.952380952380952,Near West Side,MenuPages
+41,42,0.976190476190476,Lincoln Park,MenuPages
+17,18,0.944444444444444,Wicker Park,MenuPages
+35,36,0.972222222222222,Depaul,MenuPages
+20,21,0.952380952380952,West Ridge,MenuPages
+29,29,1,Edgewater,MenuPages
+37,38,0.973684210526316,Logan Square,MenuPages
+29,30,0.966666666666667,Uptown,MenuPages
+11,12,0.916666666666667,Belmont Cragin,MenuPages
+18,19,0.947368421052632,Portage Park,MenuPages
+24,24,1,Rogers Park,MenuPages
+35,35,1,River North,MenuPages
+23,23,1,Albany Park,MenuPages
+18,19,0.947368421052632,Austin,MenuPages
+21,21,1,Pilsen,MenuPages
+25,26,0.961538461538462,West Loop,MenuPages
+21,22,0.954545454545455,Irving Park,MenuPages
+29,30,0.966666666666667,North Center,MenuPages
+29,30,0.966666666666667,Ravenswood,MenuPages
+21,23,0.91304347826087,Streeterville,MenuPages
+22,23,0.956521739130435,Avondale,MenuPages
+14,15,0.933333333333333,Greater Grand Crossing,MenuPages
+8,9,0.888888888888889,Garfield Ridge,MenuPages
+20,22,0.909090909090909,Andersonville,MenuPages
+8,9,0.888888888888889,Dunning,MenuPages
+22,23,0.956521739130435,Chinatown,MenuPages
+20,23,0.869565217391304,Gold Coast,MenuPages
+13,14,0.928571428571429,Humboldt Park,MenuPages
+7,10,0.7,South Shore,MenuPages
+18,18,1,Hyde Park,MenuPages
+17,17,1,Bridgeport,MenuPages
+6,6,1,New City,MenuPages
+10,10,1,Brighton Park,MenuPages
+13,14,0.928571428571429,Bucktown,MenuPages
+15,16,0.9375,North Park,MenuPages
+13,14,0.928571428571429,Near South Side,MenuPages
+11,11,1,Jefferson Park,MenuPages
+9,11,0.818181818181818,Auburn Gresham,MenuPages
+13,13,1,West Park,MenuPages
+5,5,1,West Lawn,MenuPages
+7,8,0.875,Ashburn,MenuPages
+11,11,1,Norwood Park,MenuPages
+6,6,1,Gage Park,MenuPages
+3,3,1,Clearing,MenuPages
+16,16,1,Little Italy,MenuPages
+5,5,1,Chatham,MenuPages
+9,9,1,Archer Heights,MenuPages
+5,6,0.833333333333333,Roseland,MenuPages
+19,19,1,Roscoe Village,MenuPages
+9,9,1,Beverly,MenuPages
+8,8,1,Morgan Park,MenuPages
+1,2,0.5,North Lawndale,MenuPages
+5,5,1,O'Hare,MenuPages
+3,3,1,McKinley Park,MenuPages
+6,7,0.857142857142857,Lincoln Square,MenuPages
+13,14,0.928571428571429,Old Town,MenuPages
+4,4,1,Greektown,MenuPages
+3,3,1,South Chicago,MenuPages
+6,6,1,West Elsdon,MenuPages
+3,4,0.75,Grand Boulevard,MenuPages
+8,9,0.888888888888889,Edison Park,MenuPages
+2,2,1,Englewood,MenuPages
+2,2,1,Woodlawn,MenuPages
+6,6,1,Tri-taylor,MenuPages
+4,4,1,Hermosa,MenuPages
+3,3,1,East Garfield Park,MenuPages
+2,2,1,South Deering,MenuPages
+3,3,1,East Side,MenuPages
+3,3,1,Kenwood,MenuPages
+2,2,1,West Pullman,MenuPages
+3,3,1,Sauganash,MenuPages
+2,2,1,Hegewisch,MenuPages
+4,4,1,Forest Glen,MenuPages
+3,3,1,Armour Square,MenuPages
+19,19,1,Near North Side,DexKnows
+27,30,0.9,Loop,DexKnows
+42,46,0.91304347826087,Lakeview,DexKnows
+56,58,0.96551724137931,West Town,DexKnows
+38,39,0.974358974358974,Near West Side,DexKnows
+45,46,0.978260869565217,Lincoln Park,DexKnows
+43,45,0.955555555555556,Wicker Park,DexKnows
+47,48,0.979166666666667,Depaul,DexKnows
+59,62,0.951612903225806,West Ridge,DexKnows
+55,55,1,Edgewater,DexKnows
+56,60,0.933333333333333,Logan Square,DexKnows
+55,60,0.916666666666667,Uptown,DexKnows
+59,65,0.907692307692308,Belmont Cragin,DexKnows
+67,72,0.930555555555556,Portage Park,DexKnows
+54,57,0.947368421052632,Rogers Park,DexKnows
+17,17,1,River North,DexKnows
+74,75,0.986666666666667,Albany Park,DexKnows
+70,72,0.972222222222222,Austin,DexKnows
+51,53,0.962264150943396,Pilsen,DexKnows
+33,38,0.868421052631579,West Loop,DexKnows
+55,60,0.916666666666667,Irving Park,DexKnows
+48,53,0.905660377358491,North Center,DexKnows
+51,55,0.927272727272727,Ravenswood,DexKnows
+6,11,0.545454545454545,Streeterville,DexKnows
+51,53,0.962264150943396,Avondale,DexKnows
+48,55,0.872727272727273,Greater Grand Crossing,DexKnows
+50,60,0.833333333333333,Garfield Ridge,DexKnows
+41,41,1,Andersonville,DexKnows
+42,44,0.954545454545455,Dunning,DexKnows
+45,45,1,Chinatown,DexKnows
+25,25,1,Gold Coast,DexKnows
+42,47,0.893617021276596,Humboldt Park,DexKnows
+34,43,0.790697674418605,South Shore,DexKnows
+32,35,0.914285714285714,Hyde Park,DexKnows
+34,37,0.918918918918919,Bridgeport,DexKnows
+36,41,0.878048780487805,New City,DexKnows
+38,45,0.844444444444444,Brighton Park,DexKnows
+30,30,1,Bucktown,DexKnows
+36,38,0.947368421052632,North Park,DexKnows
+24,28,0.857142857142857,Near South Side,DexKnows
+28,32,0.875,Jefferson Park,DexKnows
+40,42,0.952380952380952,Auburn Gresham,DexKnows
+29,32,0.90625,West Park,DexKnows
+33,36,0.916666666666667,West Lawn,DexKnows
+26,30,0.866666666666667,Ashburn,DexKnows
+26,30,0.866666666666667,Norwood Park,DexKnows
+32,35,0.914285714285714,Gage Park,DexKnows
+30,33,0.909090909090909,Clearing,DexKnows
+18,24,0.75,Chatham,DexKnows
+26,27,0.962962962962963,Archer Heights,DexKnows
+30,32,0.9375,Roseland,DexKnows
+21,22,0.954545454545455,Roscoe Village,DexKnows
+21,28,0.75,West Englewood,DexKnows
+26,29,0.896551724137931,Beverly,DexKnows
+23,28,0.821428571428571,Morgan Park,DexKnows
+26,28,0.928571428571429,North Lawndale,DexKnows
+18,21,0.857142857142857,McKinley Park,DexKnows
+20,23,0.869565217391304,Lincoln Square,DexKnows
+4,4,1,Old Town,DexKnows
+15,15,1,Greektown,DexKnows
+22,22,1,South Chicago,DexKnows
+17,23,0.739130434782609,West Elsdon,DexKnows
+17,19,0.894736842105263,Grand Boulevard,DexKnows
+12,15,0.8,West Garfield Park,DexKnows
+18,19,0.947368421052632,Edison Park,DexKnows
+13,15,0.866666666666667,Washington Heights,DexKnows
+17,17,1,Englewood,DexKnows
+8,10,0.8,Woodlawn,DexKnows
+10,13,0.769230769230769,Tri-taylor,DexKnows
+14,17,0.823529411764706,Mount Greenwood,DexKnows
+17,18,0.944444444444444,Hermosa,DexKnows
+16,16,1,East Garfield Park,DexKnows
+7,11,0.636363636363636,Douglas,DexKnows
+10,11,0.909090909090909,South Deering,DexKnows
+19,20,0.95,East Side,DexKnows
+12,12,1,Kenwood,DexKnows
+10,10,1,Avalon Park,DexKnows
+12,12,1,West Pullman,DexKnows
+10,11,0.909090909090909,Sauganash,DexKnows
+13,13,1,Hegewisch,DexKnows
+7,7,1,Forest Glen,DexKnows
+7,8,0.875,Washington Park,DexKnows
+6,6,1,Armour Square,DexKnows
+5,5,1,Canaryville,DexKnows

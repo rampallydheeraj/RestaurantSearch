@@ -1,0 +1,31 @@
+Devon Avenue,Japanese,-1,-1
+Devon Avenue,Seafood,-1,-1
+Devon Avenue,Steaks,-1,-1
+Devon Avenue,Sushi,-1,-1
+Devon Avenue,Thai,-1,-1
+Devon Avenue,French,-1,-1
+Edgewater,Contemporary,-1,-1
+Edgewater,Burgers,-1,-1
+Edgewater,Japanese,-1,-1
+Edgewater,Seafood,-1,-1
+Edgewater,Steaks,-1,-1
+Edgewater,Sushi,-1,-1
+Edgewater,Thai,-1,-1
+Edgewater,French,-1,-1
+Irving Park/Avondale,Contemporary,-1,-1
+Irving Park/Avondale,Burgers,-1,-1
+Irving Park/Avondale,Japanese,-1,-1
+Irving Park/Avondale,Seafood,-1,-1
+Irving Park/Avondale,Steaks,-1,-1
+Irving Park/Avondale,Sushi,-1,-1
+Irving Park/Avondale,Thai,-1,-1
+Irving Park/Avondale,French,-1,-1
+Lakeview,Contemporary,0,0.315464876785729
+Lakeview,Burgers,0.361762627144034,0.491022948403643
+Lakeview,Japanese,0.504622510121872,0.698965821676031
+Lakeview,Seafood,0.430676558073393,0.430676558073393
+Lakeview,Steaks,1,1
+Lakeview,Sushi,0,0.333333333333333
+Lakeview,Thai,0.517609097956378,0.640849359374563
+Lakeview,French,-1,-1
+Lakeview East,Contemporary,0,0

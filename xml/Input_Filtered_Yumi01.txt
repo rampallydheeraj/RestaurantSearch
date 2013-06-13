@@ -1,0 +1,270 @@
+All,American,1000,1000
+All,Italian,1000,1000
+All,Sandwiches,1000,1000
+All,Pizza,1,0.846713202
+All,Mexican,0.630929754,0.630929754
+All,asian,1000,1000
+All,Chinese,0.5,0.5
+Downtown,All,1,1
+Downtown,American,1000,1000
+Downtown,Italian,0.430676558,0.35865069
+Downtown,Sandwiches,1000,1000
+Downtown,Pizza,1000,1000
+Downtown,Mexican,0,0.324984961
+Downtown,asian,1,0.448177589
+Downtown,Chinese,-1000,-167
+Grant Park Museums,All,1,1
+Grant Park Museums,American,1000,1000
+Grant Park Museums,Italian,0.966972486,0.894203627
+Grant Park Museums,Sandwiches,0.794117647,0.794117647
+Grant Park Museums,Pizza,0.753953169,0.753953169
+Grant Park Museums,Mexican,0.772270623,0.772270623
+Grant Park Museums,asian,0,0.356207187
+Grant Park Museums,Chinese,1000,1000
+Greektown,All,0.761406578,0.720105405
+Greektown,American,0.630929754,0.630929754
+Greektown,Italian,-1000,-55
+Greektown,Sandwiches,1000,1000
+Greektown,Pizza,1,1
+Greektown,Mexican,-1000,-32
+Greektown,asian,-1000,-32
+Greektown,Chinese,-1000,-26
+Loop,All,1,1
+Loop,American,0.5,0.5
+Loop,Italian,0.918017014,0.748544141
+Loop,Sandwiches,0.848029899,0.797988351
+Loop,Pizza,0.753953169,0.477128684
+Loop,Mexican,1,1
+Loop,asian,0.630929754,0.630929754
+Loop,Chinese,1000,1000
+Near South Side,All,1,1
+Near South Side,American,-1000,-30
+Near South Side,Italian,-1000,-53
+Near South Side,Sandwiches,-1000,-40
+Near South Side,Pizza,-1000,-47
+Near South Side,Mexican,-1000,-50
+Near South Side,asian,-1000,-24
+Near South Side,Chinese,-1000,-64
+South Loop,All,0.8,0.726216133
+South Loop,American,0.87703403,0.871181015
+South Loop,Italian,1,0.871241437
+South Loop,Sandwiches,0,0.332925867
+South Loop,Pizza,1,1
+South Loop,Mexican,1,1
+South Loop,asian,1,1
+South Loop,Chinese,-1000,-51
+Warehouse District,All,0.803162535,0.803162535
+Warehouse District,American,1000,1000
+Warehouse District,Italian,1,0.570804791
+Warehouse District,Sandwiches,-1000,-49
+Warehouse District,Pizza,1000,1000
+Warehouse District,Mexican,-1000,-38
+Warehouse District,asian,0,0.315464877
+Warehouse District,Chinese,-1000,-26
+West Loop,All,0,0.356207187
+West Loop,American,1,0.664693766
+West Loop,Italian,0.625455607,0.62167562
+West Loop,Sandwiches,1000,1000
+West Loop,Pizza,0,0.386852807
+West Loop,Mexican,0.8,0.8
+West Loop,asian,0.512008478,0.512008478
+West Loop,Chinese,-1000,-36
+Near North,All,0.630929754,0.630929754
+Near North,American,1000,1000
+Near North,Italian,0.666666667,0.666666667
+Near North,Sandwiches,0,0.301029996
+Near North,Pizza,0,0.356207187
+Near North,Mexican,1000,1000
+Near North,asian,0,0.333311859
+Near North,Chinese,0,0.301029996
+Gold Coast,All,0.5,0.5
+Gold Coast,American,0.760498027,0.752945073
+Gold Coast,Italian,1,0.988372763
+Gold Coast,Sandwiches,1000,1000
+Gold Coast,Pizza,1,1
+Gold Coast,Mexican,1,1
+Gold Coast,asian,0.630929754,0.630929754
+Gold Coast,Chinese,0,0.301029996
+Lincoln Park,All,0.869309248,0.869309248
+Lincoln Park,American,0.598245968,0.598245968
+Lincoln Park,Italian,0.872136583,0.854859734
+Lincoln Park,Sandwiches,1,0.800294284
+Lincoln Park,Pizza,1,0.444444444
+Lincoln Park,Mexican,0,0.322485699
+Lincoln Park,asian,0.5,0.5
+Lincoln Park,Chinese,0,0.386852807
+Magnificent Mile,All,0,0.315464877
+Magnificent Mile,American,0.723111047,0.708883782
+Magnificent Mile,Italian,0.698593472,0.674185331
+Magnificent Mile,Sandwiches,1000,1000
+Magnificent Mile,Pizza,1000,1000
+Magnificent Mile,Mexican,1,1
+Magnificent Mile,asian,1000,1000
+Magnificent Mile,Chinese,-1000,-44
+Near North Side,All,1,0.588841174
+Near North Side,American,0.630929754,0.630929754
+Near North Side,Italian,1,1
+Near North Side,Sandwiches,1000,1000
+Near North Side,Pizza,0.630929754,0.483346818
+Near North Side,Mexican,0.865464723,0.778376062
+Near North Side,asian,1000,1000
+Near North Side,Chinese,0.668183305,0.668183305
+Old Town,All,1,0.589076574
+Old Town,American,0,0.358245203
+Old Town,Italian,0.982842228,0.982842228
+Old Town,Sandwiches,1000,1000
+Old Town,Pizza,0.430676558,0.430676558
+Old Town,Mexican,0.753953169,0.753953169
+Old Town,asian,0,0.386852807
+Old Town,Chinese,1000,1000
+River North,All,0.789102716,0.789102716
+River North,American,1000,1000
+River North,Italian,0.630929754,0.454704992
+River North,Sandwiches,1,1
+River North,Pizza,0.686982309,0.674008142
+River North,Mexican,0.838956116,0.840556558
+River North,asian,0,0.323100872
+River North,Chinese,0.876976585,0.597844229
+Rush & Division,All,0.630929754,0.414495993
+Rush & Division,American,0.798688956,0.636130981
+Rush & Division,Italian,0.969423504,0.967005059
+Rush & Division,Sandwiches,1000,1000
+Rush & Division,Pizza,1,1
+Rush & Division,Mexican,1,1
+Rush & Division,asian,0.630929754,0.630929754
+Rush & Division,Chinese,1000,1000
+Sheffield/De Paul,All,0.874156766,0.874156766
+Sheffield/De Paul,American,0.772879848,0.772879848
+Sheffield/De Paul,Italian,0.872136583,0.85870641
+Sheffield/De Paul,Sandwiches,1,1
+Sheffield/De Paul,Pizza,1,0.447123195
+Sheffield/De Paul,Mexican,0.430676558,0.37482453
+Sheffield/De Paul,asian,0.5,0.5
+Sheffield/De Paul,Chinese,0.430676558,0.430676558
+Streeterville,All,0.708340826,0.706522433
+Streeterville,American,0.787070705,0.787070705
+Streeterville,Italian,0.806548728,0.804402023
+Streeterville,Sandwiches,0.5,0.5
+Streeterville,Pizza,1000,1000
+Streeterville,Mexican,1,1
+Streeterville,asian,1000,1000
+Streeterville,Chinese,-1000,-45
+North,All,1000,1000
+North,American,1,1
+North,Italian,0.704743803,0.477432347
+North,Sandwiches,1000,1000
+North,Pizza,0.430676558,0.400012699
+North,Mexican,0.430676558,0.430676558
+North,asian,0,0.301029996
+North,Chinese,0.430676558,0.430676558
+Albany Park,All,-1000,-123
+Albany Park,American,-1000,-29
+Albany Park,Italian,-1000,-27
+Albany Park,Sandwiches,-1000,-14
+Albany Park,Pizza,-1000,-37
+Albany Park,Mexican,-1000,-68
+Albany Park,asian,-1000,-27
+Albany Park,Chinese,-1000,-41
+Andersonville,All,1000,1000
+Andersonville,American,-1000,-47
+Andersonville,Italian,-1000,-44
+Andersonville,Sandwiches,-1000,-34
+Andersonville,Pizza,1000,1000
+Andersonville,Mexican,-1000,-38
+Andersonville,asian,-1000,-40
+Andersonville,Chinese,-1000,-37
+Boystown,All,0,0.301029996
+Boystown,American,1000,1000
+Boystown,Italian,0.763453192,0.713582178
+Boystown,Sandwiches,1000,1000
+Boystown,Pizza,0.590991245,0.615932165
+Boystown,Mexican,0.430676558,0.329866337
+Boystown,asian,0,0.386852807
+Boystown,Chinese,0.510777836,0.510777836
+Devon Avenue,All,1000,1000
+Devon Avenue,American,-1000,-50
+Devon Avenue,Italian,-1000,-31
+Devon Avenue,Sandwiches,-1000,-32
+Devon Avenue,Pizza,-1000,-50
+Devon Avenue,Mexican,-1000,-54
+Devon Avenue,asian,-1000,-29
+Devon Avenue,Chinese,-1000,-33
+Edgewater,All,-1000,-149
+Edgewater,American,-1000,-53
+Edgewater,Italian,-1000,-46
+Edgewater,Sandwiches,-1000,-40
+Edgewater,Pizza,-1000,-53
+Edgewater,Mexican,-1000,-52
+Edgewater,asian,-1000,-39
+Edgewater,Chinese,-1000,-40
+Irving Park/Avondale,All,1000,1000
+Irving Park/Avondale,American,-1000,-82
+Irving Park/Avondale,Italian,1000,1000
+Irving Park/Avondale,Sandwiches,-1000,-56
+Irving Park/Avondale,Pizza,-1000,-90
+Irving Park/Avondale,Mexican,-1000,-146
+Irving Park/Avondale,asian,1000,1000
+Irving Park/Avondale,Chinese,-1000,-60
+Lakeview,All,0,0.386852807
+Lakeview,American,1,1
+Lakeview,Italian,0.818436387,0.7194779
+Lakeview,Sandwiches,1000,1000
+Lakeview,Pizza,0.577017502,0.597984422
+Lakeview,Mexican,1000,1000
+Lakeview,asian,0.430676558,0.414452687
+Lakeview,Chinese,0.5,0.5
+Lakeview East,All,0.430676558,0.336388149
+Lakeview East,American,1,1
+Lakeview East,Italian,0.881822666,0.797302522
+Lakeview East,Sandwiches,0,0.333333333
+Lakeview East,Pizza,0.581831096,0.581554827
+Lakeview East,Mexican,0.5,0.374181289
+Lakeview East,asian,0.430676558,0.418264996
+Lakeview East,Chinese,0.630929754,0.630929754
+Lincoln Square,All,1000,1000
+Lincoln Square,American,-1000,-22
+Lincoln Square,Italian,-1000,-28
+Lincoln Square,Sandwiches,1000,1000
+Lincoln Square,Pizza,-1000,-43
+Lincoln Square,Mexican,-1000,-41
+Lincoln Square,asian,1000,1000
+Lincoln Square,Chinese,-1000,-26
+North Center,All,-1000,-103
+North Center,American,-1000,-47
+North Center,Italian,-1000,-31
+North Center,Sandwiches,-1000,-28
+North Center,Pizza,-1000,-35
+North Center,Mexican,-1000,-31
+North Center,asian,-1000,-31
+North Center,Chinese,-1000,-26
+North Park,All,1000,1000
+North Park,American,-1000,-24
+North Park,Italian,-1000,-30
+North Park,Sandwiches,-1000,-16
+North Park,Pizza,-1000,-32
+North Park,Mexican,-1000,-39
+North Park,asian,-1000,-26
+North Park,Chinese,-1000,-35
+Ravenswood,All,1000,1000
+Ravenswood,American,1000,1000
+Ravenswood,Italian,-1000,-52
+Ravenswood,Sandwiches,-1000,-39
+Ravenswood,Pizza,1000,1000
+Ravenswood,Mexican,-1000,-57
+Ravenswood,asian,-1000,-45
+Ravenswood,Chinese,-1000,-43
+Rogers Park,All,1000,1000
+Rogers Park,American,-1000,-52
+Rogers Park,Italian,-1000,-26
+Rogers Park,Sandwiches,-1000,-25
+Rogers Park,Pizza,-1000,-42
+Rogers Park,Mexican,-1000,-52
+Rogers Park,asian,-1000,-25
+Rogers Park,Chinese,-1000,-31
+Roscoe Village,All,1000,1000
+Roscoe Village,American,1000,1000
+Roscoe Village,Italian,-1000,-26
+Roscoe Village,Sandwiches,-1000,-19
+Roscoe Village,Pizza,-1000,-24
+Roscoe Village,Mexican,-1000,-29
+Roscoe Village,asian,1000,1000

@@ -1,0 +1,191 @@
+middle_eastern,Metromix,1,Middle Eastern:Yelp;Middle Eastern:ChicagoReader;Middle Eastern:Menuism;Middle Eastern:CitySearch;Middle Eastern:MenuPages;Middle Eastern:DexKnows;Middle Eastern:Yahoo;Middle Eastern:Zagat;
+
+Afghani,Metromix,0,Afghan:Yelp;Afghan:MenuPages;
+
+Israeli,Metromix,0,Israeli:Yahoo;
+
+Lebanese,Metromix,0,Lebanese:Menuism;Lebanese:CitySearch;Lebanese:Zagat;
+
+Persian,Metromix,0,Persian/Iranian:Yelp;Persian:Menuism;Persian:CitySearch;Persian:MenuPages;Persian:Zagat;
+
+Turkish,Metromix,0,Turkish:Yelp;Turkish:Menuism;Turkish:CitySearch;Turkish:MenuPages;Turkish:Zagat;
+
+american,Metromix,1,American:ChicagoReader;American:YellowPages;American:Menuism;American:DexKnows;American:Yahoo;American:Zagat;
+
+American,Metromix,0,American:ChicagoReader;American:YellowPages;American:Menuism;American:DexKnows;American:Yahoo;American:Zagat;
+
+American Regional,Metromix,0,American (Regional):Zagat;
+
+Barbecue,Metromix,0,Barbeque:Yelp;Barbecue/Ribs:ChicagoReader;Barbecue:Menuism;Barbecue:MenuPages;Barbecue:DexKnows;Barbecue:Yahoo;Barbecue:Zagat;
+
+Californian,Metromix,0,Californian:Menuism;Californian:CitySearch;Californian:MenuPages;
+
+Contemporary,Metromix,0,Contemporary/Regional:ChicagoReader;Contemporary:Menuism;
+
+Soul Food,Metromix,0,Soul Food:Yelp;Soul Food:Menuism;Soul Food:Yahoo;Soul Food:Zagat;
+
+Southern,Metromix,0,Southern:Yelp;Southern/Soul Food:ChicagoReader;Southern:Menuism;Southern/Soul:Menuism;Southern:CitySearch;Southern:DexKnows;Southern:Yahoo;Southern:Zagat;
+
+Tex Mex,Metromix,0,Tex-Mex:Yelp;Tex-Mex:Yahoo;Tex-Mex:Zagat;
+
+european,Metromix,1,European:ChicagoReader;European:Menuism;European:CitySearch;European:DexKnows;European:Zagat;
+
+Austrian,Metromix,0,Austrian:CitySearch;Australian:MenuPages;Austrian:MenuPages;Austrian:Zagat;
+
+Belgian,Metromix,0,Belgian:Yelp;Belgian:Menuism;Belgian:CitySearch;Belgian:MenuPages;Belgian:Zagat;
+
+British,Metromix,0,British:Yelp;British:Menuism;British:DexKnows;British:Zagat;
+
+Continental,Metromix,0,Continental:Menuism;Continental:Yahoo;Continental:Zagat;
+
+Czech,Metromix,0,Czech:Menuism;Czech:Zagat;
+
+Eastern European,Metromix,0,Eastern European:Menuism;Eastern European:CitySearch;Eastern European:MenuPages;Eastern European:DexKnows;Eastern European:Zagat;
+
+French,Metromix,0,French:Yelp;French:ChicagoReader;French:Menuism;French:CitySearch;French:MenuPages;French:DexKnows;French:Yahoo;French:Zagat;
+
+German,Metromix,0,German:Yelp;German/Austrian:ChicagoReader;German:Menuism;German:CitySearch;German:MenuPages;German:DexKnows;German:Yahoo;German:Zagat;
+
+Greek,Metromix,0,Greek:Yelp;Greek:ChicagoReader;Greek:Menuism;Greek:CitySearch;Greek:MenuPages;Greek:Yahoo;Greek:Zagat;
+
+Hungarian,Metromix,0,Hungarian:Yelp;
+
+Irish,Metromix,0,Irish:Yelp;Irish:Menuism;Irish:CitySearch;Irish:MenuPages;Irish:Yahoo;Irish:Zagat;
+
+Italian,Metromix,0,Italian:Yelp;Italian:ChicagoReader;Italian:YellowPages;Italian:Menuism;Italian/American:Menuism;Italian:CitySearch;Italian:MenuPages;Italian:DexKnows;Italian:Yahoo;Italian:Zagat;
+
+Mediterranean,Metromix,0,Mediterranean:Yelp;Mediterranean:ChicagoReader;Mediterranean:Menuism;Mediterranean:CitySearch;Mediterranean:MenuPages;Mediterranean:DexKnows;Mediterranean:Yahoo;Mediterranean:Zagat;
+
+Polish,Metromix,0,Polish:Yelp;Polish/Russian/Eastern European:ChicagoReader;Polish:Menuism;Polish/Czech:CitySearch;Polish:MenuPages;Polish:Yahoo;Polish:Zagat;
+
+Russian,Metromix,0,Russian:Yelp;Russian:CitySearch;Russian:MenuPages;Russian:Zagat;
+
+Scandinavian,Metromix,0,Scandinavian:Yelp;Scandinavian:Menuism;Scandinavian:CitySearch;Scandinavian:MenuPages;Scandinavian:DexKnows;Scandinavian:Zagat;
+
+Scottish,Metromix,0,Scottish:Zagat;
+
+Serbian,Metromix,0,Serbian:Zagat;
+
+Spanish,Metromix,0,Spanish:Yelp;Spanish:Menuism;Spanish:CitySearch;Spanish:MenuPages;Spanish:Yahoo;Spanish:Zagat;
+
+Ukrainian,Metromix,0,Ukrainian:Yelp;
+
+food_type,Metromix,1,
+
+Bagels,Metromix,0,Bagels:Menuism;Bagels:MenuPages;
+
+Bar Food,Metromix,0,Bar Food:Menuism;Bar Food:MenuPages;
+
+Burgers,Metromix,0,Burgers:Yelp;Burgers:ChicagoReader;Burgers:Menuism;Burgers:MenuPages;Burgers:DexKnows;Burgers:Yahoo;
+
+Cheesesteaks,Metromix,0,Cheesesteaks:Yelp;Cheesesteak:Menuism;Cheesesteak:CitySearch;Cheesesteaks:MenuPages;
+
+Chicken,Metromix,0,Chicken:Menuism;Chicken:CitySearch;Chicken:MenuPages;Chicken:DexKnows;
+
+Chicken Wings,Metromix,0,Chicken Wings:Yelp;
+
+Desserts,Metromix,0,Desserts:Menuism;Desserts:MenuPages;Desserts:DexKnows;Desserts:Yahoo;Dessert:Zagat;
+
+Dim Sum,Metromix,0,Dim Sum:Menuism;Dim Sum:CitySearch;Dim Sum:MenuPages;Dim Sum:Zagat;
+
+Fast Food,Metromix,0,Fast Food:Yelp;Fast Food:YellowPages;Fast Food:Menuism;Fast Food:CitySearch;Fast Food:DexKnows;Fast Food:Yahoo;
+
+Fondue,Metromix,0,Fondue:Yelp;Fondue:Menuism;Fondue:Zagat;
+
+Game,Metromix,0,Game:Menuism;
+
+Gelato,Metromix,0,Gelato:Menuism;
+
+Gyros,Metromix,0,Gyros:Menuism;
+
+Health,Metromix,0,Healthy:Menuism;Healthy:Yahoo;
+
+Hot Dogs,Metromix,0,Hot Dogs:Yelp;Hot Dogs:Menuism;Hot Dogs:CitySearch;Hot Dogs:MenuPages;Hot Dogs:DexKnows;Hot Dogs:Zagat;
+
+Ice Cream/Frozen Yogurt,Metromix,0,Ice Cream & Frozen Yogurt:Menuism;
+
+Italian Beef,Metromix,0,Italian beef:Menuism;
+
+Kosher,Metromix,0,Kosher:Yelp;Kosher/Jewish/Deli:ChicagoReader;Kosher:Menuism;Kosher:CitySearch;Kosher:MenuPages;Kosher:DexKnows;Kosher/Kosher-Style:Zagat;
+
+Noodles,Metromix,0,Noodles:ChicagoReader;Noodle:Menuism;Noodles:Menuism;
+
+Organic,Metromix,0,Organic:Menuism;
+
+Pancakes,Metromix,0,Pancakes:Menuism;
+
+Pizza,Metromix,0,Pizza:Yelp;Pizza:ChicagoReader;Pizza:YellowPages;Pizza:Menuism;Pizza:CitySearch;Pizza:MenuPages;Pizza:DexKnows;Pizza:Yahoo;Pizza:Zagat;
+
+Ribs,Metromix,0,Ribs:Menuism;
+
+Salads,Metromix,0,Salads:Menuism;Salads:MenuPages;Salad:Yahoo;
+
+Sandwiches,Metromix,0,Sandwiches:Yelp;Sandwiches:Menuism;Sandwiches:MenuPages;Sandwiches:Yahoo;Sandwiches:Zagat;
+
+Seafood,Metromix,0,Seafood:Yelp;Seafood:ChicagoReader;Seafood:Menuism;Seafood:CitySearch;Seafood:MenuPages;Seafood:DexKnows;Seafood:Yahoo;Seafood:Zagat;
+
+Soups,Metromix,0,Soup:Yelp;Soup:Menuism;Soups:Menuism;Soups:CitySearch;Soups:MenuPages;
+
+Steaks,Metromix,0,Steaks/Lobster:ChicagoReader;Steak:Menuism;Steak:DexKnows;
+
+Sushi,Metromix,0,Sushi:Menuism;Sushi:CitySearch;Sushi:MenuPages;Sushi:DexKnows;Sushi:Yahoo;Sushi:Zagat;
+
+Tapas,Metromix,0,Tapas/Small Plates:Yelp;Tapas/Spanish:ChicagoReader;Tapas:Menuism;Tapas / Small Plates:CitySearch;Tapas:Yahoo;Tapas:Zagat;
+
+Vegan,Metromix,0,Vegan:Yelp;Vegan:Menuism;Vegan:CitySearch;Vegan:MenuPages;Vegan:Zagat;
+
+Vegetarian,Metromix,0,Vegetarian:Yelp;Vegetarian/Healthy:ChicagoReader;Vegetarian:Menuism;Vegetarian:CitySearch;Vegetarian:MenuPages;Vegetarian:DexKnows;Vegetarian:Yahoo;Vegetarian:Zagat;
+
+latin_american,Metromix,1,Latin American:Yelp;Latin American:ChicagoReader;Latin American:Menuism;Latin American:CitySearch;Latin American:MenuPages;Latin American:DexKnows;Latin American:Yahoo;
+
+Brazilian,Metromix,0,Brazilian:Yelp;Brazilian:Menuism;Brazilian:CitySearch;Brazilian:MenuPages;Brazilian:Zagat;
+
+Central American,Metromix,0,Central American:MenuPages;Central American:Zagat;
+
+Colombian,Metromix,0,Colombian:Menuism;Columbian:Menuism;Colombian:CitySearch;Colombian:Zagat;
+
+Mexican,Metromix,0,Mexican:Yelp;Mexican/Southwestern:ChicagoReader;Mexican:YellowPages;Mexican:Menuism;Mexican:CitySearch;Mexican:MenuPages;Mexican:DexKnows;Mexican:Yahoo;Mexican:Zagat;
+
+Nuevo Latino,Metromix,0,Nuevo Latino:Zagat;
+
+South American,Metromix,0,South American:ChicagoReader;South American:Menuism;South American:CitySearch;South American:MenuPages;South American:Zagat;
+
+asian,Metromix,1,Asian:ChicagoReader;Asian:Menuism;Asian:CitySearch;Asian:MenuPages;Asian:DexKnows;Asian:Zagat;
+
+Chinese,Metromix,0,Chinese:Yelp;Chinese:ChicagoReader;Chinese:YellowPages;Chinese:Menuism;Chinese:CitySearch;Chinese:MenuPages;Chinese:DexKnows;Chinese:Yahoo;Chinese:Zagat;
+
+Filipino,Metromix,0,Filipino:Yelp;Filipino:ChicagoReader;Filipino:Menuism;Filipino:CitySearch;Filipino:MenuPages;Filipino:Zagat;
+
+Indian,Metromix,0,Indian:Yelp;Indian/Pakistani:ChicagoReader;Indian:Menuism;Indian:CitySearch;Indian:MenuPages;Indian:DexKnows;Indian:Yahoo;Indian:Zagat;
+
+Indonesian,Metromix,0,Indonesian:Yelp;Indonesian:CitySearch;Indonesian:Zagat;
+
+Japanese,Metromix,0,Japanese:Yelp;Japanese:ChicagoReader;Japanese:Menuism;Japanese:CitySearch;Japanese:MenuPages;Japanese:DexKnows;Japanese:Yahoo;Japanese:Zagat;
+
+Korean,Metromix,0,Korean:Yelp;Korean:ChicagoReader;Korean:Menuism;Korean:CitySearch;Korean:MenuPages;Korean:Yahoo;Korean:Zagat;
+
+Pakistani,Metromix,0,Pakistani:Yelp;Pakistani:Menuism;Pakistani:MenuPages;Pakistani:Zagat;
+
+Thai,Metromix,0,Thai:Yelp;Thai:ChicagoReader;Thai:Menuism;Thai:CitySearch;Thai:MenuPages;Thai:DexKnows;Thai:Yahoo;Thai:Zagat;
+
+Vietnamese,Metromix,0,Vietnamese:Yelp;Vietnamese:ChicagoReader;Vietnamese:Menuism;Vietnamese:CitySearch;Vietnamese:MenuPages;Vietnamese:Yahoo;Vietnamese:Zagat;
+
+caribbean,Metromix,1,Caribbean:Yelp;Caribbean:ChicagoReader;Caribbean:Menuism;Caribbean:CitySearch;Caribbean:MenuPages;Caribbean:DexKnows;Caribbean:Yahoo;Caribbean:Zagat;
+
+Cuban,Metromix,0,Cuban:Yelp;Cuban:ChicagoReader;Cuban:Menuism;Cuban:CitySearch;Cuban:MenuPages;Cuban:Yahoo;Cuban:Zagat;
+
+Jamaican,Metromix,0,Jamaican:ChicagoReader;Jamaican:Menuism;Jamaican:CitySearch;Jamaican:MenuPages;Jamaican:Zagat;
+
+Puerto Rican,Metromix,0,Puerto Rican:Menuism;Peurto Rican:CitySearch;
+
+african,Metromix,1,African:Yelp;African:ChicagoReader;African:Menuism;African:CitySearch;African:MenuPages;African:DexKnows;African:Zagat;
+
+Ethiopian,Metromix,0,Ethiopian:Yelp;Ethiopian:Menuism;Ethiopian:CitySearch;Ethiopian:MenuPages;Ethiopian:Zagat;
+
+Moroccan,Metromix,0,Moroccan:Yelp;Moroccan:ChicagoReader;Moroccan:Menuism;Moroccan:CitySearch;Moroccan:MenuPages;Moroccan:Zagat;
+
+pacific,Metromix,1,
+
+Hawaiian,Metromix,0,Hawaiian:Yelp;Hawaiian:ChicagoReader;Hawaiian:Menuism;Hawaiian:MenuPages;
+
+Polynesian,Metromix,0,Polynesian:Menuism;Polynesian:CitySearch;Polynesian:DexKnows;Polynesian:Zagat;

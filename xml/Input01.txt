@@ -1,0 +1,108 @@
+All,American,-1,-1
+All,Italian,0,0.386852807234542
+All,Sandwiches,0,0
+All,Pizza,1,1
+All,Mexican,0,0.301029995663981
+All,asian,0,0
+All,Chinese,0.5,0.5
+Downtown,All,1,1
+Downtown,American,0,0
+Downtown,Italian,0.5,0.5
+Downtown,Sandwiches,0,0
+Downtown,Pizza,0,0.356207187108022
+Downtown,Mexican,1,1
+Downtown,asian,-1,-1
+Downtown,Chinese,-1,-1
+Grant Park Museums,All,0,0
+Grant Park Museums,American,0,0.356207187108022
+Grant Park Museums,Italian,0,0
+Grant Park Museums,Sandwiches,0,0
+Grant Park Museums,Pizza,0,0
+Grant Park Museums,Mexican,0.777777777777778,0.777777777777778
+Grant Park Museums,asian,0.887070455198913,0.887070455198913
+Grant Park Museums,Chinese,-1,-1
+Greektown,All,0.549842827163052,0.716721295307783
+Greektown,American,-1,-1
+Greektown,Italian,-1,-1
+Greektown,Sandwiches,-1,-1
+Greektown,Pizza,-1,-1
+Greektown,Mexican,-1,-1
+Greektown,asian,-1,-1
+Greektown,Chinese,-1,-1
+Loop,All,0,0.315464876785729
+Loop,American,0,0.356207187108022
+Loop,Italian,0.880122040336371,0.880122040336371
+Loop,Sandwiches,0,0
+Loop,Pizza,0,0
+Loop,Mexican,0,0.315464876785729
+Loop,asian,0.438349772880324,0.534252292107862
+Loop,Chinese,-1,-1
+Near South Side,All,-1,-1
+Near South Side,American,-1,-1
+Near South Side,Italian,-1,-1
+Near South Side,Sandwiches,-1,-1
+Near South Side,Pizza,-1,-1
+Near South Side,Mexican,-1,-1
+Near South Side,asian,-1,-1
+Near South Side,Chinese,-1,-1
+South Loop,All,0.420236570986963,0.667852873667208
+South Loop,American,0.922403738232479,0.961201869116239
+South Loop,Italian,0.6,0.733333333333333
+South Loop,Sandwiches,0.456672848795871,0.456672848795871
+South Loop,Pizza,1,1
+South Loop,Mexican,-1,-1
+South Loop,asian,-1,-1
+South Loop,Chinese,-1,-1
+Warehouse District,All,0.5,0.5
+Warehouse District,American,-1,-1
+Warehouse District,Italian,-1,-1
+Warehouse District,Sandwiches,-1,-1
+Warehouse District,Pizza,-1,-1
+Warehouse District,Mexican,-1,-1
+Warehouse District,asian,-1,-1
+Warehouse District,Chinese,-1,-1
+West Loop,All,0,0.370508476500398
+West Loop,American,0.33921728943257,0.431094859322968
+West Loop,Italian,0.411764705882353,0.62129834535766
+West Loop,Sandwiches,0,0
+West Loop,Pizza,0.166139232228341,0.436250818908887
+West Loop,Mexican,-1,-1
+West Loop,asian,-1,-1
+West Loop,Chinese,-1,-1
+Near North,All,1,1
+Near North,American,0,0.386852807234542
+Near North,Italian,0.5,0.5
+Near North,Sandwiches,0,0.386852807234542
+Near North,Pizza,0,0
+Near North,Mexican,0,0.301029995663981
+Near North,asian,0.630929753571457,0.630929753571457
+Near North,Chinese,-1,-1
+Gold Coast,All,0.630929753571457,0.630929753571457
+Gold Coast,American,0.630929753571457,0.630929753571457
+Gold Coast,Italian,0.446547102043933,0.670630598390121
+Gold Coast,Sandwiches,-1,-1
+Gold Coast,Pizza,-1,-1
+Gold Coast,Mexican,-1,-1
+Gold Coast,asian,-1,-1
+Gold Coast,Chinese,-1,-1
+Lincoln Park,All,0.886580942506778,0.960375171397213
+Lincoln Park,American,0.0547589362194393,0.358210371089251
+Lincoln Park,Italian,0.452337234757542,0.605138940531066
+Lincoln Park,Sandwiches,0.538461538461538,0.677398459537222
+Lincoln Park,Pizza,0.333333333333333,0.543643251190486
+Lincoln Park,Mexican,0,0.370628655402855
+Lincoln Park,asian,-1,-1
+Lincoln Park,Chinese,-1,-1
+Magnificent Mile,All,0.875,0.916666666666667
+Magnificent Mile,American,0.4375,0.625
+Magnificent Mile,Italian,0.470147631530004,0.678511706487237
+Magnificent Mile,Sandwiches,-1,-1
+Magnificent Mile,Pizza,-1,-1
+Magnificent Mile,Mexican,-1,-1
+Magnificent Mile,asian,-1,-1
+Magnificent Mile,Chinese,-1,-1
+Near North Side,All,0,0.386852807234542
+Near North Side,American,0,0.386852807234542
+Near North Side,Italian,0.333333333333333,0.462284269078181
+Near North Side,Sandwiches,0,0
+Near North Side,Pizza,0.405518304508469,0.529331334139706

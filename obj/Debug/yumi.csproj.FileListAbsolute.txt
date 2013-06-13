@@ -1,0 +1,14 @@
+C:\Documents and Settings\badr\My Documents\Visual Studio 2008\Projects\yumi\yumi\bin\yumi.dll
+C:\Documents and Settings\badr\My Documents\Visual Studio 2008\Projects\yumi\yumi\bin\yumi.pdb
+C:\Documents and Settings\badr\My Documents\Visual Studio 2008\Projects\yumi\yumi\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\badr\My Documents\Visual Studio 2008\Projects\yumi\yumi\obj\Debug\yumi.dll
+C:\Documents and Settings\badr\My Documents\Visual Studio 2008\Projects\yumi\yumi\obj\Debug\yumi.pdb
+C:\Users\Dheeraj Rampally\Desktop\dheeraj\SEM 2 ebooks\Query Processing\Project\yumi_web\yumi\bin\yumi.dll
+C:\Users\Dheeraj Rampally\Desktop\dheeraj\SEM 2 ebooks\Query Processing\Project\yumi_web\yumi\bin\yumi.pdb
+C:\Users\Dheeraj Rampally\Desktop\dheeraj\SEM 2 ebooks\Query Processing\Project\yumi_web\yumi\bin\EeekSoft.Linq.pdb
+C:\Users\Dheeraj Rampally\Desktop\dheeraj\SEM 2 ebooks\Query Processing\Project\yumi_web\yumi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dheeraj Rampally\Desktop\dheeraj\SEM 2 ebooks\Query Processing\Project\yumi_web\yumi\obj\Debug\yumi.Properties.Resources.resources
+C:\Users\Dheeraj Rampally\Desktop\dheeraj\SEM 2 ebooks\Query Processing\Project\yumi_web\yumi\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Dheeraj Rampally\Desktop\dheeraj\SEM 2 ebooks\Query Processing\Project\yumi_web\yumi\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Dheeraj Rampally\Desktop\dheeraj\SEM 2 ebooks\Query Processing\Project\yumi_web\yumi\obj\Debug\yumi.dll
+C:\Users\Dheeraj Rampally\Desktop\dheeraj\SEM 2 ebooks\Query Processing\Project\yumi_web\yumi\obj\Debug\yumi.pdb

@@ -1,0 +1,12 @@
+Grand Blvd/Oakland / Fuller Park,American,-1,-1
+Grand Blvd/Oakland / Fuller Park,Italian,-1,-1
+Grand Blvd/Oakland / Fuller Park,Sandwiches,-1,-1
+Grand Blvd/Oakland / Fuller Park,Pizza,-1,-1
+Grand Blvd/Oakland / Fuller Park,Mexican,-1,-1
+Grand Blvd/Oakland / Fuller Park,asian,-1,-1
+Grand Blvd/Oakland / Fuller Park,Chinese,-1,-1
+Hegewisch/East Side,All,-1,-1
+Hegewisch/East Side,American,-1,-1
+Hegewisch/East Side,Italian,-1,-1
+Hegewisch/East Side,Sandwiches,-1,-1
+Hegewisch/East Side,Pizza,-1,-1

@@ -1,0 +1,108 @@
+Cicero,asian,-1,-1
+Cicero,Chinese,-1,-1
+Elmwood Park,All,-1,-1
+Elmwood Park,American,-1,-1
+Elmwood Park,Italian,-1,-1
+Elmwood Park,Sandwiches,-1,-1
+Elmwood Park,Pizza,-1,-1
+Elmwood Park,Mexican,-1,-1
+Elmwood Park,asian,-1,-1
+Elmwood Park,Chinese,-1,-1
+Oak Park,All,0,0.361501477491864
+Oak Park,American,-1,-1
+Oak Park,Italian,-1,-1
+Oak Park,Sandwiches,-1,-1
+Oak Park,Pizza,-1,-1
+Oak Park,Mexican,-1,-1
+Oak Park,asian,-1,-1
+Oak Park,Chinese,-1,-1
+River Grove,All,-1,-1
+River Grove,American,-1,-1
+River Grove,Italian,-1,-1
+River Grove,Sandwiches,-1,-1
+River Grove,Pizza,-1,-1
+River Grove,Mexican,-1,-1
+River Grove,asian,-1,-1
+River Grove,Chinese,-1,-1
+North Suburbs,All,-1,-1
+North Suburbs,American,-1,-1
+North Suburbs,Italian,-1,-1
+North Suburbs,Sandwiches,-1,-1
+North Suburbs,Pizza,-1,-1
+North Suburbs,Mexican,-1,-1
+North Suburbs,asian,-1,-1
+North Suburbs,Chinese,-1,-1
+Bannockburn,All,-1,-1
+Bannockburn,American,-1,-1
+Bannockburn,Italian,-1,-1
+Bannockburn,Sandwiches,-1,-1
+Bannockburn,Pizza,-1,-1
+Bannockburn,Mexican,-1,-1
+Bannockburn,asian,-1,-1
+Bannockburn,Chinese,-1,-1
+Deerfield,All,-1,-1
+Deerfield,American,-1,-1
+Deerfield,Italian,-1,-1
+Deerfield,Sandwiches,-1,-1
+Deerfield,Pizza,-1,-1
+Deerfield,Mexican,-1,-1
+Deerfield,asian,-1,-1
+Deerfield,Chinese,-1,-1
+Glenview,All,-1,-1
+Glenview,American,-1,-1
+Glenview,Italian,-1,-1
+Glenview,Sandwiches,-1,-1
+Glenview,Pizza,-1,-1
+Glenview,Mexican,-1,-1
+Glenview,asian,-1,-1
+Glenview,Chinese,-1,-1
+Gurnee,All,0,0
+Gurnee,American,-1,-1
+Gurnee,Italian,-1,-1
+Gurnee,Sandwiches,-1,-1
+Gurnee,Pizza,-1,-1
+Gurnee,Mexican,-1,-1
+Gurnee,asian,-1,-1
+Gurnee,Chinese,-1,-1
+Libertyville,All,-1,-1
+Libertyville,American,-1,-1
+Libertyville,Italian,-1,-1
+Libertyville,Sandwiches,-1,-1
+Libertyville,Pizza,-1,-1
+Libertyville,Mexican,-1,-1
+Libertyville,asian,-1,-1
+Libertyville,Chinese,-1,-1
+Lincolnshire,All,-1,-1
+Lincolnshire,American,-1,-1
+Lincolnshire,Italian,-1,-1
+Lincolnshire,Sandwiches,-1,-1
+Lincolnshire,Pizza,-1,-1
+Lincolnshire,Mexican,-1,-1
+Lincolnshire,asian,-1,-1
+Lincolnshire,Chinese,-1,-1
+Morton Grove,All,-1,-1
+Morton Grove,American,-1,-1
+Morton Grove,Italian,-1,-1
+Morton Grove,Sandwiches,-1,-1
+Morton Grove,Pizza,-1,-1
+Morton Grove,Mexican,-1,-1
+Morton Grove,asian,-1,-1
+Morton Grove,Chinese,-1,-1
+Mundelein,All,0.364335851993989,0.542536142673074
+Mundelein,American,-1,-1
+Mundelein,Italian,-1,-1
+Mundelein,Sandwiches,-1,-1
+Mundelein,Pizza,-1,-1
+Mundelein,Mexican,-1,-1
+Mundelein,asian,-1,-1
+Mundelein,Chinese,-1,-1
+Northbrook,All,0,0
+Northbrook,American,-1,-1
+Northbrook,Italian,-1,-1
+Northbrook,Sandwiches,-1,-1
+Northbrook,Pizza,-1,-1
+Northbrook,Mexican,-1,-1
+Northbrook,asian,-1,-1
+Northbrook,Chinese,-1,-1
+Prospect Heights,All,-1,-1
+Prospect Heights,American,-1,-1

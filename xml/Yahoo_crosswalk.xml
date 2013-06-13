@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCrosswalk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Crosswalk>
+    <Name>Near North Side</Name>
+    <Key>nearnorthsidechicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Loop</Name>
+    <Key>loopchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lakeview</Name>
+    <Key>lakeviewchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Town</Name>
+    <Key>westtownchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near West Side</Name>
+    <Key>nearwestsidechicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lincoln Park</Name>
+    <Key>lincolnparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Wicker Park</Name>
+    <Key>wickerparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Depaul</Name>
+    <Key>depaulchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Ridge</Name>
+    <Key>westridgechicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Edgewater</Name>
+    <Key>edgewaterchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Logan Square</Name>
+    <Key>logansquarechicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Uptown</Name>
+    <Key>uptownchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Belmont Cragin</Name>
+    <Key>belmontcraginchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Portage Park</Name>
+    <Key>portageparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Rogers Park</Name>
+    <Key>rogersparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>River North</Name>
+    <Key>rivernorthchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Albany Park</Name>
+    <Key>albanyparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Austin</Name>
+    <Key>austinchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Pilsen</Name>
+    <Key>pilsenchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Loop</Name>
+    <Key>westloopchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Irving Park</Name>
+    <Key>irvingparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>North Center</Name>
+    <Key>northcenterchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Ravenswood</Name>
+    <Key>ravenswoodchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Streeterville</Name>
+    <Key>streetervillechicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Avondale</Name>
+    <Key>avondalechicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Greater Grand Crossing</Name>
+    <Key>greatergrandcrossingchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Garfield Ridge</Name>
+    <Key>garfieldridgechicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Andersonville</Name>
+    <Key>andersonvillechicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Dunning</Name>
+    <Key>dunningchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Chinatown</Name>
+    <Key>chinatownchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Gold Coast</Name>
+    <Key>goldcoastchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Humboldt Park</Name>
+    <Key>humboldtparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Shore</Name>
+    <Key>southshorechicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hyde Park</Name>
+    <Key>hydeparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bridgeport</Name>
+    <Key>bridgeportchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>New City</Name>
+    <Key>newcitychicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Brighton Park</Name>
+    <Key>brightonparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Bucktown</Name>
+    <Key>bucktownchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>North Park</Name>
+    <Key>northparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near South Side</Name>
+    <Key>nearsouthsidechicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Jefferson Park</Name>
+    <Key>jeffersonparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Auburn Gresham</Name>
+    <Key>auburngreshamchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Park</Name>
+    <Key>westparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Lawn</Name>
+    <Key>westlawnchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Ashburn</Name>
+    <Key>ashburnchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Norwood Park</Name>
+    <Key>norwoodparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Gage Park</Name>
+    <Key>gageparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Clearing</Name>
+    <Key>clearingchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Little Italy</Name>
+    <Key>littleitalychicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Chatham</Name>
+    <Key>chathamchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Archer Heights</Name>
+    <Key>archerheightschicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Roseland</Name>
+    <Key>roselandchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Roscoe Village</Name>
+    <Key>roscoevillagechicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Englewood</Name>
+    <Key>westenglewoodchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Beverly</Name>
+    <Key>beverlychicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Morgan Park</Name>
+    <Key>morganparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>North Lawndale</Name>
+    <Key>northlawndalechicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>O'Hare</Name>
+    <Key>oharechicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>McKinley Park</Name>
+    <Key>mckinleyparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lincoln Square</Name>
+    <Key>lincolnsquarechicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Old Town</Name>
+    <Key>oldtownchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Greektown</Name>
+    <Key>greektownchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Chicago</Name>
+    <Key>southchicagochicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Elsdon</Name>
+    <Key>westelsdonchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Grand Boulevard</Name>
+    <Key>grandboulevardchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Garfield Park</Name>
+    <Key>westgarfieldparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Edison Park</Name>
+    <Key>edisonparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Washington Heights</Name>
+    <Key>washingtonheightschicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Englewood</Name>
+    <Key>englewoodchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Woodlawn</Name>
+    <Key>woodlawnchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Tri-taylor</Name>
+    <Key>tritaylorchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Mount Greenwood</Name>
+    <Key>mountgreenwoodchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hermosa</Name>
+    <Key>hermosachicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>East Garfield Park</Name>
+    <Key>eastgarfieldparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Douglas</Name>
+    <Key>douglaschicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Deering</Name>
+    <Key>southdeeringchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>East Side</Name>
+    <Key>eastsidechicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Kenwood</Name>
+    <Key>kenwoodchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Avalon Park</Name>
+    <Key>avalonparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Pullman</Name>
+    <Key>westpullmanchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Sauganash</Name>
+    <Key>sauganashchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Hegewisch</Name>
+    <Key>hegewischchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Forest Glen</Name>
+    <Key>forestglenchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Washington Park</Name>
+    <Key>washingtonparkchicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Armour Square</Name>
+    <Key>armoursquarechicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Canaryville</Name>
+    <Key>canaryvillechicagoil</Key>
+    <Lt>0</Lt>
+    <Lg>0</Lg>
+  </Crosswalk>
+</ArrayOfCrosswalk>

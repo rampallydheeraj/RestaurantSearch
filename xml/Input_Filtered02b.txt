@@ -1,0 +1,162 @@
+Logan Square,Sandwiches,-1,-1
+Logan Square,Pizza,-1,-1
+Logan Square,Mexican,1,0.570559594
+Logan Square,asian,0.769331096,0.769331096
+Logan Square,Chinese,-1,-1
+Norwood Park,All,-1,-1
+Norwood Park,American,-1,-1
+Norwood Park,Italian,-1,-1
+Norwood Park,Sandwiches,-1,-1
+Norwood Park,Pizza,-1,-1
+Norwood Park,Mexican,-1,-1
+Norwood Park,asian,-1,-1
+Norwood Park,Chinese,-1,-1
+O'Hare,All,-1,-1
+O'Hare,American,-1,-1
+O'Hare,Italian,-1,-1
+O'Hare,Sandwiches,-1,-1
+O'Hare,Pizza,-1,-1
+O'Hare,Mexican,-1,-1
+O'Hare,asian,-1,-1
+O'Hare,Chinese,-1,-1
+Portage Park,All,-1,-1
+Portage Park,American,-1,-1
+Portage Park,Italian,-1,-1
+Portage Park,Sandwiches,-1,-1
+Portage Park,Pizza,-1,-1
+Portage Park,Mexican,-1,-1
+Portage Park,asian,-1,-1
+Portage Park,Chinese,-1,-1
+West Town,All,0.630929754,0.630929754
+West Town,American,-1,-1
+West Town,Italian,-1,-1
+West Town,Sandwiches,-1,-1
+West Town,Pizza,-1,-1
+West Town,Mexican,-1,-1
+West Town,asian,0.736842105,0.708192372
+West Town,Chinese,-1,-1
+South,All,0,0
+South,American,-1,-1
+South,Italian,-1,-1
+South,Sandwiches,-1,-1
+South,Pizza,-1,-1
+South,Mexican,0,0
+South,asian,-1,-1
+South,Chinese,-1,-1
+Beverly/Mt Greenwood,All,-1,-1
+Beverly/Mt Greenwood,American,-1,-1
+Beverly/Mt Greenwood,Italian,-1,-1
+Beverly/Mt Greenwood,Sandwiches,-1,-1
+Beverly/Mt Greenwood,Pizza,-1,-1
+Beverly/Mt Greenwood,Mexican,-1,-1
+Beverly/Mt Greenwood,asian,-1,-1
+Beverly/Mt Greenwood,Chinese,-1,-1
+Bridgeport/Sox,All,0,0
+Bridgeport/Sox,American,-1,-1
+Bridgeport/Sox,Italian,-1,-1
+Bridgeport/Sox,Sandwiches,-1,-1
+Bridgeport/Sox,Pizza,-1,-1
+Bridgeport/Sox,Mexican,-1,-1
+Bridgeport/Sox,asian,-1,-1
+Bridgeport/Sox,Chinese,-1,-1
+Bronzeville/ Douglas,All,-1,-1
+Bronzeville/ Douglas,American,-1,-1
+Bronzeville/ Douglas,Italian,-1,-1
+Bronzeville/ Douglas,Sandwiches,-1,-1
+Bronzeville/ Douglas,Pizza,-1,-1
+Bronzeville/ Douglas,Mexican,-1,-1
+Bronzeville/ Douglas,asian,-1,-1
+Bronzeville/ Douglas,Chinese,-1,-1
+Calumet Heights,All,-1,-1
+Calumet Heights,American,-1,-1
+Calumet Heights,Italian,-1,-1
+Calumet Heights,Sandwiches,-1,-1
+Calumet Heights,Pizza,-1,-1
+Calumet Heights,Mexican,-1,-1
+Calumet Heights,asian,-1,-1
+Calumet Heights,Chinese,-1,-1
+Chatham/Avalon Park,All,-1,-1
+Chatham/Avalon Park,American,-1,-1
+Chatham/Avalon Park,Italian,-1,-1
+Chatham/Avalon Park,Sandwiches,-1,-1
+Chatham/Avalon Park,Pizza,-1,-1
+Chatham/Avalon Park,Mexican,-1,-1
+Chatham/Avalon Park,asian,-1,-1
+Chatham/Avalon Park,Chinese,-1,-1
+Chinatown,All,0.85,0.642396578
+Chinatown,American,-1,-1
+Chinatown,Italian,-1,-1
+Chinatown,Sandwiches,-1,-1
+Chinatown,Pizza,-1,-1
+Chinatown,Mexican,-1,-1
+Chinatown,asian,1,1
+Chinatown,Chinese,0.768669782,0.713635818
+Englewood/Auburn / Gresham,All,-1,-1
+Englewood/Auburn / Gresham,American,-1,-1
+Englewood/Auburn / Gresham,Italian,-1,-1
+Englewood/Auburn / Gresham,Sandwiches,-1,-1
+Englewood/Auburn / Gresham,Pizza,-1,-1
+Englewood/Auburn / Gresham,Mexican,-1,-1
+Englewood/Auburn / Gresham,asian,-1,-1
+Englewood/Auburn / Gresham,Chinese,-1,-1
+Far South Side,All,-1,-1
+Far South Side,American,-1,-1
+Far South Side,Italian,-1,-1
+Far South Side,Sandwiches,-1,-1
+Far South Side,Pizza,-1,-1
+Far South Side,Mexican,-1,-1
+Far South Side,asian,-1,-1
+Far South Side,Chinese,-1,-1
+Grand Blvd/Oakland / Fuller Park,All,-1,-1
+Grand Blvd/Oakland / Fuller Park,American,-1,-1
+Grand Blvd/Oakland / Fuller Park,Italian,-1,-1
+Grand Blvd/Oakland / Fuller Park,Sandwiches,-1,-1
+Grand Blvd/Oakland / Fuller Park,Pizza,-1,-1
+Grand Blvd/Oakland / Fuller Park,Mexican,-1,-1
+Grand Blvd/Oakland / Fuller Park,asian,-1,-1
+Grand Blvd/Oakland / Fuller Park,Chinese,-1,-1
+Hegewisch/East Side,All,-1,-1
+Hegewisch/East Side,American,-1,-1
+Hegewisch/East Side,Italian,-1,-1
+Hegewisch/East Side,Sandwiches,-1,-1
+Hegewisch/East Side,Pizza,-1,-1
+All,Burgers,0,0
+All,Japanese,0.5,0.5
+All,Seafood,0.932896319,0.773772295
+All,Steaks,1,1
+All,Sushi,0.630929754,0.630929754
+All,Thai,1,0.733333333
+All,French,0.807692308,0.807692308
+Downtown,Contemporary,0,0.315464877
+Downtown,Burgers,-1,-1
+Downtown,Japanese,1,0.709561856
+Downtown,Seafood,-1,-1
+Downtown,Steaks,-1,-1
+Downtown,Sushi,0.730320475,0.730320475
+Downtown,Thai,1,0.69504551
+Downtown,French,1,0.647058824
+Grant Park Museums,Contemporary,1,1
+Grant Park Museums,Burgers,0,0.301029996
+Grant Park Museums,Japanese,0.630929754,0.525774795
+Grant Park Museums,Seafood,-1,-1
+Grant Park Museums,Steaks,0.5,0.471241437
+Grant Park Museums,Sushi,0.630929754,0.630929754
+Grant Park Museums,Thai,0.794603146,0.794603146
+Grant Park Museums,French,0.792397986,0.792397986
+Greektown,Contemporary,-1,-1
+Greektown,Burgers,-1,-1
+Greektown,Japanese,-1,-1
+Greektown,Seafood,-1,-1
+Greektown,Steaks,-1,-1
+Greektown,Sushi,-1,-1
+Greektown,Thai,-1,-1
+Greektown,French,-1,-1
+Loop,Contemporary,1,1
+Loop,Burgers,1,1
+Loop,Japanese,0,0.356207187
+Loop,Seafood,-1,-1
+Loop,Steaks,0.630929754,0.630929754
+Loop,Sushi,0,0.305841623
+Loop,Thai,0.954545455,0.770920029
+Loop,French,1,1
+Near South Side,Contemporary,-1,-1

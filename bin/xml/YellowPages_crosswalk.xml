@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCrosswalk xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Crosswalk>
+    <Name>Austin</Name>
+    <Key>Austin</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Central Chicago</Name>
+    <Key>Central Chicago</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>DePaul</Name>
+    <Key>DePaul</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Edgewater</Name>
+    <Key>Edgewater</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Far North Side</Name>
+    <Key>Far North Side</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Far Southeast Side</Name>
+    <Key>Far Southeast Side</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Far Southwest Side</Name>
+    <Key>Far Southwest Side</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lakeview</Name>
+    <Key>Lakeview</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Lincoln Park</Name>
+    <Key>Lincoln Park</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Loop</Name>
+    <Key>Loop</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near North Side</Name>
+    <Key>Near North Side</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Near West Side</Name>
+    <Key>Near West Side</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>North Side</Name>
+    <Key>North Side</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Northwest Side</Name>
+    <Key>Northwest Side</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Ravenswood</Name>
+    <Key>Ravenswood</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>South Side</Name>
+    <Key>South Side</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Southwest Side</Name>
+    <Key>Southwest Side</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Rogers Park</Name>
+    <Key>West Rogers Park</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>West Side</Name>
+    <Key>West Side</Key>
+  </Crosswalk>
+  <Crosswalk>
+    <Name>Wicker Park</Name>
+    <Key>Wicker Park</Key>
+  </Crosswalk>
+</ArrayOfCrosswalk>

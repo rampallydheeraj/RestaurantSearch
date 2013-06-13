@@ -1,0 +1,68 @@
+Bridgeport/Sox,Burgers,-1,-1
+Bridgeport/Sox,Japanese,-1,-1
+Bridgeport/Sox,Seafood,-1,-1
+Bridgeport/Sox,Steaks,-1,-1
+Bridgeport/Sox,Sushi,-1,-1
+Bridgeport/Sox,Thai,-1,-1
+Bridgeport/Sox,French,-1,-1
+Bronzeville/ Douglas,Contemporary,-1,-1
+Bronzeville/ Douglas,Burgers,-1,-1
+Bronzeville/ Douglas,Japanese,-1,-1
+Bronzeville/ Douglas,Seafood,-1,-1
+Bronzeville/ Douglas,Steaks,-1,-1
+Bronzeville/ Douglas,Sushi,-1,-1
+Bronzeville/ Douglas,Thai,-1,-1
+Bronzeville/ Douglas,French,-1,-1
+Calumet Heights,Contemporary,-1,-1
+Calumet Heights,Burgers,-1,-1
+Calumet Heights,Japanese,-1,-1
+Calumet Heights,Seafood,-1,-1
+Calumet Heights,Steaks,-1,-1
+Calumet Heights,Sushi,-1,-1
+Calumet Heights,Thai,-1,-1
+Calumet Heights,French,-1,-1
+Chatham/Avalon Park,Contemporary,-1,-1
+Chatham/Avalon Park,Burgers,-1,-1
+Chatham/Avalon Park,Japanese,-1,-1
+Chatham/Avalon Park,Seafood,-1,-1
+Chatham/Avalon Park,Steaks,-1,-1
+Chatham/Avalon Park,Sushi,-1,-1
+Chatham/Avalon Park,Thai,-1,-1
+Chatham/Avalon Park,French,-1,-1
+Chinatown,Contemporary,0.272110655207983,0.506657432164955
+Chinatown,Burgers,-1,-1
+Chinatown,Japanese,-1,-1
+Chinatown,Seafood,-1,-1
+Chinatown,Steaks,-1,-1
+Chinatown,Sushi,-1,-1
+Chinatown,Thai,-1,-1
+Chinatown,French,0.451981321122453,0.619466665205349
+Englewood/Auburn / Gresham,Contemporary,-1,-1
+Englewood/Auburn / Gresham,Burgers,-1,-1
+Englewood/Auburn / Gresham,Japanese,-1,-1
+Englewood/Auburn / Gresham,Seafood,-1,-1
+Englewood/Auburn / Gresham,Steaks,-1,-1
+Englewood/Auburn / Gresham,Sushi,-1,-1
+Englewood/Auburn / Gresham,Thai,-1,-1
+Englewood/Auburn / Gresham,French,-1,-1
+Far South Side,Contemporary,-1,-1
+Far South Side,Burgers,-1,-1
+Far South Side,Japanese,-1,-1
+Far South Side,Seafood,-1,-1
+Far South Side,Steaks,-1,-1
+Far South Side,Sushi,-1,-1
+Far South Side,Thai,-1,-1
+Far South Side,French,-1,-1
+Grand Blvd/Oakland / Fuller Park,Contemporary,-1,-1
+Grand Blvd/Oakland / Fuller Park,Burgers,-1,-1
+Grand Blvd/Oakland / Fuller Park,Japanese,-1,-1
+Grand Blvd/Oakland / Fuller Park,Seafood,-1,-1
+Grand Blvd/Oakland / Fuller Park,Steaks,-1,-1
+Grand Blvd/Oakland / Fuller Park,Sushi,-1,-1
+Grand Blvd/Oakland / Fuller Park,Thai,-1,-1
+Grand Blvd/Oakland / Fuller Park,French,-1,-1
+Hegewisch/East Side,Contemporary,-1,-1
+Hegewisch/East Side,Burgers,-1,-1
+Hegewisch/East Side,Japanese,-1,-1
+Hegewisch/East Side,Seafood,-1,-1
+Hegewisch/East Side,Steaks,-1,-1

@@ -1,0 +1,105 @@
+Hyde Park/University Of Chicago,American,-1,-1
+Hyde Park/University Of Chicago,Italian,0,0.386852807234542
+Hyde Park/University Of Chicago,Sandwiches,0,0
+Hyde Park/University Of Chicago,Pizza,1,1
+Hyde Park/University Of Chicago,Mexican,0,0.301029995663981
+Hyde Park/University Of Chicago,asian,0,0
+Hyde Park/University Of Chicago,Chinese,0.5,0.5
+Park Manor/Grand Crossing,All,1,1
+Park Manor/Grand Crossing,American,0,0
+Park Manor/Grand Crossing,Italian,0.5,0.5
+Park Manor/Grand Crossing,Sandwiches,0,0
+Park Manor/Grand Crossing,Pizza,0,0.356207187108022
+Park Manor/Grand Crossing,Mexican,1,1
+Park Manor/Grand Crossing,asian,-1,-1
+Park Manor/Grand Crossing,Chinese,-1,-1
+Pullman,All,0,0
+Pullman,American,0,0.356207187108022
+Pullman,Italian,0,0
+Pullman,Sandwiches,0,0
+Pullman,Pizza,0,0
+Pullman,Mexican,0.777777777777778,0.777777777777778
+Pullman,asian,0.887070455198913,0.887070455198913
+Pullman,Chinese,-1,-1
+Roseland/Csu/ Washington Heights,All,0.549842827163052,0.716721295307783
+Roseland/Csu/ Washington Heights,American,-1,-1
+Roseland/Csu/ Washington Heights,Italian,-1,-1
+Roseland/Csu/ Washington Heights,Sandwiches,-1,-1
+Roseland/Csu/ Washington Heights,Pizza,-1,-1
+Roseland/Csu/ Washington Heights,Mexican,-1,-1
+Roseland/Csu/ Washington Heights,asian,-1,-1
+Roseland/Csu/ Washington Heights,Chinese,-1,-1
+South Chicago,All,0,0.315464876785729
+South Chicago,American,0,0.356207187108022
+South Chicago,Italian,0.880122040336371,0.880122040336371
+South Chicago,Sandwiches,0,0
+South Chicago,Pizza,0,0
+South Chicago,Mexican,0,0.315464876785729
+South Chicago,asian,0.438349772880324,0.534252292107862
+South Chicago,Chinese,-1,-1
+South Shore,All,-1,-1
+South Shore,American,-1,-1
+South Shore,Italian,-1,-1
+South Shore,Sandwiches,-1,-1
+South Shore,Pizza,-1,-1
+South Shore,Mexican,-1,-1
+South Shore,asian,-1,-1
+South Shore,Chinese,-1,-1
+Washington Park / Woodlawn,All,0.420236570986963,0.667852873667208
+Washington Park / Woodlawn,American,0.922403738232479,0.961201869116239
+Washington Park / Woodlawn,Italian,0.6,0.733333333333333
+Washington Park / Woodlawn,Sandwiches,0.456672848795871,0.456672848795871
+Washington Park / Woodlawn,Pizza,1,1
+Washington Park / Woodlawn,Mexican,-1,-1
+Washington Park / Woodlawn,asian,-1,-1
+Washington Park / Woodlawn,Chinese,-1,-1
+Southwest,All,0.5,0.5
+Southwest,American,-1,-1
+Southwest,Italian,-1,-1
+Southwest,Sandwiches,-1,-1
+Southwest,Pizza,-1,-1
+Southwest,Mexican,-1,-1
+Southwest,asian,-1,-1
+Southwest,Chinese,-1,-1
+Archer Height/Brighton/ Mc Kinley Park,All,0,0.370508476500398
+Archer Height/Brighton/ Mc Kinley Park,American,0.33921728943257,0.431094859322968
+Archer Height/Brighton/ Mc Kinley Park,Italian,0.411764705882353,0.62129834535766
+Archer Height/Brighton/ Mc Kinley Park,Sandwiches,0,0
+Archer Height/Brighton/ Mc Kinley Park,Pizza,0.166139232228341,0.436250818908887
+Archer Height/Brighton/ Mc Kinley Park,Mexican,-1,-1
+Archer Height/Brighton/ Mc Kinley Park,asian,-1,-1
+Archer Height/Brighton/ Mc Kinley Park,Chinese,-1,-1
+Ashburn/West Lawn / Ford City,All,1,1
+Ashburn/West Lawn / Ford City,American,0,0.386852807234542
+Ashburn/West Lawn / Ford City,Italian,0.5,0.5
+Ashburn/West Lawn / Ford City,Sandwiches,0,0.386852807234542
+Ashburn/West Lawn / Ford City,Pizza,0,0
+Ashburn/West Lawn / Ford City,Mexican,0,0.301029995663981
+Ashburn/West Lawn / Ford City,asian,0.630929753571457,0.630929753571457
+Ashburn/West Lawn / Ford City,Chinese,-1,-1
+Back Of The Yards,All,0.630929753571457,0.630929753571457
+Back Of The Yards,American,0.630929753571457,0.630929753571457
+Back Of The Yards,Italian,0.446547102043933,0.670630598390121
+Back Of The Yards,Sandwiches,-1,-1
+Back Of The Yards,Pizza,-1,-1
+Back Of The Yards,Mexican,-1,-1
+Back Of The Yards,asian,-1,-1
+Back Of The Yards,Chinese,-1,-1
+Lawndale,All,0.886580942506778,0.960375171397213
+Lawndale,American,0.0547589362194393,0.358210371089251
+Lawndale,Italian,0.452337234757542,0.605138940531066
+Lawndale,Sandwiches,0.538461538461538,0.677398459537222
+Lawndale,Pizza,0.333333333333333,0.543643251190486
+Lawndale,Mexican,0,0.370628655402855
+Lawndale,asian,-1,-1
+Lawndale,Chinese,-1,-1
+Little Tuscany,All,0.875,0.916666666666667
+Little Tuscany,American,0.4375,0.625
+Little Tuscany,Italian,0.470147631530004,0.678511706487237
+Little Tuscany,Sandwiches,-1,-1
+Little Tuscany,Pizza,-1,-1
+Little Tuscany,Mexican,-1,-1
+Little Tuscany,asian,-1,-1
+Little Tuscany,Chinese,-1,-1
+Marquette Park,All,0,0.386852807234542
+Marquette Park,American,0,0.386852807234542

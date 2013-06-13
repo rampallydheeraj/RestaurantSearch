@@ -1,0 +1,104 @@
+Marquette Park,Italian,0.333333333333333,0.462284269078181
+Marquette Park,Sandwiches,0,0
+Marquette Park,Pizza,0.405518304508469,0.529331334139706
+Marquette Park,Mexican,0.833991319935306,0.921929696064618
+Marquette Park,asian,0,0.32904564689316
+Marquette Park,Chinese,0.82965988626375,0.82965988626375
+Midway,All,0.440658483801899,0.660397798180882
+Midway,American,0.394331095982161,0.519331095982161
+Midway,Italian,-1,-1
+Midway,Sandwiches,-1,-1
+Midway,Pizza,-1,-1
+Midway,Mexican,-1,-1
+Midway,asian,-1,-1
+Midway,Chinese,-1,-1
+Pilsen/Heart of Chicago/Little Village,All,0,0.301029995663981
+Pilsen/Heart of Chicago/Little Village,American,0,0
+Pilsen/Heart of Chicago/Little Village,Italian,0.172270623229357,0.385994935494171
+Pilsen/Heart of Chicago/Little Village,Sandwiches,0,0
+Pilsen/Heart of Chicago/Little Village,Pizza,0.671752673682476,0.777865099077759
+Pilsen/Heart of Chicago/Little Village,Mexican,0.797229407446029,0.899445513749687
+Pilsen/Heart of Chicago/Little Village,asian,0.333333333333333,0.591235204823028
+Pilsen/Heart of Chicago/Little Village,Chinese,-1,-1
+West,All,1,1
+West,American,0.262887397321441,0.43848822812543
+West,Italian,0.259861934848211,0.459369553496923
+West,Sandwiches,-1,-1
+West,Pizza,-1,-1
+West,Mexican,-1,-1
+West,asian,-1,-1
+West,Chinese,-1,-1
+Austin,All,0.905553859623938,0.905553859623938
+Austin,American,0.848029898529424,0.848029898529424
+Austin,Italian,1,1
+Austin,Sandwiches,1,1
+Austin,Pizza,0.630929753571457,0.630929753571457
+Austin,Mexican,0.5,0.5
+Austin,asian,-1,-1
+Austin,Chinese,-1,-1
+Garfield Park,All,0.708917808425432,0.763525671200738
+Garfield Park,American,0.353793041351743,0.613438879712459
+Garfield Park,Italian,0.633803359462909,0.772869458783499
+Garfield Park,Sandwiches,-1,-1
+Garfield Park,Pizza,-1,-1
+Garfield Park,Mexican,-1,-1
+Garfield Park,asian,-1,-1
+Garfield Park,Chinese,-1,-1
+Humboldt Park,All,0,0
+Humboldt Park,American,0.0454545454545455,0.319118177876347
+Humboldt Park,Italian,0.248388383258269,0.441153594312314
+Humboldt Park,Sandwiches,0,0.386852807234542
+Humboldt Park,Pizza,0.692441461309548,0.692441461309548
+Humboldt Park,Mexican,0,0
+Humboldt Park,asian,0.433562618284221,0.597068575565847
+Humboldt Park,Chinese,-1,-1
+Little Italy,All,-1,-1
+Little Italy,American,-1,-1
+Little Italy,Italian,-1,-1
+Little Italy,Sandwiches,-1,-1
+Little Italy,Pizza,-1,-1
+Little Italy,Mexican,-1,-1
+Little Italy,asian,-1,-1
+Little Italy,Chinese,-1,-1
+United Center,All,-1,-1
+United Center,American,-1,-1
+United Center,Italian,-1,-1
+United Center,Sandwiches,-1,-1
+United Center,Pizza,-1,-1
+United Center,Mexican,-1,-1
+United Center,asian,-1,-1
+United Center,Chinese,-1,-1
+Near North Suburbs,All,0,0.31106221229017
+Near North Suburbs,American,0.943067655807339,0.943067655807339
+Near North Suburbs,Italian,1,1
+Near North Suburbs,Sandwiches,0,0.315464876785729
+Near North Suburbs,Pizza,1,1
+Near North Suburbs,Mexican,0,0.327377181150798
+Near North Suburbs,asian,0.7,0.7
+Near North Suburbs,Chinese,-1,-1
+Harwood Heights,All,-1,-1
+Harwood Heights,American,-1,-1
+Harwood Heights,Italian,-1,-1
+Harwood Heights,Sandwiches,-1,-1
+Harwood Heights,Pizza,-1,-1
+Harwood Heights,Mexican,-1,-1
+Harwood Heights,asian,-1,-1
+Harwood Heights,Chinese,-1,-1
+Lincolnwood,All,-1,-1
+Lincolnwood,American,-1,-1
+Lincolnwood,Italian,-1,-1
+Lincolnwood,Sandwiches,-1,-1
+Lincolnwood,Pizza,-1,-1
+Lincolnwood,Mexican,-1,-1
+Lincolnwood,asian,-1,-1
+Lincolnwood,Chinese,-1,-1
+Niles,All,-1,-1
+Niles,American,-1,-1
+Niles,Italian,-1,-1
+Niles,Sandwiches,-1,-1
+Niles,Pizza,-1,-1
+Niles,Mexican,-1,-1
+Niles,asian,-1,-1
+Niles,Chinese,-1,-1
+Norridge,All,0,0.315464876785729
+Norridge,American,0.361762627144034,0.491022948403643

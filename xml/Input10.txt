@@ -1,0 +1,75 @@
+Prospect Heights,Italian,-1,-1
+Prospect Heights,Sandwiches,-1,-1
+Prospect Heights,Pizza,-1,-1
+Prospect Heights,Mexican,-1,-1
+Prospect Heights,asian,-1,-1
+Prospect Heights,Chinese,-1,-1
+North Shore Suburbs,All,-1,-1
+North Shore Suburbs,American,-1,-1
+North Shore Suburbs,Italian,-1,-1
+North Shore Suburbs,Sandwiches,-1,-1
+North Shore Suburbs,Pizza,-1,-1
+North Shore Suburbs,Mexican,-1,-1
+North Shore Suburbs,asian,-1,-1
+North Shore Suburbs,Chinese,-1,-1
+Evanston,All,-1,-1
+Evanston,American,-1,-1
+Evanston,Italian,-1,-1
+Evanston,Sandwiches,-1,-1
+Evanston,Pizza,-1,-1
+Evanston,Mexican,-1,-1
+Evanston,asian,-1,-1
+Evanston,Chinese,-1,-1
+Glencoe,All,-1,-1
+Glencoe,American,-1,-1
+Glencoe,Italian,-1,-1
+Glencoe,Sandwiches,-1,-1
+Glencoe,Pizza,-1,-1
+Glencoe,Mexican,-1,-1
+Glencoe,asian,-1,-1
+Glencoe,Chinese,-1,-1
+Highland Park,All,-1,-1
+Highland Park,American,-1,-1
+Highland Park,Italian,-1,-1
+Highland Park,Sandwiches,-1,-1
+Highland Park,Pizza,-1,-1
+Highland Park,Mexican,-1,-1
+Highland Park,asian,-1,-1
+Highland Park,Chinese,-1,-1
+Highwood,All,0.272110655207983,0.506657432164955
+Highwood,American,-1,-1
+Highwood,Italian,-1,-1
+Highwood,Sandwiches,-1,-1
+Highwood,Pizza,-1,-1
+Highwood,Mexican,-1,-1
+Highwood,asian,-1,-1
+Highwood,Chinese,0.451981321122453,0.619466665205349
+Lake Bluff,All,-1,-1
+Lake Bluff,American,-1,-1
+Lake Bluff,Italian,-1,-1
+Lake Bluff,Sandwiches,-1,-1
+Lake Bluff,Pizza,-1,-1
+Lake Bluff,Mexican,-1,-1
+Lake Bluff,asian,-1,-1
+Lake Bluff,Chinese,-1,-1
+Lake Forest,All,-1,-1
+Lake Forest,American,-1,-1
+Lake Forest,Italian,-1,-1
+Lake Forest,Sandwiches,-1,-1
+Lake Forest,Pizza,-1,-1
+Lake Forest,Mexican,-1,-1
+Lake Forest,asian,-1,-1
+Lake Forest,Chinese,-1,-1
+Wilmette,All,-1,-1
+Wilmette,American,-1,-1
+Wilmette,Italian,-1,-1
+Wilmette,Sandwiches,-1,-1
+Wilmette,Pizza,-1,-1
+Wilmette,Mexican,-1,-1
+Wilmette,asian,-1,-1
+Wilmette,Chinese,-1,-1
+Winnetka,All,-1,-1
+Winnetka,American,-1,-1
+Winnetka,Italian,-1,-1
+Winnetka,Sandwiches,-1,-1
+Winnetka,Pizza,-1,-1
